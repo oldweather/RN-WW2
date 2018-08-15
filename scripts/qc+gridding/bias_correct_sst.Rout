@@ -1,0 +1,55 @@
+
+R version 2.4.1 (2006-12-18)
+Copyright (C) 2006 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> invisible(options(echo = TRUE))
+> # Apply bucket_corrections to the new gridded SST datasets
+> library(PP)
+> 
+> Corrections_file <-
++    paste("/ibackup/cr1/hadobs/icoads/mds2.1_datasets/bias_corrections/SST/",
++          "data/bucket_median_HadSST2_newclim_HadNAT2_1+allunc_WW2adj_stn.pp",
++          sep="")
+>          
+> f<-pp.open.file(Corrections_file)
+> Corrections<-NULL
+> Dates<-list()
+> repeat {
++     pp<-pp.read(f)
++     if(is.null(pp)) { break }
++     Corrections<-c(Corrections,pp)
++     dstring <-sprintf("%4d%02d",pp@lbyr,pp@lbmon)
++     Dates[[dstring]]<-length(Corrections)
++ }
+> pp.close.file(f)    
+> 
+> f<-pp.open.file('../../gridded_fields/sst/5x5/both.pp')
+> fo<-pp.open.file('tst.pp',mode='w')
+> repeat {
++     pp<-pp.read(f)
++     if(is.null(pp)) { break }
++     dstring <-sprintf("%4d%02d",pp@lbyr,pp@lbmon)
++     if(!is.null(Dates[[dstring]])) {
++         pp@data <- pp@data + Corrections[[Dates[[dstring]]]]@data
++     }
++     pp.write(pp,fo)
++ }
+> pp.close.file(f)
+> pp.close.file(fo)
+> 
+> proc.time()
+[1]  93.465   0.400 104.656   0.000   0.000
+> 

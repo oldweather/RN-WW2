@@ -1,0 +1,1312 @@
+ANSON:21188210301061944  SCAPA               04ESE01bc 06  1020  052  049                                    
+ANSON:21188210301061944  SCAPA               08SE 01bc 07  10151 052  049                                    
+ANSON:21188210301061944  SCAPA               12SE 02c  07  10145 056  052    - 2                             
+ANSON:21188210301061944  SCAPA               16SE 03c  06  10184 055  052                                    
+ANSON:21188210301061944  SCAPA               18SE 03c  06  1014  054  0505                                   
+ANSON:21188210301061944  SCAPA               20SE 03c  06  10132    ~ 050                                    
+ANSON:21188210301061944  SCAPA               24E B03d  05  10126 052  049                                    
+ANSON:21188210402061944  SCAPA               04E B02d  04  10122 050  049                                    
+ANSON:21188210402061944  SCAPA               08E B02d  06  10122 052  050                      7.5           
+ANSON:21188210402061944  SCAPA               12SW 01cd 06  10143 052  050    - 2                             
+ANSON:21188210402061944  SCAPA               16NNW01bc 07  10155 054  052                                    
+ANSON:21188210402061944  SCAPA               18NNW01bc 07  10157 0505 057                                    
+ANSON:21188210402061944  SCAPA               20NW 01c  07  10138 055  053                                    
+ANSON:21188210402061944  SCAPA               24NNW03b  08  1011  051  049                                    
+ANSON:21188210503061944  SCAPA               04C  00b  06  10112 050     ~                                   
+ANSON:21188210503061944  SCAPA               08  ~01b  01  1016  051  047                                    
+ANSON:21188210503061944  SCAPA               12SE 01bc 07      ~ 051  051   ~- 2                             
+ANSON:21188210503061944  SCAPA               16SE 02c  07  10146 051  053                                    
+ANSON:21188210503061944  SCAPA               18SE 01c   ~  10107 051     ~                                   
+ANSON:21188210503061944  SCAPA               20SE 01cd 06      ~    ~    ~                                   
+ANSON:21188210503061944  SCAPA               24  ~01R  05      ~ 053  052                                    
+ANSON:21188210604061944  SCAPA               04S  02o  04   9983 054  053                                    
+ANSON:21188210604061944  SCAPA               08  ~01d  04   995  055     ~                                   
+ANSON:21188210604061944  SCAPA               12S B01d  04   993  060  058    - 2                             
+ANSON:21188210604061944  SCAPA               16SSE01c  05      ~ 059  056                                    
+ANSON:21188210604061944  SCAPA               18SSE03o  05      ~    ~ 055 56                                 
+ANSON:21188210604061944  SCAPA               20S  02  ~05      ~ 056  054 56                                 
+ANSON:21188210604061944  SCAPA               21             9874                                             
+ANSON:21188210604061944  SCAPA               22                ~                                             
+ANSON:21188210604061944  SCAPA               23                ~                                             
+ANSON:21188210604061944  SCAPA               24SW 02bc 05   9825 054  052                                    
+ANSON:21188210705061944  SCAPA               01             9812                                             
+ANSON:21188210705061944  SCAPA               02             9801                                             
+ANSON:21188210705061944  SCAPA               03                ~                                             
+ANSON:21188210705061944  SCAPA               04S  03R  06      ~    ~ 049                                    
+ANSON:21188210705061944  SCAPA               05                ~                                             
+ANSON:21188210705061944  SCAPA               06                ~                                             
+ANSON:21188210705061944  SCAPA               07                ~                                             
+ANSON:21188210705061944  SCAPA               08SW 05  ~06   979     ~    ~56                                 
+ANSON:21188210705061944  SCAPA               09                ~                                             
+ANSON:21188210705061944  SCAPA               10                ~                                             
+ANSON:21188210705061944  SCAPA               11                ~                                             
+ANSON:21188210705061944  SCAPA               12NW 06  ~06      ~    ~ 051 50 - 2                             
+ANSON:21188210705061944  SCAPA               13             9813                                             
+ANSON:21188210705061944  SCAPA               14                ~                                             
+ANSON:21188210705061944  SCAPA               15                ~                                             
+ANSON:21188210705061944  SCAPA               16  ~05d  05      ~    ~    ~  ~                                
+ANSON:21188210705061944  SCAPA               17                ~                                             
+ANSON:21188210705061944  SCAPA               18W  05  ~05      ~ 050  049 50                                 
+ANSON:21188210705061944  SCAPA               19             9869                                             
+ANSON:21188210705061944  SCAPA               20W  05d  04   9864    ~    ~56                                 
+ANSON:21188210705061944  SCAPA               21             9869                                             
+ANSON:21188210705061944  SCAPA               22             9873                                             
+ANSON:21188210705061944  SCAPA               23             9878                                             
+ANSON:21188210705061944  SCAPA               24W B04d  04   988     ~    ~  ~                                
+ANSON:21188210806061944  SCAPA               01             9909                                             
+ANSON:21188210806061944  SCAPA               02             9912                                             
+ANSON:21188210806061944  SCAPA               03             9915                                             
+ANSON:21188210806061944  SCAPA               04W B05  ~03   9916 057  056 49                                 
+ANSON:21188210806061944  SCAPA               05             992                                              
+ANSON:21188210806061944  SCAPA               06             9887                                             
+ANSON:21188210806061944  SCAPA               07             990                                              
+ANSON:21188210806061944  SCAPA               08NW 04d  05   9938 052     ~49                                 
+ANSON:21188210806061944  SCAPA               12NNE02c  05   9968 051  054    - 2                             
+ANSON:21188210806061944  SCAPA               16NNE02c  05  10047 060  0555                                   
+ANSON:21188210806061944  SCAPA               18ENE02c  05  10078 062  053                                    
+ANSON:21188210806061944  SCAPA               20ENE02c  05  10069 055  052                                    
+ANSON:21188210806061944  SCAPA               24NE 03BC 07  1013  052  050                                    
+ANSON:21188210907061944  SCAPA               04  ~02bc 06  10143 052     ~                                   
+ANSON:21188210907061944  SCAPA               08NW 03bc 06  10125 055  054                                    
+ANSON:21188210907061944  SCAPA               12NW 03c  06  10123 051  053   ~- 2                             
+ANSON:21188210907061944  SCAPA               16NW 04c  06  10112 055  052                                    
+ANSON:21188210907061944  SCAPA               18NW 03c  06  10131 055  052                                    
+ANSON:21188210907061944  SCAPA               20NNW04c  06  10107    ~ 051                                    
+ANSON:21188210907061944  SCAPA               24NNW03c  06  10122 0515 049 50                                 
+ANSON:21188211008061944  SCAPA               04  ~03  ~07  1011     ~    ~                                   
+ANSON:21188211008061944  SCAPA               08  ~02  ~ ~  10089    ~    ~                                   
+ANSON:21188211008061944  SCAPA               12  ~03c  06      ~    ~ 051    - 2                             
+ANSON:21188211008061944  SCAPA               16NNW02c  06  10069 058  054                                    
+ANSON:21188211008061944  SCAPA               18NNW01c  06  10052 056  052                                    
+ANSON:21188211008061944  SCAPA               20NW 01c  06  10053 054  051                                    
+ANSON:21188211008061944  SCAPA               24NNW01c  06  10045 053     ~51                                 
+ANSON:21188211109061944  SCAPA               04NNW01c  06  10022 052  050 50                                 
+ANSON:21188211109061944  SCAPA               08NNW01o  06   9991 051  049                                    
+ANSON:21188211109061944  SCAPA               12NW 01o  06   9977 054  051 50 - 2                             
+ANSON:21188211109061944  SCAPA               16WNW02o  06   9991 059  052                                    
+ANSON:21188211109061944  SCAPA               18W  02o  06   9964 054  051                                    
+ANSON:21188211109061944  SCAPA               20W  01  ~04   9966 058  051                                    
+ANSON:21188211109061944  SCAPA               24W B01d  06   9973 052  051                                    
+ANSON:21188211210061944  SCAPA               04W B01c  04   9972 054  050                                    
+ANSON:21188211210061944  SCAPA               08NW   c  05   9962 053  051                                    
+ANSON:21188211210061944  SCAPA               12NW   c  06   9991 059  055    - 2                             
+ANSON:21188211210061944  SCAPA               16WNW03c  06   999  0565 054                                    
+ANSON:21188211210061944  SCAPA               18NW 01o  06   9998 057  054                                    
+ANSON:21188211210061944  SCAPA               20WNW  bc 06  1001  054  052 52                                 
+ANSON:21188211210061944  SCAPA               24SW 02bc 01  1002     ~ 051 51                                 
+ANSON:21188211917061944  SCAPA               04NNW01bc 06  10228 056  053                                    
+ANSON:21188211917061944  SCAPA               08NW 01bc 07  10238 057  060                    212.6           
+ANSON:21188211917061944  SCAPA               12NW 01bc 07  1025  059  064    - 2                             
+ANSON:21188211917061944  SCAPA               16NW 01c  06  10252 059  056                                    
+ANSON:21188211917061944  SCAPA               18WNW01c  06  10249 061  057                                    
+ANSON:21188211917061944  SCAPA               20WNW01c  06  10246 0595 0555                                   
+ANSON:21188211917061944  SCAPA               24WNW01c  06  10243    ~ 056                                    
+DUKE_OF_YORK:21192940301061944  SCAPA               04SE 01bc     10113 050  049 49                                 
+DUKE_OF_YORK:21192940301061944  SCAPA               08SE 01c      10165 048  047 48                                 
+DUKE_OF_YORK:21192940301061944  SCAPA               12SE 01c      10141 050  046 48 - 2                             
+DUKE_OF_YORK:21192940301061944  SCAPA               16S  01c      10126 048  046 48                                 
+DUKE_OF_YORK:21192940301061944  SCAPA               18SE 02o      10114 047  046 48                                 
+DUKE_OF_YORK:21192940301061944  SCAPA               20SE 01o      1011  047  046 48                                 
+DUKE_OF_YORK:21192940301061944  SCAPA               24ESE01od     10103 047  046 48                                 
+DUKE_OF_YORK:21192940402061944  SCAPA               04ESE01od     1012  047  046 48                                 
+DUKE_OF_YORK:21192940402061944  SCAPA               08C  00co     10122 047  046 48                                 
+DUKE_OF_YORK:21192940402061944  SCAPA               12C  00odg    10126 048  047 48 - 2                             
+DUKE_OF_YORK:21192940402061944  SCAPA               16C  00cir    10141 049  047 47                                 
+DUKE_OF_YORK:21192940402061944  SCAPA               18NW 01c      10155 049  047 50                                 
+DUKE_OF_YORK:21192940402061944  SCAPA               20C  00c      10155 049  047 50                                 
+DUKE_OF_YORK:21192940402061944  SCAPA               24NW 01c      10154 047  045 49                                 
+DUKE_OF_YORK:21192940503061944  SCAPA               04C  00b      1019  045  045 48                                 
+DUKE_OF_YORK:21192940503061944  SCAPA               08C  00b      10145 047  042 48                                 
+DUKE_OF_YORK:21192940503061944  SCAPA               12C  00b      1011  050  046 50 - 2                             
+DUKE_OF_YORK:21192940503061944  SCAPA               16S  01bc     10114 050  045 45                                 
+DUKE_OF_YORK:21192940503061944  SCAPA               18S  01o      10117 047  044 45                                 
+DUKE_OF_YORK:21192940503061944  SCAPA               20S  01odm        ~ 049  048 48                                 
+DUKE_OF_YORK:21192940503061944  SCAPA               24SSE01  ~ ~  10016 047  046 45                                 
+DUKE_OF_YORK:21192940604061944  SCAPA               04SSE01r      10001 050  049 48                                 
+DUKE_OF_YORK:21192940604061944  SCAPA               08SW 01cr      9942 051  050 48                                 
+DUKE_OF_YORK:21192940604061944  SCAPA               12SW 01rr      9876 051  050 47 - 2                             
+DUKE_OF_YORK:21192940604061944  SCAPA               16SSE01oc      9862 054  050 48                                 
+DUKE_OF_YORK:21192940604061944  SCAPA               18SSE01r          ~ 053  052 48                                 
+DUKE_OF_YORK:21192940604061944  SCAPA               20SSE02  ~     9846 050  052 48                                 
+DUKE_OF_YORK:21192940604061944  SCAPA               24SSE01  ~     9843 051  048 47                                 
+DUKE_OF_YORK:21192940705061944  SCAPA               04SSW02ro      9785 048  047 45                                 
+DUKE_OF_YORK:21192940705061944  SCAPA               08SSW04ro      9796 049  048 48                                 
+DUKE_OF_YORK:21192940705061944  SCAPA               12W  06Ro      9802 049  048 48 - 2                             
+DUKE_OF_YORK:21192940705061944  SCAPA               16W  06Ro      9872    ~ 047 47                                 
+DUKE_OF_YORK:21192940705061944  SCAPA               18W  07Ro      9857 045  046 48                                 
+DUKE_OF_YORK:21192940705061944  SCAPA               20W  07odg     9892 048  046 48                                 
+DUKE_OF_YORK:21192940705061944  SCAPA               24W  05ogi     9897 050  048 47                                 
+DUKE_OF_YORK:21192940806061944  SCAPA               04W  05  ~     992  050  048 47                                 
+DUKE_OF_YORK:21192940806061944  SCAPA               08W  04or      9909 049  048 47                                 
+DUKE_OF_YORK:21192940806061944  SCAPA               12W  02  ~     996  050  049 47 - 2                             
+DUKE_OF_YORK:21192940806061944  SCAPA               16NE 01c      10322 051  049 50                                 
+DUKE_OF_YORK:21192940806061944  SCAPA               18NE 03o      10053 050  048 47                                 
+DUKE_OF_YORK:21192940806061944  SCAPA               20NE 03o      10006 050  048 47                                 
+DUKE_OF_YORK:21192940806061944  SCAPA               24N  02o      10115 049  047 47                                 
+DUKE_OF_YORK:21192940907061944  SCAPA               04N B02bc     10165 048  047 47                                 
+DUKE_OF_YORK:21192940907061944  SCAPA               08NW 02bc     10192 050  049 48                                 
+DUKE_OF_YORK:21192940907061944  SCAPA               12NW 01c      10124 048  046 49 - 2                             
+DUKE_OF_YORK:21192940907061944  SCAPA               16NW 01c      10125 048  046 48                                 
+DUKE_OF_YORK:21192940907061944  SCAPA               18NW 02c          ~ 049  048 48                                 
+DUKE_OF_YORK:21192940907061944  SCAPA               20NW 01c          ~ 049  046 48                                 
+DUKE_OF_YORK:21192940907061944  SCAPA               24NW 03c      10104 047  045 47                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          04NNW02odg    10107 045  044   ~                                
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          08WNW02  ~    10121 047  046   ~                 72.7           
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          10   03odg                   49                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          12NW 03o     ~10138 048  044 50 - 2                             
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          13                  048  043 50                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          14                  049  046 50                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          15           ~      049  047 56                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          16NW 02c      10116 049  048 50                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          18  ~02c      10104 048  047 47                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          20NW 02c      10064 048  047 47                                 
+DUKE_OF_YORK:21192941008061944  SCAPA FLOW          24NW 02c      10014 047  046 46                                 
+DUKE_OF_YORK:21192941109061944  SCAPA               04W  01o          ~    ~ 045 49                                 
+DUKE_OF_YORK:21192941109061944  SCAPA               08NW 01or         ~ 041  046 41                  81.5           
+DUKE_OF_YORK:21192941109061944  SCAPA               12NW 01  ~     9995 041  048 51 - 2                             
+DUKE_OF_YORK:21192941109061944  SCAPA               16W  02  ~ ~      ~ 041  041   ~                                
+DUKE_OF_YORK:21192941109061944  SCAPA               18W  03oc     1000  049  048   ~                                
+DUKE_OF_YORK:21192941109061944  SCAPA               20W  02oc 06   9976 049  048 45                                 
+DUKE_OF_YORK:21192941109061944  SCAPA               24W  01od    ~    ~    ~ 048 48                                 
+DUKE_OF_YORK:21192941210061944  SCAPA FLOW          04C  00oid     9963 049  048 48                                 
+DUKE_OF_YORK:21192941210061944  SCAPA FLOW          08NW 01oid     9984 047  048 48                                 
+DUKE_OF_YORK:21192941210061944  SCAPA FLOW          12N  02c       9914 050  049 46 - 2                             
+DUKE_OF_YORK:21192941210061944  SCAPA FLOW          16NNW02c       9982 050  048 47                                 
+DUKE_OF_YORK:21192941210061944  SCAPA FLOW          18NNW01oid     9992 050  049 42                                 
+DUKE_OF_YORK:21192941210061944  SCAPA FLOW          20NNW01od     10045 050  047 48                                 
+DUKE_OF_YORK:21192941210061944  SCAPA FLOW          24NNW02c    101005  050  049   ~                                
+DUKE_OF_YORK:21192941311061944DASCAPA FLOW          04W  01c    101002  049  047 49                                 
+DUKE_OF_YORK:21192941311061944DASCAPA FLOW          08C  00c      10008 049  048 49                 222.0           
+DUKE_OF_YORK:21192941311061944DASCAPA FLOW          12C  00c      10011 052  050 49 - 2                             
+DUKE_OF_YORK:21192941311061944DASCAPA FLOW          16NW 02c      10025 052  049 49                                 
+DUKE_OF_YORK:21192941311061944DASCAPA FLOW          18NW 04c      10016 053  049 48                                 
+DUKE_OF_YORK:21192941311061944DASCAPA FLOW          20NW 04c       9997 055  049 47                                 
+DUKE_OF_YORK:21192941311061944DASCAPA FLOW          24NW 03bc      9986 054  047 47                                 
+DUKE_OF_YORK:21192942018061944  SCAPA               04C  00o      10254 050  049 52                                 
+DUKE_OF_YORK:21192942018061944  SCAPA               08C  00o      1025  053  052 52                                 
+DUKE_OF_YORK:21192942018061944  SCAPA               12C  00o      10244 055  054   ~- 2                             
+DUKE_OF_YORK:21192942018061944  SCAPA               16C  00o      10251 056  054 53                                 
+DUKE_OF_YORK:21192942018061944  SCAPA               18C  00o      10276 059  051 53                                 
+DUKE_OF_YORK:21192942018061944  SCAPA               20C  00o      10252 059  058 52                                 
+DUKE_OF_YORK:21192942018061944  SCAPA               24C  00o      10256 056  056 53                                 
+DUKE_OF_YORK:21192942119061944  SCAPA               04C  00o      10281    ~ 053 53                                 
+DUKE_OF_YORK:21192942119061944  SCAPA               08C  00o      10289 052  050 53                                 
+DUKE_OF_YORK:21192942119061944  SCAPA               12C  00  ~    10279 053  053   ~- 2                             
+DUKE_OF_YORK:21192942119061944  SCAPA               16C  00o      10278 058  056 54                                 
+DUKE_OF_YORK:21192942119061944  SCAPA               18C  00o      10304    ~ 052   ~                                
+DUKE_OF_YORK:21192942119061944  SCAPA               20  ~01bc     10287    ~ 049 53                                 
+DUKE_OF_YORK:21192942119061944  SCAPA               24  ~02cd         ~ 048  047 52                                 
+DUKE_OF_YORK:21192942220061944  SCAPA               04  ~02od     10386 050  049   ~                                
+DUKE_OF_YORK:21192942220061944  SCAPA               08NW 01od         ~ 050  050   ~                                
+DUKE_OF_YORK:21192942220061944  SCAPA               12NW 01o          ~ 050  049   ~- 2                             
+DUKE_OF_YORK:21192942220061944  SCAPA               16NNW01  ~        ~ 051  051   ~                                
+DUKE_OF_YORK:21192942220061944  SCAPA               18NNW01o          ~ 051  050   ~                                
+DUKE_OF_YORK:21192942220061944  SCAPA               20NNW01od         ~ 051  051 52                                 
+DUKE_OF_YORK:21192942220061944  SCAPA               24NNW01o      10292 051  050 53                                 
+DUKE_OF_YORK:21192942321061944  SCAPA               04NW 02bc     10296 049  047 53                                 
+DUKE_OF_YORK:21192942321061944  SCAPA               08NNW03c          ~ 050  050 53                                 
+DUKE_OF_YORK:21192942321061944  SCAPA               12NNW02bc     10294 052  051 53 - 2                             
+DUKE_OF_YORK:21192942321061944  SCAPA               16NW 02c      10274 051  051 53                                 
+DUKE_OF_YORK:21192942321061944  SCAPA               18NW 02c      10268 052  052 54                                 
+DUKE_OF_YORK:21192942321061944  SCAPA               20NW 02  ~    10264 052  051 54                                 
+DUKE_OF_YORK:21192942321061944  SCAPA               24NW 02cd     10268 052  051 54                                 
+DUKE_OF_YORK:21192942422061944  SCAPA               04NNW02od     10244 051  050 53                                 
+DUKE_OF_YORK:21192942422061944  SCAPA               08NW 01od         ~ 051  050 53                                 
+DUKE_OF_YORK:21192942422061944  SCAPA               12NW 01od     10216 051  051 53 - 2                             
+DUKE_OF_YORK:21192942422061944  SCAPA               16NNW01od     10211 052  052 53                                 
+DUKE_OF_YORK:21192942422061944  SCAPA               18N B01o      10215 052  051 53                                 
+DUKE_OF_YORK:21192942422061944  SCAPA               20NNE01o      10204 052  052   ~                                
+DUKE_OF_YORK:21192942422061944  SCAPA               24NNE01o      10214 050  048   ~                                
+DUKE_OF_YORK:21192942523061944  SCAPA               04NE 02c      10214 049  047   ~                                
+DUKE_OF_YORK:21192942523061944  SCAPA               08NNW01c      10195 049  047   ~                                
+DUKE_OF_YORK:21192942523061944  SCAPA               12  ~01c      10218 050  049   ~- 2                             
+DUKE_OF_YORK:21192942523061944  SCAPA               16  ~01bc         ~    ~ 051   ~                                
+DUKE_OF_YORK:21192942523061944  SCAPA               18  ~01bc     10204 052  051 50                                 
+DUKE_OF_YORK:21192942523061944  SCAPA               20  ~01c      10204 052  051   ~                                
+DUKE_OF_YORK:21192942523061944  SCAPA               24W  02c      10226    ~    ~53                                 
+DUKE_OF_YORK:21192942624061944  SCAPA               04W  02od     10153 052  051   ~                                
+DUKE_OF_YORK:21192942624061944  SCAPA               08W  02od     10192 051  050   ~                                
+DUKE_OF_YORK:21192942624061944  SCAPA               12W  03  ~    10116 052  051   ~- 2                             
+DUKE_OF_YORK:21192942624061944  SCAPA               16W  02c          ~ 054  053   ~                                
+DUKE_OF_YORK:21192942624061944  SCAPA               18W  01  ~        ~ 052  051 52                                 
+DUKE_OF_YORK:21192942624061944  SCAPA               20W  01  ~    10064 051  050 52                                 
+DUKE_OF_YORK:21192942624061944  SCAPA               24W  01  ~    10046 049  049   ~                                
+DUKE_OF_YORK:21192942725061944  SCAPA               04W  01bc     10028 048  047 52                                 
+DUKE_OF_YORK:21192942725061944  SCAPA               08W  01bc     10016 049  048 53                                 
+DUKE_OF_YORK:21192942725061944  SCAPA               12SW 01bc         ~ 052  049 53 - 2                             
+DUKE_OF_YORK:21192942725061944  SCAPA               16SSW01bc     10034 054  051 53                                 
+DUKE_OF_YORK:21192942725061944  SCAPA               18SW 01bc     10035 053  051 53                                 
+DUKE_OF_YORK:21192942725061944  SCAPA               20SW 01bc     1003  055  052 53                                 
+DUKE_OF_YORK:21192942725061944  SCAPA               24E  01bc     10032 052  051 53                                 
+DUKE_OF_YORK:21192942826061944  SCAPA               04E  01c          ~ 050  050 53                                 
+DUKE_OF_YORK:21192942826061944  SCAPA               08E  01c      10023 050  050   ~                                
+DUKE_OF_YORK:21192942826061944  SCAPA               12E  01b          ~    ~ 052   ~- 2                             
+DUKE_OF_YORK:21192942826061944  SCAPA               16E  01bc     10047 054  053 53                                 
+DUKE_OF_YORK:21192942826061944  SCAPA               18E  01bc         ~ 054  052 53                                 
+DUKE_OF_YORK:21192942826061944  SCAPA               20E  01bc     10032 053  052   ~                                
+DUKE_OF_YORK:21192942826061944  SCAPA               24E  02o      10013 052  051 53                                 
+DUKE_OF_YORK:21192942927061944  SCAPA               04E B01od      9984 052  051 53                                 
+DUKE_OF_YORK:21192942927061944  SCAPA               08ENE02  ~     997  053  051 53                  95.8           
+DUKE_OF_YORK:21192942927061944  SCAPA               12NE 03r  0521 9927 053  052 53 - 2                             
+DUKE_OF_YORK:21192942927061944  SCAPA               13ENE03  ~  21                                                  
+DUKE_OF_YORK:21192942927061944  SCAPA               16ENE02orr     9886 0535 052 53                                 
+DUKE_OF_YORK:21192942927061944  SCAPA               18E  02fcd     9866 053  053 53                                 
+DUKE_OF_YORK:21192942927061944  SCAPA               20ESE02fc      9877 052  051 53                                 
+DUKE_OF_YORK:21192942927061944  SCAPA               24SE 02bc      9885 047  046 525                                
+DUKE_OF_YORK:21192943028061944  SCAPA               04C  00o       9894 051  050 53                                 
+DUKE_OF_YORK:21192943028061944  SCAPA               08C  00b       9895 050  050 53                                 
+DUKE_OF_YORK:21192943028061944  SCAPA               12C  00b       9924 054  051 53 - 2                             
+DUKE_OF_YORK:21192943028061944  SCAPA               16C  00bc      9948 054  052 53                                 
+DUKE_OF_YORK:21192943028061944  SCAPA               18C  00bc      9932 056  054 53                                 
+DUKE_OF_YORK:21192943028061944  SCAPA               20C  00bcp     9934 055  054 53                                 
+DUKE_OF_YORK:21192943028061944  SCAPA               24NE 01c       9955 052  051 53                                 
+DUKE_OF_YORK:21192943129061944  SCAPA               04NW 01bc      9984 051  049   ~                                
+DUKE_OF_YORK:21192943129061944  SCAPA               08NW 02c      10022 053  052553                                 
+DUKE_OF_YORK:21192943129061944  SCAPA               12NW 01c      10058 059  058 54 - 2                             
+DUKE_OF_YORK:21192943129061944  SCAPA               16NW 01c          ~ 053  050 54                                 
+DUKE_OF_YORK:21192943129061944  SCAPA               18NW 01c      10068 060  058 54                                 
+DUKE_OF_YORK:21192943129061944  SCAPA               20NW 01bc     10067 054  053 54                                 
+DUKE_OF_YORK:21192943129061944  SCAPA               24NW 01bc     1004  057  057 52                                 
+DUKE_OF_YORK:21192943230061944  SCAPA               04ENE01o      10101 057  057 54                                 
+DUKE_OF_YORK:21192943230061944  SCAPA               08E  01c          ~ 054  054 54                                 
+DUKE_OF_YORK:21192943230061944  SCAPA               12E  01o      10112 054  054 54 - 2                             
+DUKE_OF_YORK:21192943230061944  SCAPA               16E  01  ~        ~ 060  058   ~                                
+DUKE_OF_YORK:21192943230061944  SCAPA               18ENE01c          ~    ~ 058   ~                                
+DUKE_OF_YORK:21192943230061944  SCAPA               20E  01  ~        ~    ~ 051 54                                 
+DUKE_OF_YORK:21192943230061944  SCAPA               24E  02o      10112 050     ~  ~                                
+FENCER:21194241614061944  SCAPA FLOW          04NNE02  ~   ~10027 056                                         
+FENCER:21194241614061944  SCAPA FLOW          08WNW01bc 071010034    ~                                        
+FENCER:21194241614061944  SCAPA FLOW          12N  01bc 081010068 059         - 2                             
+FENCER:21194241614061944  SCAPA FLOW          16N  03bc 081010095 061                                         
+FENCER:21194241614061944  SCAPA FLOW          18NNW03bc 072110115 059                                         
+FENCER:21194241614061944  SCAPA FLOW          20NW  ~bc 072110129 057                                         
+FENCER:21194241614061944  SCAPA FLOW          24NW 06bc 072110142 052                                         
+FENCER:21194241715061944  SCAPA FLOW          04WNW05bc 072110156 052                                         
+FENCER:21194241715061944  SCAPA FLOW          08NW 03  ~08 ~10159 052                                         
+FENCER:21194241715061944  SCAPA FLOW          12WNW03bc 081110152 058         - 2                             
+FENCER:21194241715061944  SCAPA FLOW          16NNW03bc 081010125 061                                         
+FENCER:21194241715061944  SCAPA FLOW          20WSW05c  072110085    ~                                        
+FENCER:21194241715061944  SCAPA FLOW          24SW 04d  0321    ~    ~                                        
+FENCER:21194241816061944  SCAPA FLOW          04  ~ ~c  06 ~    ~    ~                                        
+FENCER:21194241816061944  SCAPA FLOW          08W   ~  ~ ~ ~    ~    ~                                        
+FENCER:21194241816061944  SCAPA FLOW          12NE 06  ~ ~ ~    ~    ~        - 2                             
+FENCER:21194241816061944  SCAPA FLOW          16NE 04  ~0621    ~    ~                                        
+FENCER:21194241816061944  SCAPA FLOW          18NNE ~bc 07 ~    ~    ~                                        
+FENCER:21194241816061944  SCAPA FLOW          20NNE04  ~ ~21    ~    ~                                        
+FENCER:21194241816061944  SCAPA FLOW          24  ~02  ~ ~ ~    ~    ~                                        
+FENCER:21194242018061944  SCAPA FLOW          04  ~02  ~ ~ ~    ~    ~                                        
+FENCER:21194242018061944  SCAPA FLOW          08SSE01  ~ ~ ~    ~    ~                                        
+FENCER:21194242018061944  SCAPA FLOW          12SE 01c  061010244 066         - 2                             
+FENCER:21194242018061944  SCAPA FLOW          16SE 02  ~07 ~10254    ~                                        
+FENCER:21194242018061944  SCAPA FLOW          18SE 02  ~071010254 065                                         
+FENCER:21194242018061944  SCAPA FLOW          20SE 02  ~071010257 065                                         
+FENCER:21194242018061944  SCAPA FLOW          24W  01c  07 ~    ~    ~                                        
+FENCER:21194242725061944D SCAPA FLOW          04SSW03c  073510007    ~     52                                 
+FENCER:21194242725061944D SCAPA FLOW          08WSW02bc 081010027 057      50                     ~           
+FENCER:21194242725061944D SCAPA FLOW          12SW 03bc 080010027 063         - 2                             
+FENCER:21194242725061944D SCAPA FLOW          16NE 01bc 081110034    ~                                        
+FENCER:21194242725061944D SCAPA FLOW          18ENE02bc 081110031 062                                         
+FENCER:21194242725061944D SCAPA FLOW          20ENE03  ~081010134 059                                         
+FENCER:21194242725061944D SCAPA FLOW          24ENE03b  08 ~    ~    ~                                        
+FENCER:21194242826061944  SCAPA FLOW          04ENE03  ~ ~ ~    ~    ~                                        
+FENCER:21194242826061944  SCAPA FLOW          08ENE03c  08 ~    ~    ~                            ~           
+FENCER:21194242826061944  SCAPA FLOW          12E  03bc 081110037 067         - 2                             
+FENCER:21194242826061944  SCAPA FLOW          16E  03bc 081110034    ~                                        
+FENCER:21194242826061944  SCAPA FLOW          18E  02bc 0811    ~    ~                                        
+FENCER:21194242826061944  SCAPA FLOW          20E  03bc 081110024    ~                                        
+FENCER:21194242826061944  SCAPA FLOW          24E  04o  06 ~    ~    ~                                        
+FENCER:21194242927061944  SCAPA FLOW          04ENE04oc 0521 9992 059                                         
+FENCER:21194242927061944  SCAPA FLOW          08ENE04oc 0521 997  055                                         
+FENCER:21194242927061944  SCAPA FLOW          12ENE05or 0531 9909 056         - 2                             
+FENCER:21194242927061944  SCAPA FLOW          16E  06oc 0531 9888 059                                         
+FENCER:21194242927061944  SCAPA FLOW          18ENE06  ~0231 9882 058                                         
+FENCER:21194242927061944  SCAPA FLOW          20E  05bc 0231 9898 057                                         
+FENCER:21194242927061944  SCAPA FLOW          24E  03c  0521 9895 058                                         
+FENCER:21194243028061944  SCAPA FLOW          04S  02c  05 ~    ~    ~                                        
+FENCER:21194243028061944  SCAPA FLOW          08V  01bc 0700    ~ 057                                         
+FENCER:21194243028061944  SCAPA FLOW          12E  06bc 0731 9922    ~        - 2                             
+FENCER:21194243028061944  SCAPA FLOW          16E  03c   ~ ~    ~ 062                                         
+FENCER:21194243028061944  SCAPA FLOW          18E  02bc 0700 9932    ~                                        
+FENCER:21194243028061944  SCAPA FLOW          20E  02c  06 ~    ~ 058                                         
+FENCER:21194243028061944  SCAPA FLOW          24E   ~  ~07 ~ 9966    ~                                        
+FENCER:21194243129061944  SCAPA FLOW          04NNW04bc 0610 999     ~                                        
+FENCER:21194243129061944  SCAPA FLOW          08NE 03bc 0610    ~    ~                                        
+FENCER:21194243129061944  SCAPA FLOW          12NW  ~bc  ~1010047 057         - 2                             
+FENCER:21194243129061944  SCAPA FLOW          16NW 03bc  ~ ~    ~ 057                                         
+FENCER:21194243129061944  SCAPA FLOW          18NW 02bc 061010078 052                                         
+FENCER:21194243129061944  SCAPA FLOW          20NW 02bc 061010087 060                                         
+FENCER:21194243129061944  SCAPA FLOW          24NW 02bc 061010098 057                                         
+HOWE:21195560301061944  SCAPA FLOW          04SE 01b      10253 050  048 40                                 
+HOWE:21195560301061944  SCAPA FLOW          06SE 01b      1026  050  048 49                                 
+HOWE:21195560301061944  SCAPA FLOW          08SE 01b      1026  050  048 49                  62.6           
+HOWE:21195560301061944  SCAPA FLOW          12SSE02bc 072010235 049  045 50                                 
+HOWE:21195560301061944  SCAPA FLOW          16ESE04o  07201024  0485 046550                                 
+HOWE:21195560301061944  SCAPA FLOW          18ESE04c  072010217 049  041 50                                 
+HOWE:21195560301061944  SCAPA FLOW          20ESE02bc           049  048 50                                 
+HOWE:21195560301061944  SCAPA FLOW          24ESE01d            048  046 48                                 
+HOWE:21195560503061944  SCAPA FLOW          02NW 01b               ~ 045 45                                 
+HOWE:21195560503061944  SCAPA FLOW          04NW 01b            045  045                                    
+HOWE:21195560503061944  SCAPA FLOW          08NNW01bc              ~ 044 435                147.2           
+HOWE:21195560503061944  SCAPA FLOW          12NW 01bc           058  050 47                                 
+HOWE:21195560503061944  SCAPA FLOW          16SW 01bc           060  052 50                                 
+HOWE:21195560503061944  SCAPA FLOW          20ESE04om     10218 057  052 49                                 
+HOWE:21195560503061944  SCAPA FLOW          24ESE04Tp     10189 055  052                                    
+HOWE:21195560604061944  SCAPA FLOW          04SE 01  ~    10138 056  053 48                                 
+HOWE:21195560604061944  SCAPA FLOW          06            10118                                             
+HOWE:21195560604061944  SCAPA FLOW          08NNE01oR     10108 057  055 49                                 
+HOWE:21195560604061944  SCAPA FLOW          12NNE01oR     10088 059  057 50                                 
+HOWE:21195560604061944  SCAPA FLOW          14SE 01oR     1007  060  058 58                                 
+HOWE:21195560604061944  SCAPA FLOW          16SE 01c      10063 059  057 56                                 
+HOWE:21195560604061944  SCAPA FLOW          20SSW03or      9991 0575 055 50                                 
+HOWE:21195560604061944  SCAPA FLOW          22SSE02c            0585 050550                                 
+HOWE:21195560604061944  SCAPA FLOW          24SSE01c            053  050 50                                 
+HOWE:21195560705061944  SCAPA FLOW          04SW 04  ~     994  050  048548                                 
+HOWE:21195560705061944  SCAPA FLOW          08SW 04R       9945 050  048 48                                 
+HOWE:21195560705061944  SCAPA FLOW          12WNW07  ~     9956 057  051 49                                 
+HOWE:21195560705061944  SCAPA FLOW          16NW 08or     10008 051  049 48                                 
+HOWE:21195560705061944  SCAPA FLOW          18NW 07o      10018 050  048                                    
+HOWE:21195560705061944  SCAPA FLOW          20NW 07or     10028 050  049 50                                 
+HOWE:21195560705061944  SCAPA FLOW          24NW 06rm     10066 052  050 50                                 
+HOWE:21195560806061944  SCAPA FLOW          04NW 07or     1007  050  049 48                                 
+HOWE:21195560806061944  SCAPA FLOW          08NNW05rm     10068 051  050 48                  17.6           
+HOWE:21195560806061944  SCAPA FLOW          10        06                                                    
+HOWE:21195560806061944  SCAPA FLOW          12NNW04om   0010093             - 2                             
+HOWE:21195560806061944  SCAPA FLOW          16NE 04o      10167 053  040 50                                 
+HOWE:21195560806061944  SCAPA FLOW          18ENE03r    001017  051  048 52                                 
+HOWE:21195560806061944  SCAPA FLOW          24ENE01o            048  047 49                                 
+HOWE:21195560907061944  SCAPA FLOW          04ENE02b            048  048 52                                 
+HOWE:21195560907061944  SCAPA FLOW          08NNW03b            051  050 48                  40.9           
+HOWE:21195560907061944  SCAPA FLOW          12NW   bc           055  051 49                                 
+HOWE:21195560907061944  SCAPA FLOW          16NW 01o      10218 052  049                                    
+HOWE:21195560907061944  SCAPA FLOW          20NW 02c      10219 052  049 48                                 
+HOWE:21195560907061944  SCAPA FLOW          24NNW04c      1022  050  049 50                                 
+HOWE:21195561008061944  SCAPA FLOW          04NW 02om           050  047 46                                 
+HOWE:21195561008061944  SCAPA FLOW          08NNW02om   0010215 0497 048749                  72.8           
+HOWE:21195561008061944  SCAPA FLOW          12N  01  ~06111020  0483 048 50 - 2                             
+HOWE:21195561008061944  SCAPA FLOW          16NNE02  ~07121020  053  050 50                                 
+HOWE:21195561008061944  SCAPA FLOW          18NNW03o  071110195 0505 048550                                 
+HOWE:21195561008061944  SCAPA FLOW          20NNW03c  07121019  050  048 52                                 
+HOWE:21195561008061944  SCAPA FLOW          24NNW02o  0712                                                  
+HOWE:21195561109061944  SCAPA FLOW          04NW 02o  07111018                                              
+HOWE:21195561109061944  SCAPA FLOW          08NW 02o  07111015  052  049549                 486.3           
+HOWE:21195561109061944  SCAPA FLOW          12NW 02b      1014  052  049 50 - 2                             
+HOWE:21195561109061944  SCAPA FLOW          16NW 01c      10118 052  047   ~                                
+HOWE:21195561109061944  SCAPA FLOW          18NW 02  ~    10128 053  050 50                                 
+HOWE:21195561109061944  SCAPA FLOW          20NW 02o      10119 053  051 50                                 
+HOWE:21195561109061944  SCAPA FLOW          24NW 01  ~    10128 054  052 48                                 
+HOWE:21195561210061944DASCAPA FLOW          04NW 01c      1012  052  050 50                                 
+HOWE:21195561210061944DASCAPA FLOW          08NNW01m      10118 055  051 49                                 
+HOWE:21195561210061944DASCAPA FLOW          12NW 01bc      9988 058  055 50                                 
+HOWE:21195561210061944DASCAPA FLOW          16NW 01c       9993 0575 0535495                                
+HOWE:21195561210061944DASCAPA FLOW          18NW 01rm     1001  0537 049 50                                 
+HOWE:21195561210061944DASCAPA FLOW          20NW 01om     1001  051  049 50                                 
+HOWE:21195561210061944DASCAPA FLOW          24WNW01c  07  1002  050  049 49                                 
+HOWE:21195561816061944  SCAPA FLOW          04ESE01dm           055  054 53                                 
+HOWE:21195561816061944  SCAPA FLOW          08ESE01do           057  054 50                 116.2           
+HOWE:21195561816061944  SCAPA FLOW          12NE 03c            055  054 50 - 2                             
+HOWE:21195561816061944  SCAPA FLOW          16NE 02c            062  057 52                                 
+HOWE:21195561816061944  SCAPA FLOW          20N  03bc     1018  053  055 52                                 
+HOWE:21195561816061944  SCAPA FLOW          24N  01bc           053  053 51                                 
+HOWE:21195561917061944  SCAPA FLOW          04N  01c            052  051 50                                 
+HOWE:21195561917061944  SCAPA FLOW          08SE 01b            062  058 50                                 
+HOWE:21195561917061944  SCAPA FLOW          12NE 01c            067  059 515- 2                             
+HOWE:21195561917061944  SCAPA FLOW          16N  01bc     1024  063  058 52                                 
+HOWE:21195561917061944  SCAPA FLOW          18N  01bc     1024  060  055 52                                 
+HOWE:21195561917061944  SCAPA FLOW          20N  01bc     10238 058  055 54                                 
+HOWE:21195561917061944  SCAPA FLOW          24N  01Rm     10238 057  055 54                                 
+HOWE:21195562018061944  SCAPA FLOW          04N  01bc     1023  056  053 50                                 
+HOWE:21195562018061944  SCAPA FLOW          08NW 01c      10208 056  055 50                                 
+HOWE:21195562018061944  SCAPA FLOW          12NW 01       10318 059  057 50 - 2                             
+HOWE:21195562018061944  SCAPA FLOW          16SE 01c      10318 062  059553                                 
+HOWE:21195562018061944  SCAPA FLOW          18SE   c            063  060 54                                 
+HOWE:21195562018061944  SCAPA FLOW          20SE   c      10219 061  059 52                                 
+HOWE:21195562018061944  SCAPA FLOW          24NW 01c      10225 0595 058 51                                 
+HOWE:21195562119061944  SCAPA FLOW          04NW   c      1023  058  057 52                                 
+HOWE:21195562119061944  SCAPA FLOW          08WNW01c      10225 058  0565                                   
+HOWE:21195562119061944  SCAPA FLOW          12NW   c      1023  0635 059554 - 2                             
+HOWE:21195562119061944  SCAPA FLOW          16NW          10239 065  062 50                                 
+HOWE:21195562119061944  SCAPA FLOW          20NNW02bc     10278 062  059 52                                 
+HOWE:21195562119061944  SCAPA FLOW          24WNW  df     1024  059  057 50                                 
+HOWE:21195562220061944  SCAPA FLOW          04NW 01o      10268 055  053 50                                 
+HOWE:21195562220061944  SCAPA FLOW          08W  01oix    10259 059  057 53                                 
+HOWE:21195562220061944  SCAPA FLOW          12NW 01bc     10266 062  059 54 - 2                             
+HOWE:21195562220061944  SCAPA FLOW          14NW 01bc     1026  063  058 52                                 
+HOWE:21195562220061944  SCAPA FLOW          16NW 01bc     1026  063  059 52                                 
+HOWE:21195562220061944  SCAPA FLOW          18NW 01bc     1026  060  058 52                                 
+HOWE:21195562220061944  SCAPA FLOW          20NW 02c      1026  057  057 52                                 
+HOWE:21195562220061944  SCAPA FLOW          24NW 01c      1026  055  055 52                                 
+HOWE:21195562321061944  SCAPA FLOW          04NNW01c      1026  054  053 51                                 
+HOWE:21195562321061944  SCAPA FLOW          08NW 01c      1020  054  052551                                 
+HOWE:21195562321061944  SCAPA FLOW          12NNW02bc     10254 062  059 515- 2                             
+HOWE:21195562321061944  SCAPA FLOW          16NW 02bc     1024  068  060 52                                 
+HOWE:21195562321061944  SCAPA FLOW          18NW 02b      1024  059  054 50                                 
+HOWE:21195562321061944  SCAPA FLOW          20NNW02bc     1023  060  058 50                                 
+HOWE:21195562321061944  SCAPA FLOW          24NNW02c      10218 058  058 50                                 
+HOWE:21195562422061944  SCAPA FLOW          04SW 01rd     10198 056  054 50                                 
+HOWE:21195562422061944  SCAPA FLOW          12                              - 2                             
+HOWE:21195562422061944  SCAPA FLOW          16NNW01c      10165 0645 059 465                                
+HOWE:21195562422061944  SCAPA FLOW          18NNW01c      1016  062  060 45                                 
+HOWE:21195562422061944  SCAPA FLOW          20NNW01c      1016  059  057 45                                 
+HOWE:21195562422061944  SCAPA FLOW          24NNE02c      10165 0575 054 44                                 
+HOWE:21195562523061944  SCAPA FLOW          04NE 02c      1018  055  051 44                                 
+HOWE:21195562523061944  SCAPA FLOW          08N  02c      10163 0555 052 43                   7.4           
+HOWE:21195562523061944  SCAPA FLOW          12N  01c            057  054 44 - 2                             
+HOWE:21195562523061944  SCAPA FLOW          16NW 01c  070010229 0593 056353                                 
+HOWE:21195562523061944  SCAPA FLOW          20NW 01bc           059  051 52                                 
+HOWE:21195562523061944  SCAPA FLOW          24NW 01o            058  056 56                                 
+HOWE:21195562624061944  SCAPA FLOW          04NW 02m            057  055 48                                 
+HOWE:21195562624061944  SCAPA FLOW          08NNW04bcm    10158 056  049 48                  20.8           
+HOWE:21195562624061944  SCAPA FLOW          12WSW05m      10129 059  058 50 - 2                             
+HOWE:21195562624061944  SCAPA FLOW          16W  06d      1010  061  0595                                   
+HOWE:21195562624061944  SCAPA FLOW          20WSW03d      10085 058  058                                    
+HOWE:21195562624061944  SCAPA FLOW          24W  01c      1007  056  056                                    
+HOWE:21195562725061944  SCAPA FLOW          04SW 01bc     10003 053  053                                    
+HOWE:21195562725061944  SCAPA FLOW          08SW 01bc     1006  0535 054                                    
+HOWE:21195562725061944  SCAPA FLOW          12SW 01b      10062 059  057    - 2                             
+HOWE:21195562725061944  SCAPA FLOW          16SW 01c      1006  072  072                                    
+HOWE:21195562725061944  SCAPA FLOW          18SW 01c      1007  070  070                                    
+HOWE:21195562725061944  SCAPA FLOW          20SW 01bc     1007  074  074                                    
+HOWE:21195562725061944  SCAPA FLOW          24SW 01c      1007  057  058                                    
+HOWE:21195562826061944  SCAPA FLOW          04SSW01c      1007  055  056                                    
+HOWE:21195562826061944  SCAPA FLOW          08E  02c      1008  053  052                                    
+HOWE:21195562826061944  SCAPA FLOW          12ESE01bc     1007  0615 059 51 - 2                             
+HOWE:21195562826061944  SCAPA FLOW          16ESE01bc     1007  074  066 51                                 
+HOWE:21195562826061944  SCAPA FLOW          18ESE01c      1006  072  065 51                                 
+HOWE:21195562826061944  SCAPA FLOW          20ESE01bc     1006  070  066 51                                 
+HOWE:21195562826061944  SCAPA FLOW          24ENE03c      10058 062  060 51                                 
+HOWE:21195562927061944  SCAPA FLOW          04NE 02c      1004  058  058                                    
+HOWE:21195562927061944  SCAPA FLOW          08ENE03r      10015 056  058 51                  62.8           
+HOWE:21195562927061944  SCAPA FLOW          12NNW04o  0620      053  055 53 - 2                             
+HOWE:21195562927061944  SCAPA FLOW          16ESE03c       997  054  055                                    
+HOWE:21195562927061944  SCAPA FLOW          24NE 01b       9968 056      50                                 
+HOWE:21195563028061944  SCAPA FLOW          04NE 01b       998  054  052                                    
+HOWE:21195563028061944  SCAPA FLOW          08NE 01b       997  056  055 56                  92.1           
+HOWE:21195563028061944  SCAPA FLOW          12WSW01bc      994  055  054 54 - 2                             
+HOWE:21195563028061944  SCAPA FLOW          16E  02bc   111002  054  053 52                                 
+HOWE:21195563028061944  SCAPA FLOW          18E  01bc   111002  056  055 53                                 
+HOWE:21195563028061944  SCAPA FLOW          20NW 01r      1002  052  053 52                                 
+HOWE:21195563028061944  SCAPA FLOW          24NW 01c            055  055 54                                 
+HOWE:21195563129061944  SCAPA FLOW          04NW 02c            054  054 52                                 
+HOWE:21195563129061944  SCAPA FLOW          08NNW02c            057  056 52                 145.9           
+HOWE:21195563129061944  SCAPA FLOW          12WNW02c            060  059 51 - 2                             
+HOWE:21195563129061944  SCAPA FLOW          16SW 02c      1007  062  051 62                                 
+HOWE:21195563129061944  SCAPA FLOW          18SW 01bc     1006  062  061 52                                 
+HOWE:21195563129061944  SCAPA FLOW          20SW 01b      1006  062  061 52                                 
+HOWE:21195563129061944  SCAPA FLOW          24SSW01b      1007  059  058 51                                 
+INDOMITABLE:21196110401061944DASCAPA               04NE 02bc 05  1012  053  050                                    
+INDOMITABLE:21196110401061944DASCAPA               08ENE02bc 07  1009  054  050 46                   215           
+INDOMITABLE:21196110401061944DASCAPA               12SE 04bc 07  1008  057  052 47 - 2                             
+INDOMITABLE:21196110401061944DASCAPA               16ESE03c  07211008  054  049 46                                 
+INDOMITABLE:21196110401061944DASCAPA               18ESE04c  07211006  056  051 46                                 
+INDOMITABLE:21196110401061944DASCAPA               20ESE04c  07211005  055  052 47                                 
+INDOMITABLE:21196110401061944DASCAPA               24SE 04c  07211004  050  050                                    
+INDOMITABLE:21196110502061944DASCAPA               04SE   c  07  1004  055  050                                    
+INDOMITABLE:21196110502061944DASCAPA               08NE 01c  07111006  055  051 48                   301           
+INDOMITABLE:21196110502061944DASCAPA               12NNE01c  07111008  056  052 52 - 2                             
+INDOMITABLE:21196110502061944DASCAPA               16C  00c  07101009  056  051                                    
+INDOMITABLE:21196110502061944DASCAPA               18WNW01c  07111008  057  052 47                                 
+INDOMITABLE:21196110502061944DASCAPA               20NW 02bc 09111009  059  053 47                                 
+INDOMITABLE:21196110502061944DASCAPA               24WNW02  ~06  10085    ~ 050                                    
+INDOMITABLE:21196110603061944DASCAPA               04NW 01bc 06  1010  061  050                                    
+INDOMITABLE:21196110603061944DASCAPA               08NW 01bc 07  1008  059  050                      175           
+INDOMITABLE:21196110603061944DASCAPA               12SE 02bc 07111006  056  049 44 - 2                             
+INDOMITABLE:21196110603061944DASCAPA               16ESE03c  072110045 060  055 47                                 
+INDOMITABLE:21196110603061944DASCAPA               18SSE03c  07211004  057  053 47                                 
+INDOMITABLE:21196110603061944DASCAPA               20SSE03c  05  1005  052  050 47                                 
+INDOMITABLE:21196110603061944DASCAPA               24ESE03c  06  1006  055  053                                    
+INDOMITABLE:21196110704061944  SCAPA               04WSW04bc 06  1007  054  052                                    
+INDOMITABLE:21196110704061944  SCAPA               08WSW03c  06  1007  056  054                                    
+INDOMITABLE:21196110704061944  SCAPA               12WSW03c  06  1007  058  056    - 2                             
+INDOMITABLE:21196110704061944  SCAPA               16WSW03c  06  1008  057  055                                    
+INDOMITABLE:21196110704061944  SCAPA               18SW 02c  06  10085 057  055                                    
+INDOMITABLE:21196110704061944  SCAPA               20SW 02c  05  1007  056  055                                    
+INDOMITABLE:21196110704061944  SCAPA               24SW 02c  06  1007  057  053                                    
+INDOMITABLE:21196110805061944  SCAPA               04SW 07c  05  1007  052  050                                    
+INDOMITABLE:21196110805061944  SCAPA               08WSW06c  05  1005  055  050                                    
+INDOMITABLE:21196110805061944  SCAPA               12W  06c  06  1005  055  052    - 2                             
+INDOMITABLE:21196110805061944  SCAPA               16W  09cqr05  1005  051  049                                    
+INDOMITABLE:21196110805061944  SCAPA               18W  07cr  ~  1004  052  050                                    
+INDOMITABLE:21196110805061944  SCAPA               20W  07cr 06  1004  055  051                                    
+INDOMITABLE:21196110805061944  SCAPA               24W  06c  07  1002  055  051                                    
+INDOMITABLE:21196110906061944  SCAPA               04W  06b  04  1005  051  050                                    
+INDOMITABLE:21196110906061944  SCAPA               08W  04b  04  1003  054  052                                    
+INDOMITABLE:21196110906061944  SCAPA               12W  02c  05  1002  056  052    - 2                             
+INDOMITABLE:21196110906061944  SCAPA               16W  02c  05  1004  055  052                                    
+INDOMITABLE:21196110906061944  SCAPA               18W  03c  05  1005  054  052                                    
+INDOMITABLE:21196110906061944  SCAPA               20W  04c  06  1005  054  051                                    
+INDOMITABLE:21196110906061944  SCAPA               24SW 02c  05  1005  053  050                                    
+INDOMITABLE:21196111007061944  SCAPA               04W  02bc 05  1005  055  053                                    
+INDOMITABLE:21196111007061944  SCAPA               08W  02bc 06  10045 053  051                                    
+INDOMITABLE:21196111007061944  SCAPA               12W  02c  06  10045 054  050    - 2                             
+INDOMITABLE:21196111007061944  SCAPA               16W  02c  06  1004  054  052                                    
+INDOMITABLE:21196111007061944  SCAPA               18W  02c  06  1004  054  051                                    
+INDOMITABLE:21196111007061944  SCAPA               20W  02c  06  1005  055  051                                    
+INDOMITABLE:21196111007061944  SCAPA               24SW 02c  06  1005  055  050                                    
+INDOMITABLE:21196111108061944  SCAPA               04W  02c  06  1004  055  053                                    
+INDOMITABLE:21196111108061944  SCAPA               08W  02c  06  1005  056  054                                    
+INDOMITABLE:21196111108061944  SCAPA               12W  02c  06  1004  052  050    - 2                             
+INDOMITABLE:21196111108061944  SCAPA               16W  02c  06  1004  054  050                                    
+INDOMITABLE:21196111108061944  SCAPA               18W  02c  06  1005  054  050                                    
+INDOMITABLE:21196111108061944  SCAPA               20W  02c  06  1005  053  049                                    
+INDOMITABLE:21196111108061944  SCAPA               24W  02c  06  10045 054  051                                    
+JAMAICA:21196230301061944  SCAPA               04ESE03bc 061010161 045  046 45                                 
+JAMAICA:21196230301061944  SCAPA               08ESE03bc 071010148 047  047 46                                 
+JAMAICA:21196230301061944  SCAPA               12SE 03c  071010126 052  044 47 - 2                             
+JAMAICA:21196230301061944  SCAPA               16SSE03c  071010142 045  043 46                                 
+JAMAICA:21196230301061944  SCAPA               18SSE04c  071010104 050  047 46                                 
+JAMAICA:21196230301061944  SCAPA               20SE 04c  071010095 049  046 45                                 
+JAMAICA:21196230301061944  SCAPA               24ESE04or 061010103 048  047 46                                 
+JAMAICA:21196230402061944  SCAPA               04ESE03c  061010101 045  043 46                                 
+JAMAICA:21196230402061944  SCAPA               08NNW01o  06101010  043  042 45                                 
+JAMAICA:21196230402061944  SCAPA               12NNW01or 050010114 048  048 47 - 2                             
+JAMAICA:21196230402061944  SCAPA               16NNW02op 061010127 050  048 48                                 
+JAMAICA:21196230402061944  SCAPA               18NNW02o  06101013  050  048 47                                 
+JAMAICA:21196230402061944  SCAPA               20NNW02c  071010132 051  049 47                                 
+JAMAICA:21196230402061944  SCAPA               24NNW03bc 061010142 046  045 46                                 
+JAMAICA:21196230503061944  SCAPA               04   00bc 060010141 045  044 46                                 
+JAMAICA:21196230503061944  SCAPA               08   00b  070010136 047  045 46                                 
+JAMAICA:21196230503061944  SCAPA               12ESE02b  070010111 052  047 47 - 2                             
+JAMAICA:21196230503061944  SCAPA               16ESE03c  070010105 054  050 47                                 
+JAMAICA:21196230503061944  SCAPA               18ESE03cp 071010083 051  050 47                                 
+JAMAICA:21196230503061944  SCAPA               20SSE04md 042010065 050  050 47                                 
+JAMAICA:21196230503061944  SCAPA               24ESE04md 042010014 050  050 40                                 
+JAMAICA:21196230604061944  SCAPA               04SSW04or 0500 996  050  050 46                                 
+JAMAICA:21196230604061944  SCAPA               08SSW02op 0600 9934 051  051 46                                 
+JAMAICA:21196230604061944  SCAPA               12SSW03or 0500 9916 055  054 48 - 2                             
+JAMAICA:21196230604061944  SCAPA               16SSE04c  0600 9884 057  058 48                                 
+JAMAICA:21196230604061944  SCAPA               18SSW05or 0610 985  054  053 47                                 
+JAMAICA:21196230604061944  SCAPA               20SSW04orr0610 9836 050  052 47                                 
+JAMAICA:21196230604061944  SCAPA               24SSW04o  0610 9821 045  044 46                                 
+JAMAICA:21196230705061944  SCAPA               04SSE05or 0420 9785 047  047 45                                 
+JAMAICA:21196230705061944  SCAPA               08WSW06or 0520    ~ 043  047 45                                 
+JAMAICA:21196230705061944  SCAPA               12WSW07or 0520 980  050  043 43 - 2                             
+JAMAICA:21196230705061944  SCAPA               16WNW07oR 0520    ~ 050     ~  ~                                
+JAMAICA:21196230705061944  SCAPA               18WNW06or 0630 985  050  046 45                                 
+JAMAICA:21196230705061944  SCAPA               20WNW07cp 0520 9855 049  048 48                                 
+JAMAICA:21196230705061944  SCAPA               24WNW07cd 0520 9855 049  048 48                                 
+JAMAICA:21196230806061944  SCAPA               04WNW07cd 05 ~ 969  049  048 48                                 
+JAMAICA:21196230806061944  SCAPA               08WNW07cd 0520 9887 050  049 47                                 
+JAMAICA:21196230806061944  SCAPA               12NNE04or 0510 9907 053  051 47 - 2                             
+JAMAICA:21196230806061944  SCAPA               16NNE04c  07101001  052  051 47                                 
+JAMAICA:21196230806061944  SCAPA               18NNE04o  071010031 052  050 47                                 
+JAMAICA:21196230806061944  SCAPA               20NNE04o  071010063 050  048 47                                 
+JAMAICA:21196230806061944  SCAPA               24NNE03c  071010102 049  048 47                                 
+JAMAICA:21196231109061944  SCAPA               04WNW03c  061010096 048  040 47                                 
+JAMAICA:21196231109061944  SCAPA               08NW 03o  0610 9991 049  047 47                                 
+JAMAICA:21196231109061944  SCAPA               12NNW03o  0710 9977 050  048 48 - 2                             
+JAMAICA:21196231109061944  SCAPA               16NNW03o  0610 9965 049  047 47                                 
+JAMAICA:21196231109061944  SCAPA               18NW 03o  0610 9965 049  047 46                                 
+JAMAICA:21196231109061944  SCAPA               20WNW03o  0610 9965 049  047 45                                 
+JAMAICA:21196231109061944  SCAPA               24WNW02o  0610 9954 049  047 47                                 
+JAMAICA:21196231412061944  SCAPA               04WNW03cr 0610 9964 050  047 40                                 
+JAMAICA:21196231412061944  SCAPA               08WSW03or 0610 9973 050  049 46                                 
+JAMAICA:21196231412061944  SCAPA               12WSW04bc 072010004 056  054 47 - 2                             
+JAMAICA:21196231412061944  SCAPA               16W  07bc 073010032 057  050 47                                 
+JAMAICA:21196231412061944  SCAPA               18WNW06bc 072010042 057  050 47                                 
+JAMAICA:21196231412061944  SCAPA               20WNW03bc 071010046 055  050 47                                 
+JAMAICA:21196231412061944  SCAPA               24SSW03o  062010056 051  050 47                                 
+JAMAICA:21196232624061944  SCAPA               04W  04o  062110184 051  049 53                                 
+JAMAICA:21196232624061944  SCAPA               08W  04bc 0720    ~ 052  051 48                 339.5           
+JAMAICA:21196232624061944  SCAPA               12SW 05Mo 04201010  055  052 48 - 2                             
+JAMAICA:21196232624061944  SCAPA               16WSW05cr 051010074 057  054 48                                 
+JAMAICA:21196232624061944  SCAPA               18WNW03cd 061010067 054  050 48                                 
+JAMAICA:21196232624061944  SCAPA               20WSW03or 06101006  051  049 47                                 
+JAMAICA:21196232624061944  SCAPA               24WSW03o  061010032 050  048 47                                 
+JAMAICA:21196232725061944  SCAPA               04WSW02bc 050010018 048  045 47                                 
+JAMAICA:21196232725061944  SCAPA               08WSW02c  060010011 051  047 47                                 
+JAMAICA:21196232725061944  SCAPA               12   01bc 070010023 050  047 43 - 2                             
+JAMAICA:21196232725061944  SCAPA               16SSE02bc 071010023 063  052 50                                 
+JAMAICA:21196232725061944  SCAPA               18SE 02bc 071010028 062  053 50                                 
+JAMAICA:21196232725061944  SCAPA               20SE 02bc 070010023 059  051 47                                 
+JAMAICA:21196232725061944  SCAPA               24SE 02bc 07001003  047  047 47                                 
+JAMAICA:21196232826061944  SCAPA               04SE 03bc 061010026 051  049 47                                 
+JAMAICA:21196232826061944  SCAPA               08ESE03o  061010026 052  049 47                                 
+JAMAICA:21196232826061944  SCAPA               12ESE02c  071010023 057  052 48 - 2                             
+JAMAICA:21196232826061944  SCAPA               16ESE02bc 07101003  065  062 52                                 
+JAMAICA:21196232826061944  SCAPA               18ESE02bc 07101003  059  057 50                                 
+JAMAICA:21196232826061944  SCAPA               20E  03bc 071010035 057  052 50                                 
+JAMAICA:21196232826061944  SCAPA               24ENE03bc 0610 9997 053  050 50                                 
+JAMAICA:21196232927061944  SCAPA               04ENE03c  0610 9984 052  050 49                                 
+JAMAICA:21196232927061944  SCAPA               08ENE03OR 0410 9948 051  051 50                                 
+JAMAICA:21196232927061944  SCAPA               12NW 03ORq0510 9906    ~ 051 48 - 2                             
+JAMAICA:21196232927061944  SCAPA               16ESE06or 0520 9877 053  052 51                                 
+JAMAICA:21196232927061944  SCAPA               18ESE05o  0520    ~ 054  052 50                                 
+JAMAICA:21196232927061944  SCAPA               20ESE04o  0520 9882    ~ 051 49                                 
+JAMAICA:21196232927061944  SCAPA               24ESE03bc 0610    ~ 052  050 49                                 
+KENT:21196350301061944  SCAPA FLOW          04SE 02bc     10175 048  046 49                                 
+KENT:21196350301061944  SCAPA FLOW          08SE 02bc     10169 049  046 49                                 
+KENT:21196350301061944  SCAPA FLOW          12SE 03bc     10147 051  048 49 - 2                             
+KENT:21196350301061944  SCAPA FLOW          16SE 02c      10144 047  047 47                                 
+KENT:21196350301061944  SCAPA FLOW          18SE 03c      10128 048  046 48                                 
+KENT:21196350301061944  SCAPA FLOW          20SE 03c      10117 048  046 48                                 
+KENT:21196350301061944  SCAPA FLOW          24SE 02r      10116 047  045 49                                 
+KENT:21196350503061944  SCAPA FLOW          04C  00b      10163 045  044 48                                 
+KENT:21196350503061944  SCAPA FLOW          08C  00b      10144 046  044 48                 117.1           
+KENT:21196350503061944  SCAPA FLOW          12C  00b      10157 051  049 49 - 2                             
+KENT:21196350503061944  SCAPA FLOW          16SSW03b      1013  050  048 49                                 
+KENT:21196350503061944  SCAPA FLOW          18SE 03c      10104 052  050 49                                 
+KENT:21196350503061944  SCAPA FLOW          20SSE04R      10085 052  050 49                                 
+KENT:21196350503061944  SCAPA FLOW          24SE 04R      10022 050     ~  ~                                
+KENT:21196350604061944  SCAPA FLOW          04SSW03r       9975 049  048 48                                 
+KENT:21196350604061944  SCAPA FLOW          08SSW02c       9948 052  051 49                                 
+KENT:21196350604061944  SCAPA FLOW          12C  00r       9928 058  057 50 - 2                             
+KENT:21196350604061944  SCAPA FLOW          16S  03c       9911 056  054 50                                 
+KENT:21196350604061944  SCAPA FLOW          18S  03r       9882 054  052 50                                 
+KENT:21196350604061944  SCAPA FLOW          20S  04r       986  053  052 47                                 
+KENT:21196350604061944  SCAPA FLOW          24SSW01c       9834 050  048 49                                 
+KENT:21196350705061944  SCAPA FLOW          04SSW06r       9799 050  048 49                                 
+KENT:21196350705061944  SCAPA FLOW          08WSW06r       9812 049  049 48                                 
+KENT:21196350705061944  SCAPA FLOW          12WSW08r       9816 051  050 48 - 2                             
+KENT:21196350705061944  SCAPA FLOW          16W  09R       9864 048  048 48                                 
+KENT:21196350705061944  SCAPA FLOW          18W  09r       9878 048  047 48                                 
+KENT:21196350705061944  SCAPA FLOW          20WSW09r       9879 048  047 48                                 
+KENT:21196350705061944  SCAPA FLOW          24W  08c       9898 049  047 48                                 
+KENT:21196350806061944  SCAPA FLOW          04WNW08r       9913 048  047 48                                 
+KENT:21196350806061944  SCAPA FLOW          08WNW07r       9911 050  048 48                                 
+KENT:21196350806061944  SCAPA FLOW          12E  03bc      9963 054  052 49 - 2                             
+KENT:21196350806061944  SCAPA FLOW          16NE 03c      10013 055  053 49                                 
+KENT:21196350806061944  SCAPA FLOW          18NE 02c      10046 053  050 49                                 
+KENT:21196350806061944  SCAPA FLOW          20NNE02c      10082 053  051 49                                 
+KENT:21196350806061944  SCAPA FLOW          24NE 02c      10131 048  046 49                                 
+KENT:21196351109061944  SCAPA FLOW          04NW 02c      10019 048  046 48                                 
+KENT:21196351109061944  SCAPA FLOW          08NW 02d      10015 048  046 49                 215.8           
+KENT:21196351109061944  SCAPA FLOW          12NW 02c       9988 051  049 49 - 2                             
+KENT:21196351109061944  SCAPA FLOW          16WNW01c       9983 052  050 49                                 
+KENT:21196351109061944  SCAPA FLOW          18WNW02c       9987 052  049 47                                 
+KENT:21196351109061944  SCAPA FLOW          20WNW03c       9979 051  050 49                                 
+KENT:21196351109061944  SCAPA FLOW          24WNW02c       9982 049  048 49                                 
+KENT:21196351412061944  SCAPA FLOW          04SW 02bc      9981 049  048 50                                 
+KENT:21196351412061944  SCAPA FLOW          08SW 03R       9989 050  048 49                                 
+KENT:21196351412061944  SCAPA FLOW          12WSW07c      10031 050  050 50 - 2                             
+KENT:21196351412061944  SCAPA FLOW          16WSW06c      10041 055  050 50                                 
+KENT:21196351412061944  SCAPA FLOW          18W  06bc     10056 056  050 50                                 
+KENT:21196351412061944  SCAPA FLOW          20WSW03c      1006  055  052 50                                 
+KENT:21196351412061944  SCAPA FLOW          24SW 02r      10067 051  050 68                                 
+KENT:21196351513061944  SCAPA FLOW          04SW 03bc     10082 049  047 49                                 
+KENT:21196351513061944  SCAPA FLOW          08SSW03c      10065 049  047 49                                 
+KENT:21196351513061944  SCAPA FLOW          12SSW03bc     10034 054  051 56 - 2                             
+KENT:21196351513061944  SCAPA FLOW          16C  00r      10034 053  051 50                                 
+KENT:21196351513061944  SCAPA FLOW          18C  00c      10039 053  051 50                                 
+KENT:21196351513061944  SCAPA FLOW          20C  00c      10022 053  050 50                                 
+KENT:21196351513061944  SCAPA FLOW          24C  00c      10037 050  049 50                                 
+KENT:21196351614061944  SCAPA FLOW          04C  00c      10027 049  047 50                                 
+KENT:21196351614061944  SCAPA FLOW          08C  00c      10033 050  049 49                                 
+KENT:21196351614061944  SCAPA FLOW          12NW 03bc     10071 053  050 49 - 2                             
+KENT:21196351614061944  SCAPA FLOW          16NW 04bc     10097 055  053 50                                 
+KENT:21196351614061944  SCAPA FLOW          18NW 03bc     10128 055  053 50                                 
+KENT:21196351614061944  SCAPA FLOW          20NNE03bc     10124 055  052 50                                 
+KENT:21196351614061944  SCAPA FLOW          24WNW05c      10145 049  048 49                                 
+KENT:21196351715061944  SCAPA FLOW          04WNW03bc     10153 049  047 49                                 
+KENT:21196351715061944  SCAPA FLOW          08WSW02bc     1016  050  048 50                                 
+KENT:21196351715061944  SCAPA FLOW          12W  02bc     10162 058  052 50 - 2                             
+KENT:21196351715061944  SCAPA FLOW          16SE 02c      10134 053  050 50                                 
+KENT:21196351715061944  SCAPA FLOW          18SE 02R      10114 051  050 50                                 
+KENT:21196351715061944  SCAPA FLOW          20SE 03R      10085 051  050 50                                 
+KENT:21196351715061944  SCAPA FLOW          24SE 03R      10047 050  048 50                                 
+KENT:21196351816061944  SCAPA FLOW          04C  00r      10027 051  051 50                                 
+KENT:21196351816061944  SCAPA FLOW          08W  02d      10041 052  051 50                                 
+KENT:21196351816061944  SCAPA FLOW          12WNW02m      10097 051  050 50 - 2                             
+KENT:21196351816061944  SCAPA FLOW          16NE 03bc   3210176 055  051 49                                 
+KENT:21196351816061944  SCAPA FLOW          18NNE03b      10185 055  051 50                                 
+KENT:21196351816061944  SCAPA FLOW          20N  03bc     10191 051  052 50                                 
+KENT:21196351816061944  SCAPA FLOW          24NW 01bc     10221 051  050 50                                 
+KENT:21196351917061944  SCAPA FLOW          04NW 02bc     10247 050  049 50                                 
+KENT:21196351917061944  SCAPA FLOW          08NW 03B      10266 049     ~  ~                101.6           
+KENT:21196351917061944  SCAPA FLOW          12C  00bc     10265 053  051 50 - 2                             
+KENT:21196351917061944  SCAPA FLOW          16C  00bc     10266 055  052 50                                 
+KENT:21196351917061944  SCAPA FLOW          18C  00bc     10267 058  055 50                                 
+KENT:21196351917061944  SCAPA FLOW          20C  00bc     10262 055  053 50                                 
+KENT:21196351917061944  SCAPA FLOW          24SE 02r      10255 051  050 50                                 
+KENT:21196352018061944  SCAPA FLOW          04C  00c      10249 051  050 50                                 
+KENT:21196352018061944  SCAPA FLOW          08C  00c      10237 052  050 50                                 
+KENT:21196352018061944  SCAPA FLOW          12C  00bc     10254 057  057 51 - 2                             
+KENT:21196352018061944  SCAPA FLOW          16SE 02c      10258 062  058 51                                 
+KENT:21196352018061944  SCAPA FLOW          18C  00c      10258 060  058 51                                 
+KENT:21196352018061944  SCAPA FLOW          20C  00c      10257 057  055 51                                 
+KENT:21196352018061944  SCAPA FLOW          24C  00c      10269 057  055 51                                 
+KENT:21196352119061944  SCAPA FLOW          04C  00c          ~ 054  052 51                                 
+KENT:21196352119061944  SCAPA FLOW          08C  00c      10274 053  052 51                                 
+KENT:21196352119061944  SCAPA FLOW          12C  00c      10277 050  054 50 - 2                             
+KENT:21196352119061944  SCAPA FLOW          16N  02bc     1028  057  055 51                                 
+KENT:21196352119061944  SCAPA FLOW          18NW 02c      10233 057  055 51                                 
+KENT:21196352119061944  SCAPA FLOW          20NW 03bc     10284 060  056 51                                 
+KENT:21196352119061944  SCAPA FLOW          24NW 03bc     10291 052  050 50                                 
+KENT:21196352220061944  SCAPA FLOW          04NW 02c      10304 051  050 50                                 
+KENT:21196352220061944  SCAPA FLOW          08NW 02c      10305 050  049 50                 19.02           
+KENT:21196352220061944  SCAPA FLOW          12SE 01c    1110316 052  051 51 - 2                             
+KENT:21196352220061944  SCAPA FLOW          16NW 01c    0110321 053  051 51                                 
+KENT:21196352220061944  SCAPA FLOW          18NNW03c      10326 053  051 51                                 
+KENT:21196352220061944  SCAPA FLOW          20NW 03c      10319 052  051 51                                 
+KENT:21196352220061944  SCAPA FLOW          24N  02c      10317 051  049 50                                 
+KENT:21196352321061944  SCAPA FLOW          04NW 04c      10312 057  050 50                                 
+KENT:21196352321061944  SCAPA FLOW          08NNW04c      10318 050  048 50                 031.0           
+KENT:21196352321061944  SCAPA FLOW          12NW 03bc     10397 058     ~  ~- 2                             
+KENT:21196352321061944  SCAPA FLOW          16NW 02bc     1028  056  053 51                                 
+KENT:21196352321061944  SCAPA FLOW          18NW 02bc     10271 055  053 51                                 
+KENT:21196352321061944  SCAPA FLOW          20NW 04bc     10262 056  056 51                                 
+KENT:21196352321061944  SCAPA FLOW          24NW 03c      10255 051  053 51                                 
+KENT:21196352422061944  SCAPA FLOW          04NW 02m      10235 051  051 51                                 
+KENT:21196352422061944  SCAPA FLOW          08NW 03c      10224 051  051 51                                 
+KENT:21196352422061944  SCAPA FLOW          12WNW03d      10227 052     ~51 - 2                             
+KENT:21196352422061944  SCAPA FLOW          16NW 03c      10209 053  052 51                                 
+KENT:21196352422061944  SCAPA FLOW          18NW 03c    2110206 054  053 50                                 
+KENT:21196352422061944  SCAPA FLOW          20NW 03c    2410183 053  052 50                                 
+KENT:21196352422061944  SCAPA FLOW          24N  04c    2210183 049  047 50                                 
+KENT:21196352624061944  SCAPA FLOW          04W  02c      10167 051  050 50                                 
+KENT:21196352624061944  SCAPA FLOW          08W  03c      10137 051  050 50                 126.3           
+KENT:21196352624061944  SCAPA FLOW          12WNW05M      10116 053  052 52 - 2                             
+KENT:21196352624061944  SCAPA FLOW          16NW 06c      10087 053  052 52                                 
+KENT:21196352624061944  SCAPA FLOW          18W  05c      10088 054  052 51                                 
+KENT:21196352624061944  SCAPA FLOW          20SSW02c      10075 052  051 50                                 
+KENT:21196352624061944  SCAPA FLOW          24WSW01c      1004  050     ~51                                 
+KENT:21196352725061944  SCAPA FLOW          04C  00c      10023 048  047 50                                 
+KENT:21196352725061944  SCAPA FLOW          08C  00c      1003  050  048 51                                 
+KENT:21196352725061944  SCAPA FLOW          12C  00b      10022 057  052 52 - 2                             
+KENT:21196352725061944  SCAPA FLOW          16C  00b      10025 057  050 52                                 
+KENT:21196352725061944  SCAPA FLOW          18SW 02b      10024 057  052 52                                 
+KENT:21196352725061944  SCAPA FLOW          20SW 02b      10028 055  050 50                                 
+KENT:21196352725061944  SCAPA FLOW          24ESE02bc     10029 052  050   ~                                
+KENT:21196352826061944  SCAPA FLOW          04C  00c      10032 051  050 51                                 
+KENT:21196352826061944  SCAPA FLOW          08C  00c      10028 051  050 50                                 
+KENT:21196352826061944  SCAPA FLOW          12E  03bc     10031 054  052 51 - 2                             
+KENT:21196352826061944  SCAPA FLOW          16E  03bc     10033 055  052 51                                 
+KENT:21196352826061944  SCAPA FLOW          18E  02bc     10028 055  052 51                                 
+KENT:21196352826061944  SCAPA FLOW          20E  03b      10028 056  053 51                                 
+KENT:21196352826061944  SCAPA FLOW          24ENE03c      10024 053  051 51                                 
+KENT:21196352927061944  SCAPA FLOW          04NE 02c       9993 052     ~51                                 
+KENT:21196352927061944  SCAPA FLOW          08NE 02r       9951 052  051 51                                 
+KENT:21196352927061944  SCAPA FLOW          12NE 03r       9708 054  051 51 - 2                             
+KENT:21196352927061944  SCAPA FLOW          16NE 04r       9899 050  053 51                                 
+KENT:21196352927061944  SCAPA FLOW          18ENE04r       9892 054  053 51                                 
+KENT:21196352927061944  SCAPA FLOW          20ESE04r       9876 054  053 50                                 
+KENT:21196352927061944  SCAPA FLOW          24ESE03bc 0721 9877 052  050 50                                 
+KHEDIVE:21196570301061944  SCAPA FLOW          04ESE03bc 07  i3016 047  047 49                                 
+KHEDIVE:21196570301061944  SCAPA FLOW          08SE 04c  07  i3011 051  049 50                                 
+KHEDIVE:21196570301061944  SCAPA FLOW          12SE 05Bc 08  i3007 051  050 50 - 2                             
+KHEDIVE:21196570301061944  SCAPA FLOW          16S B04or 06  i3004 048  048 50                                 
+KHEDIVE:21196570301061944  SCAPA FLOW          18E B05o  06  i30   041  045 49                                 
+KHEDIVE:21196570301061944  SCAPA FLOW          20ESE05o  05  i2998 046  044 49                                 
+KHEDIVE:21196570301061944  SCAPA FLOW          24ESE05or 04  i2998 046  045 48                                 
+KHEDIVE:21196570402061944  SCAPA FLOW          04E  04rc 05  i2994 044  043 47                                 
+KHEDIVE:21196570402061944  SCAPA FLOW          08E  01o  05  i2999 047  047 49                                 
+KHEDIVE:21196570402061944  SCAPA FLOW          12V  01r  05  i3004 050  049 49 - 2                             
+KHEDIVE:21196570402061944  SCAPA FLOW          16C  00P  06  i3006 053  052 50                                 
+KHEDIVE:21196570402061944  SCAPA FLOW          18WNW02c  08  i3006 059  056 50                                 
+KHEDIVE:21196570402061944  SCAPA FLOW          20WNW02c  08  i3006 057  056 50                                 
+KHEDIVE:21196570402061944  SCAPA FLOW          24WNW03bc 08  i301  056  056 50                                 
+KHEDIVE:21196570503061944  SCAPA FLOW          04NW 03bc 08  i301  045  044 50                                 
+KHEDIVE:21196570503061944  SCAPA FLOW          08C  00b  08  i3006 050  049 50                 113.2           
+KHEDIVE:21196570503061944  SCAPA FLOW          12ESE02bc 08  i3002 054  050 50 - 2                             
+KHEDIVE:21196570503061944  SCAPA FLOW          16ESE03o  0822i2992 050  048 50                                 
+KHEDIVE:21196570503061944  SCAPA FLOW          18ESE03o  06  i2985 050  048 50                                 
+KHEDIVE:21196570503061944  SCAPA FLOW          20ESE04o  0532i298  050  048 50                                 
+KHEDIVE:21196570503061944  SCAPA FLOW          24SE 05r  05  i2972 047  045 48                                 
+KHEDIVE:21196570806061944  SCAPA FLOW          04W  08cr 04  i2932 047  046 48                                 
+KHEDIVE:21196570806061944  SCAPA FLOW          08W B06o  05  i2932 047  047 49                     7           
+KHEDIVE:21196570806061944  SCAPA FLOW          12N  05o  05  i295  049  049 50 - 2                             
+KHEDIVE:21196570806061944  SCAPA FLOW          16NNE06c  06  i2974 053  052 50                                 
+KHEDIVE:21196570806061944  SCAPA FLOW          18NE 05o  05  i2982 051  050 50                                 
+KHEDIVE:21196570806061944  SCAPA FLOW          20NE 05o  04  i2986 051  050 50                                 
+KHEDIVE:21196570806061944  SCAPA FLOW          24NNE03bc 07  i2999 049  048 50                                 
+KHEDIVE:21196572826061944  SCAPA FLOW          04ESE02bc 08  i2974 051  050 50                                 
+KHEDIVE:21196572826061944  SCAPA FLOW          08E  03c  07  i2976 050  050 49                                 
+KHEDIVE:21196572826061944  SCAPA FLOW          12E B02bc 07  i2975 054  053 50 - 2                             
+KHEDIVE:21196572826061944  SCAPA FLOW          16E  04bc  ~  i2974 055  054551                                 
+KHEDIVE:21196572826061944  SCAPA FLOW          18ESE02c  07  i2974 057  056 51                                 
+KHEDIVE:21196572826061944  SCAPA FLOW          20E  04c  08  i297  058  057 51                                 
+KHEDIVE:21196572826061944  SCAPA FLOW          24ENE04c  07  i2965 053  053 51                                 
+KHEDIVE:21196572927061944  SCAPA FLOW          04NE 04E  04  i2959 052  052 51                                 
+KHEDIVE:21196572927061944  SCAPA FLOW          08NE 05r  05  i2951 051  053 51                                 
+KHEDIVE:21196572927061944  SCAPA FLOW          12NE 05R  04  i2938 051  051 51 - 2                             
+KHEDIVE:21196572927061944  SCAPA FLOW          16E B06r  04  i2932 052  050 50                                 
+KHEDIVE:21196572927061944  SCAPA FLOW          18E  05  ~03  i2928 052  052 51                                 
+KHEDIVE:21196572927061944  SCAPA FLOW          20E  05  ~02  i2928 053  051 51                                 
+KHEDIVE:21196572927061944  SCAPA FLOW          24E B03c  06  i2934 051  050 50                                 
+KHEDIVE:21196573028061944  SCAPA FLOW          04ESE03bc 05  i2934 050  050 50                                 
+KHEDIVE:21196573028061944  SCAPA FLOW          08C  00b  08  i2937 056  054 51                     2           
+KHEDIVE:21196573028061944  SCAPA FLOW          12ESE03b   ~  i294  054  054 56 - 2                             
+KHEDIVE:21196573028061944  SCAPA FLOW          16ESE ~c  07  i2942 057  056 51                                 
+KHEDIVE:21196573028061944  SCAPA FLOW          18C  00bc 08  i2948 057  056551                                 
+KHEDIVE:21196573028061944  SCAPA FLOW          20C  00r  06  i2944 056  056 51                                 
+KHEDIVE:21196573028061944  SCAPA FLOW          24NW 03o  06  i2954 058  052 51                                 
+KHEDIVE:21196573129061944  SCAPA FLOW          04NW 04c  06  i2963 050  050 51                                 
+KHEDIVE:21196573129061944  SCAPA FLOW          08NNW02c  06  i297  053  052 51                                 
+KHEDIVE:21196573129061944  SCAPA FLOW          12WNW04c  06  i297  055  056 52 - 2                             
+KHEDIVE:21196573129061944  SCAPA FLOW          16ENE03c  07  i2984 062  061 52                                 
+KHEDIVE:21196573129061944  SCAPA FLOW          18  ~01bc 07  i2986 060  059 51                                 
+KHEDIVE:21196573129061944  SCAPA FLOW          20V  01bc 07  i2987 059  057 51                                 
+KHEDIVE:21196573129061944  SCAPA FLOW          24NE 02bc 06  i2992 053  053 50                                 
+KHEDIVE:21196573230061944  SCAPA FLOW          04C  00c  07  i2992 052  051 50                                 
+KHEDIVE:21196573330061944  SCAPA FLOW          04C  00c  07  i2992 052  051 50                                 
+KHEDIVE:21196573230061944  SCAPA FLOW          08E  03bc 08  i2994 052  052 51                                 
+KHEDIVE:21196573330061944  SCAPA FLOW          08E  03bc 08  i2994 052  052 51                                 
+KHEDIVE:21196573230061944  SCAPA FLOW          12E B02bc 07  i2997 056  050 52 - 2                             
+KHEDIVE:21196573330061944  SCAPA FLOW          12E B02bc 07  i2987 056  054 52 - 2                             
+KHEDIVE:21196573230061944  SCAPA FLOW          16ENE04bc 08  i2999 058  058 52                                 
+KHEDIVE:21196573330061944  SCAPA FLOW          16ENE04bc 08  i2999 058  058 52                                 
+KHEDIVE:21196573230061944  SCAPA FLOW          18E  04c  06  i2997 057  056 52                                 
+KHEDIVE:21196573330061944  SCAPA FLOW          18E  04c  06  i2997 057  056 52                                 
+KHEDIVE:21196573230061944  SCAPA FLOW          20E  04o  06  i2996 057  056 52                                 
+KHEDIVE:21196573330061944  SCAPA FLOW          20E  04o  06  i2996 057  056 52                                 
+KHEDIVE:21196573230061944  SCAPA FLOW          24ENE04c  06  i2997 053  054 52                                 
+KHEDIVE:21196573330061944  SCAPA FLOW          24ENE04c  06  i2997 058  054 52                                 
+ROYALIST:21204230705061944  SCAPA FLOW          04SW 05cr 0621 9984 048  048 45                                 
+ROYALIST:21204230705061944  SCAPA FLOW          08W  06o  0533 9833 048  048 49                                 
+ROYALIST:21204230705061944  SCAPA FLOW          12SSW06or 0633 9905 049  049 49 - 2                             
+ROYALIST:21204230705061944  SCAPA FLOW          16NW 07cq 0531 9815 048  048 50                                 
+ROYALIST:21204230705061944  SCAPA FLOW          18WSW08cq 0533 9884 048  048 50                                 
+ROYALIST:21204230705061944  SCAPA FLOW          20WNW08oq 0533 9873 048  048 50                                 
+ROYALIST:21204230705061944  SCAPA FLOW          24WNW06oq 0533 989  049  049 50                                 
+ROYALIST:21204230806061944  SCAPA FLOW          04W  07oq 0522 9926 046  048 50                                 
+ROYALIST:21204230806061944  SCAPA FLOW          08W  06cq 0521 9942 046  048 50                                 
+ROYALIST:21204230806061944  SCAPA FLOW          12NE 04o  0611 9963 057  059 51 - 2                             
+ROYALIST:21204230806061944  SCAPA FLOW          16NE 03oq 06101001  052  051   ~                                
+ROYALIST:21204230806061944  SCAPA FLOW          18NE 03o  06101003  051  051 51                                 
+ROYALIST:21204230806061944  SCAPA FLOW          20NE 02o  06111007  051  051 48                                 
+ROYALIST:21204230806061944  SCAPA FLOW          24NE 02c  060010114 049  048   ~                                
+ROYALIST:21204230907061944  SCAPA FLOW          04N  03bc 071010116 049  048 50                                 
+ROYALIST:21204230907061944  SCAPA FLOW          08NW 02or 071110116 050  050 50                     ~           
+ROYALIST:21204230907061944  SCAPA FLOW          12NW 02o  06101011  050  050 50 - 2                             
+ROYALIST:21204230907061944  SCAPA FLOW          16NW 03o  061110112 050  050 50                                 
+ROYALIST:21204230907061944  SCAPA FLOW          18N  04o  071110102 051  051 50                                 
+ROYALIST:21204230907061944  SCAPA FLOW          20NW 03o  071110101 050  050 49                                 
+ROYALIST:21204230907061944  SCAPA FLOW          24N  03o  06101010  049  048 47                                 
+ROYALIST:21204231008061944  SCAPA FLOW          04N  04  ~ ~ ~    ~    ~    ~  ~                                
+ROYALIST:21204231008061944  SCAPA FLOW          08NNW03  ~ ~ ~    ~    ~ 043 48                  83.2           
+ROYALIST:21204231008061944  SCAPA FLOW          12NE 03  ~ ~ ~    ~ 050  050 48 - 2                             
+ROYALIST:21204231008061944  SCAPA FLOW          16NE 02  ~ ~1110063 052  052 50                                 
+ROYALIST:21204231008061944  SCAPA FLOW          18NE 03  ~ ~0110055    ~ 050   ~                                
+ROYALIST:21204231008061944  SCAPA FLOW          20NE 03  ~ ~0110059 051  050 50                                 
+ROYALIST:21204231008061944  SCAPA FLOW          24C  00  ~ ~ ~    ~ 050     ~49                                 
+ROYALIST:21204231109061944  SCAPA FLOW          04NW 02o  060010019 048  048 46                                 
+ROYALIST:21204231109061944  SCAPA FLOW          08NW 03o  06001000  048  050 48                     ~           
+ROYALIST:21204231109061944  SCAPA FLOW          12NW 02o   ~11 9988 049  049 48 - 2                             
+ROYALIST:21204231109061944  SCAPA FLOW          16WNW03  ~0600    ~ 049  050 48                                 
+ROYALIST:21204231109061944  SCAPA FLOW          18WNW02o   ~11 997  050  050 48                                 
+ROYALIST:21204231109061944  SCAPA FLOW          20NW 04o  05111001  050  050 49                                 
+ROYALIST:21204231109061944  SCAPA FLOW          24NW 02  ~0511    ~ 047  050 50                                 
+ROYALIST:21204231210061944  SCAPA FLOW          04NW 03om 0511 996  049  049 48                                 
+ROYALIST:21204231210061944  SCAPA FLOW          08NW 02o  0411 9959 050  050 48                                 
+ROYALIST:21204231210061944  SCAPA FLOW          12NW 04c  0611 998  054  053   ~- 2                             
+ROYALIST:21204231210061944  SCAPA FLOW          16NW 04c  0611 9983 051  050 50                                 
+ROYALIST:21204231210061944  SCAPA FLOW          18NW 03o  050010008 052  052 50                                 
+ROYALIST:21204231210061944  SCAPA FLOW          20NW 03c  060010007 052  052 50                                 
+ROYALIST:21204231210061944  SCAPA FLOW          24NW 03c  060010005 051  050   ~                                
+ROYALIST:21204231311061944  SCAPA FLOW          04W  01c   ~ ~1001  050  050 50                                 
+ROYALIST:21204231311061944  SCAPA FLOW          08W  01c  06001002  051  050 49                                 
+ROYALIST:21204231311061944  SCAPA FLOW          12SW 02o  0600 9994 052  052 50 - 2                             
+ROYALIST:21204231311061944  SCAPA FLOW          16SW 02o  0500    ~    ~    ~  ~                                
+ROYALIST:21204231311061944  SCAPA FLOW          18W  04c  0710 9944 056  058 53                                 
+ROYALIST:21204231311061944  SCAPA FLOW          20W  04c  0710 9944 056  055 51                                 
+ROYALIST:21204231311061944  SCAPA FLOW          24NW 02bc 08 ~    ~    ~ 053   ~                                
+ROYALIST:21204231412061944  SCAPA FLOW          04SW 01c  0700 9917 049  050 50                                 
+ROYALIST:21204231412061944  SCAPA FLOW          08SW 01or 0500 9977 050  050 50                                 
+ROYALIST:21204231412061944  SCAPA FLOW          12W  03c  061010045 056  051 50 - 2                             
+ROYALIST:21204231412061944  SCAPA FLOW          16W  06c  062210025 058  057 52                                 
+ROYALIST:21204231412061944  SCAPA FLOW          18WNW05bc 071110025 058  058 52                                 
+ROYALIST:21204231412061944  SCAPA FLOW          20W  02c  070010055 054  055 52                                 
+ROYALIST:21204231412061944  SCAPA FLOW          24SW 02o  060010053 051  052 52                                 
+ROYALIST:21204231513061944  SCAPA FLOW          04S  01o  050010004 050  050 48                                 
+ROYALIST:21204231513061944  SCAPA FLOW          08S  01c  070010014 050  051 50                                 
+ROYALIST:21204231513061944  SCAPA FLOW          12W  03c  061010012 054  054 52 - 2                             
+ROYALIST:21204231513061944  SCAPA FLOW          16C  00rr 071010034 055  054 49                                 
+ROYALIST:21204231513061944  SCAPA FLOW          18C  00bc 08001002  056  054 50                                 
+ROYALIST:21204231513061944  SCAPA FLOW          20SE 01c  070010021 053  052 51                                 
+ROYALIST:21204231513061944  SCAPA FLOW          24SSE01  ~080010076 051  059 51                                 
+ROYALIST:21204231614061944  SCAPA FLOW          04C  00o  070010015 051  051 49                                 
+ROYALIST:21204231614061944  SCAPA FLOW          08C  00bc 070010034 050  050 52                                 
+ROYALIST:21204231614061944  SCAPA FLOW          12NW 03bc 070010016 053  053 51 - 2                             
+ROYALIST:21204231614061944  SCAPA FLOW          16NW 02bc 070010025 053  053 51                                 
+ROYALIST:21204231614061944  SCAPA FLOW          18E  03c  070110086 054  054 51                                 
+ROYALIST:21204231614061944  SCAPA FLOW          20E  02c  070110102 054  054 52                                 
+ROYALIST:21204231614061944  SCAPA FLOW          24NW 03cd 061010113 049  049 51                                 
+ROYALIST:21204231715061944  SCAPA FLOW          04NW 03oq 071010133 049  049 50                                 
+ROYALIST:21204231715061944  SCAPA FLOW          08NW 03o  071010145 050  049 50                   752           
+ROYALIST:21204231715061944  SCAPA FLOW          12W  04bc 07101015  054  054 52 - 2                             
+ROYALIST:21204231715061944  SCAPA FLOW          16NW 05o  071110101 053  053 52                                 
+ROYALIST:21204231715061944  SCAPA FLOW          18NW 02oq 051110126 051  051 51                                 
+ROYALIST:21204231715061944  SCAPA FLOW          20NW 02oq 051110126 051  051 50                                 
+ROYALIST:21204231715061944  SCAPA FLOW          24NW 02or 051010145 051  052 50                                 
+ROYALIST:21204231816061944  SCAPA FLOW          04W  03or 071010013 051  052 53                                 
+ROYALIST:21204231816061944  SCAPA FLOW          08WNW01  ~050010027 051  051 48                 136.2           
+ROYALIST:21204231816061944  SCAPA FLOW          12N  02c  080910046 054  054 50 - 2                             
+ROYALIST:21204231816061944  SCAPA FLOW          16NE 02bc 081010116 056  053 50                                 
+ROYALIST:21204231816061944  SCAPA FLOW          18NE 02bc 081010132 056  056 52                                 
+ROYALIST:21204231816061944  SCAPA FLOW          20NNE02bc 081010177 054  055 52                                 
+ROYALIST:21204231816061944  SCAPA FLOW          24NW 02bc 07 ~10211 051  052 52                                 
+ROYALIST:21204232018061944  SCAPA FLOW          04C  00bc  ~00    ~ 054  054 50                                 
+ROYALIST:21204232018061944  SCAPA FLOW          08C  00bc 0802    ~ 052  052 51                                 
+ROYALIST:21204232018061944  SCAPA FLOW          12C  00c  0720    ~ 059  057 51 - 2                             
+ROYALIST:21204232018061944  SCAPA FLOW          16C  00o   ~ ~10238    ~    ~49                                 
+ROYALIST:21204232018061944  SCAPA FLOW          18C  00o  0600    ~    ~    ~51                                 
+ROYALIST:21204232018061944  SCAPA FLOW          20C  00o  060010236 061  061 51                                 
+ROYALIST:21204232018061944  SCAPA FLOW          24C  00bc  ~03    ~ 056  057 51                                 
+ROYALIST:21204232119061944  SCAPA FLOW          04C  00o  0700    ~ 055  055 59                                 
+ROYALIST:21204232119061944  SCAPA FLOW          08C  00c  0700    ~ 054  054 48                  60.4           
+ROYALIST:21204232119061944  SCAPA FLOW          12NW  ~  ~ ~0010277 053  053 47 - 2                             
+ROYALIST:21204232119061944  SCAPA FLOW          16NW 01c  072010227 057  056 51                                 
+ROYALIST:21204232119061944  SCAPA FLOW          18W  01o  06001026  056  056 52                                 
+ROYALIST:21204232119061944  SCAPA FLOW          20NW 02o  07 ~    ~ 060  060 58                                 
+ROYALIST:21204232119061944  SCAPA FLOW          24  ~ ~  ~07 ~10255 057  058 51                                 
+SEARCHER:21204630301061944  SCAPA FLOW          04SE 03bc   10i2991 049  046 52                                 
+SEARCHER:21204630301061944  SCAPA FLOW          08ESE03bc   10i2987 047  044 53                   218           
+SEARCHER:21204630301061944  SCAPA FLOW          12SE 03bc   10i2984 049  045 52 - 2                             
+SEARCHER:21204630301061944  SCAPA FLOW          16SSE03o    20i298  047  045 51                                 
+SEARCHER:21204630301061944  SCAPA FLOW          18SE 05o    20i2976 047  045 51                                 
+SEARCHER:21204630301061944  SCAPA FLOW          20ESE05o    20i2974 046  045 52                                 
+SEARCHER:21204630301061944  SCAPA FLOW          24ESE04ro   20i2971 046  045 51                                 
+SEARCHER:21204630402061944  SCAPA FLOW          04E  03od   10i297  046  045 52                                 
+SEARCHER:21204630402061944  SCAPA FLOW          08C  00o    00i2974 046  045 53                                 
+SEARCHER:21204630402061944  SCAPA FLOW          12C  00r    00i2978 047  046 51 - 2                             
+SEARCHER:21204630402061944  SCAPA FLOW          16C  00c    00i298  051  048 51                                 
+SEARCHER:21204630402061944  SCAPA FLOW          18WNW02c    10i298  049  047 52                                 
+SEARCHER:21204630402061944  SCAPA FLOW          20NNW02c    10i298  049  047 52                                 
+SEARCHER:21204630402061944  SCAPA FLOW          24C  00bc   00i298  049  047 52                                 
+SEARCHER:21204630503061944  SCAPA FLOW          04C  00b    00i2984 049  042 51                                 
+SEARCHER:21204630503061944  SCAPA FLOW          08C  00bc   00i2982 050  044 52                                 
+SEARCHER:21204630503061944  SCAPA FLOW          12E  01bc   10i2979 053  047 52 - 2                             
+SEARCHER:21204630503061944  SCAPA FLOW          16ESE03c    20i2973 049  045 50                                 
+SEARCHER:21204630503061944  SCAPA FLOW          18ESE04c    30i2966 048  047 53                                 
+SEARCHER:21204630503061944  SCAPA FLOW          20ESE04ro   30i2959 048  047 53                                 
+SEARCHER:21204630503061944  SCAPA FLOW          24SE 04od   30i2945 049  049 53                                 
+SEARCHER:21204630604061944  SCAPA FLOW          04SSE03od   20i2929 050  050 52                                 
+SEARCHER:21204630604061944  SCAPA FLOW          08WSW02or   10i2923 051  051 52                                 
+SEARCHER:21204630604061944  SCAPA FLOW          12WSW02od   10i2916 055  053 52 - 2                             
+SEARCHER:21204630604061944  SCAPA FLOW          16S  02o    10i291  054  053 52                                 
+SEARCHER:21204630604061944  SCAPA FLOW          18S  03d    20i2898 053  052 52                                 
+SEARCHER:21204630604061944  SCAPA FLOW          20S  03od   20i2894 052  051 52                                 
+SEARCHER:21204630604061944  SCAPA FLOW          24SW 03od   20i2988 045  043 50                                 
+SEARCHER:21204630705061944  SCAPA FLOW          04SW 05r    30i2875 046  045 51                                 
+SEARCHER:21204630705061944  SCAPA FLOW          08WSW07oqr  40i2877 047  046 51                     5           
+SEARCHER:21204630705061944  SCAPA FLOW          12WSW07oqr  50i2881 048  047 51 - 2                             
+SEARCHER:21204630705061944  SCAPA FLOW          16NNW08oq   50i2894 048  047 51                                 
+SEARCHER:21204630705061944  SCAPA FLOW          18W  08oq   50i2895 048  046 51                                 
+SEARCHER:21204630705061944  SCAPA FLOW          20W  08oq   50i29   047  045 51                                 
+SEARCHER:21204630705061944  SCAPA FLOW          24WNW07oqr  50i2907 048  047 50                                 
+SEARCHER:21204630806061944  SCAPA FLOW          04WNW07qr   50i2912 047  047 51                                 
+SEARCHER:21204630806061944  SCAPA FLOW          08NNW06qr   40i291  047  046 52                    15           
+SEARCHER:21204630806061944  SCAPA FLOW          12ENE05o    30i2925 052  050 51 - 2                             
+SEARCHER:21204630806061944  SCAPA FLOW          16N  04c    30i2947 050  048 50                                 
+SEARCHER:21204630806061944  SCAPA FLOW          18NE 03c    30i2956 049  048 50                                 
+SEARCHER:21204630806061944  SCAPA FLOW          20NNE03o    30i296  049  048 50                                 
+SEARCHER:21204630806061944  SCAPA FLOW          24NE 01c    10i2972 048  046 51                                 
+SHEFFIELD:21204870301061944  SCAPA               04ESE02bc 06  1020  050  048                                    
+SHEFFIELD:21204870301061944  SCAPA               08ESE02bc 07  1017  048  047                    181.8           
+SHEFFIELD:21204870301061944  SCAPA               12SE 02c  07  1014  055  052    - 2                             
+SHEFFIELD:21204870301061944  SCAPA               16SE 03c  01  1010  050  045                                    
+SHEFFIELD:21204870301061944  SCAPA               18SE 02c  06  1010  053  050                                    
+SHEFFIELD:21204870301061944  SCAPA               20SE 03c  06  1010  051  049                                    
+SHEFFIELD:21204870301061944  SCAPA               24SE 02cr 06  1010  049  049                                    
+SHEFFIELD:21204870402061944  SCAPA               04SE 03co 06  1020  048  047                                    
+SHEFFIELD:21204870402061944  SCAPA               08ESE02c  06  1013  0495 0495                                   
+SHEFFIELD:21204870402061944  SCAPA               12E  01cr 05  1012  052  050    - 2                             
+SHEFFIELD:21204870402061944  SCAPA               16C  00c  07  1012  055  054                                    
+SHEFFIELD:21204870402061944  SCAPA               18WNW02bc 07  1020  053  051                                    
+SHEFFIELD:21204870402061944  SCAPA               20NW 02bc 07  1020  0535 051                                    
+SHEFFIELD:21204870402061944  SCAPA               24C  00b  07  1020  049  046                                    
+SHEFFIELD:21204870503061944  SCAPA               04C  00bc 07  1019  047  046                                    
+SHEFFIELD:21204870503061944  SCAPA               08C  00bc 07  1021  049  047                                    
+SHEFFIELD:21204870503061944  SCAPA               12C  00b  07  1020  048  047    - 2                             
+SHEFFIELD:21204870503061944  SCAPA               16C  00b  07  1015  061  058                                    
+SHEFFIELD:21204870503061944  SCAPA               20SE 02pf 04  1010  050  049                                    
+SHEFFIELD:21204870503061944  SCAPA               24ESE02rc 04  1003  052  052                                    
+SHEFFIELD:21204870604061944  SCAPA               04ESE02rc 05   998  052  051                                    
+SHEFFIELD:21204870604061944  SCAPA               08C  00g  06  1001  054  054                                    
+SHEFFIELD:21204870604061944  SCAPA               12C  00  ~06  1000  054  053    - 2                             
+SHEFFIELD:21204870604061944  SCAPA               16C  00o  06   988  058  057                                    
+SHEFFIELD:21204870604061944  SCAPA               18S    cr 06   991  055  055                                    
+SHEFFIELD:21204870604061944  SCAPA               20S    cr 06   991  055  055                                    
+SHEFFIELD:21204870604061944  SCAPA               24S    co 06   991  049  047                                    
+SHEFFIELD:21204870705061944  SCAPA               04SSW05rc 05   978  049  049                                    
+SHEFFIELD:21204870705061944  SCAPA               12                              - 2                             
+SHEFFIELD:21204870705061944  SCAPA               18W  07u  04   980  048  049                                    
+SHEFFIELD:21204870705061944  SCAPA               20W  07u  04   980  048  049                                    
+SHEFFIELD:21204870705061944  SCAPA               24WNW06o  0631 989  049  047                                    
+SHEFFIELD:21204870806061944  SCAPA               04WNW07or 05   990  049  048 50                                 
+SHEFFIELD:21204870806061944  SCAPA               08WNW  or 06   990  050  049                                    
+SHEFFIELD:21204870806061944  SCAPA               12NE 01c  06   991  056  054    - 2                             
+SHEFFIELD:21204870806061944  SCAPA               16NNE02c  06  1001  060  056                                    
+SHEFFIELD:21204870806061944  SCAPA               18NNE02c  06  1004  057  054                                    
+SHEFFIELD:21204870806061944  SCAPA               20NE 02c  06  1006  055  053                                    
+SHEFFIELD:21204870806061944  SCAPA               24NNE01c  06  1011  052  050                                    
+SHEFFIELD:21204870907061944  SCAPA               04V  01bc 07  1012  050  049                                    
+SHEFFIELD:21204870907061944  SCAPA               08C  00bc 07  1016  053  051                                    
+SHEFFIELD:21204870907061944  SCAPA               12NW   c  06  10105 058  054 50 - 2                             
+SHEFFIELD:21204870907061944  SCAPA               16NW   c  06  1010  054  051                                    
+SHEFFIELD:21204870907061944  SCAPA               20NW 03c  06  1008  050  047                                    
+SHEFFIELD:21204870907061944  SCAPA               24NW 03c  06  1012  050  048                                    
+SHEFFIELD:21204871008061944  SCAPA               04NW 02dc 06  1012  049  047                                    
+SHEFFIELD:21204871008061944  SCAPA               08NW 01co 05  1009  049  049                                    
+SHEFFIELD:21204871008061944  SCAPA               12NW 02c  05  1005  050  045    - 2                             
+SHEFFIELD:21204871008061944  SCAPA               16NW 02c  07  1005  056  055 50                                 
+SHEFFIELD:21204871008061944  SCAPA               18NW 02c  07  1004  055  051                                    
+SHEFFIELD:21204871008061944  SCAPA               20NW 02c  07  1004  055  051                                    
+SHEFFIELD:21204871008061944  SCAPA               24NW 01c  07  1000  049  045                                    
+SHEFFIELD:21204871109061944  SCAPA               04C  00bc 06  1002  050  049                                    
+SHEFFIELD:21204871109061944  SCAPA               08C  00dc 06  1000  050  049 50                  14.4           
+SHEFFIELD:21204871109061944  SCAPA               12NW   c  06   999  052  050    - 2                             
+SHEFFIELD:21204871109061944  SCAPA               16NW   c  06   999  055  051                                    
+SHEFFIELD:21204871109061944  SCAPA               18NW   dc 06   998  054  052                                    
+SHEFFIELD:21204871109061944  SCAPA               20NW   dc 05   998  0535 053                                    
+SHEFFIELD:21204871109061944  SCAPA               24C  00co 05   998  051  051                                    
+SHEFFIELD:21204871412061944  SCAPA               04C  00c  06   998  050  049                                    
+SHEFFIELD:21204871412061944  SCAPA               08C  00o  05   995  050  050                                    
+SHEFFIELD:21204871412061944  SCAPA               12WNW05bc 07   999  051  049                                    
+SHEFFIELD:21204871412061944  SCAPA               16WNW06b  07  1004  055  054                                    
+SHEFFIELD:21204871412061944  SCAPA               18WNW05bc 07  1004  056  055                                    
+SHEFFIELD:21204871412061944  SCAPA               20C  00bc 07  1004  056  056                                    
+SHEFFIELD:21204871412061944  SCAPA               24C  00c  06  1006  051  050                                    
+SHEFFIELD:21204871513061944  SCAPA               04SSW02c  06  1005  050  050                                    
+SHEFFIELD:21204871513061944  SCAPA               08SSW01bc 07  1005  053  051                                    
+SHEFFIELD:21204871513061944  SCAPA               12SSW02c  06  1000  056  054                                    
+SHEFFIELD:21204871513061944  SCAPA               16C  00p  06  1000  055  052                                    
+SHEFFIELD:21204871513061944  SCAPA               18C  00bc 06  1003  060  056                                    
+SHEFFIELD:21204871513061944  SCAPA               20C  00bc 06  1003  059  054                                    
+SHEFFIELD:21204871513061944  SCAPA               24C  00c  06  1003  058  056                                    
+SHEFFIELD:21204871614061944  SCAPA FLOW          04C  00bc 07  1005  050  048                                    
+SHEFFIELD:21204871614061944  SCAPA FLOW          08            1004                                              
+SHEFFIELD:21204871614061944  SCAPA FLOW          12            1004              - 2                             
+SHEFFIELD:21204871614061944  SCAPA FLOW          18NNW02bc 06  1009  055  053                                    
+SHEFFIELD:21204871614061944  SCAPA FLOW          20NNW03c  06  1009  055  053                                    
+SHEFFIELD:21204871614061944  SCAPA FLOW          24NNW02c  06  1018  057  053                                    
+SHEFFIELD:21204871715061944  SCAPA FLOW          04NNW02bc 06  1015  050  048                                    
+SHEFFIELD:21204871715061944  SCAPA FLOW          08C  00bc 07  1015  055  053                                    
+SHEFFIELD:21204871715061944  SCAPA FLOW          12NNW01b  07  1013  060  058    - 2                             
+SHEFFIELD:21204871715061944  SCAPA FLOW          16NNW01c  07  1012  057  055                                    
+SHEFFIELD:21204871715061944  SCAPA FLOW          20NNW01co 06  1010  050  049                                    
+SHEFFIELD:21204871715061944  SCAPA FLOW          24NNW02rrm04  1001  052  051                                    
+SHEFFIELD:21204871816061944D SCAPA FLOW          04NNW01dc 06  1000  054  053                                    
+SHEFFIELD:21204871816061944D SCAPA FLOW          08C  00oq 05  1003  054  054                                    
+SHEFFIELD:21204871816061944D SCAPA FLOW          12NNW01dc 0710      055  053 51 - 2                             
+SHEFFIELD:21204871816061944D SCAPA FLOW          16N B01bc 08101012           51                                 
+SHEFFIELD:21204871816061944D SCAPA FLOW          20NNW02bc 08  1015  055  049                                    
+SHEFFIELD:21204871816061944D SCAPA FLOW          24NNW01bc 08  1015  049  048                                    
+SHEFFIELD:21204871917061944  SCAPA BAY           04C  00bc 06  1025  050  049                                    
+SHEFFIELD:21204871917061944  SCAPA BAY           08C  00b  07  1027  057  055                                    
+SHEFFIELD:21204871917061944  SCAPA BAY           12C  00c  07  1025  062  057 50 - 2                             
+SHEFFIELD:21204871917061944  SCAPA BAY           16C  00d  06  1025  058  052                                    
+SHEFFIELD:21204871917061944  SCAPA BAY           18C  00bc 07  1027  063  057                                    
+SHEFFIELD:21204871917061944  SCAPA BAY           20C  00bc 07  1027  060  055                                    
+SHEFFIELD:21204871917061944  SCAPA BAY           24C  00od 06  1027  055  053                                    
+SHEFFIELD:21204872018061944  SCAPA BAY           04C  00cu 05  1027  050  049                                    
+SHEFFIELD:21204872018061944  SCAPA BAY           08C  00o  06  1030  055  053                                    
+SHEFFIELD:21204872018061944  SCAPA BAY           12C  00c  06  1026  059  056    - 2                             
+SHEFFIELD:21204872018061944  SCAPA BAY           16C  00c  07  1023  063  059 50                                 
+SHEFFIELD:21204872018061944  SCAPA BAY           18C  00c  06  1022  062  057 51                                 
+SHEFFIELD:21204872018061944  SCAPA BAY           20C  00o  06  1022  062  058 50                                 
+SHEFFIELD:21204872018061944  SCAPA BAY           24C  00o  05  1028  058  056                                    
+SHEFFIELD:21204872119061944  SCAPA BAY           04C  00c  06  1029  057  056                                    
+SHEFFIELD:21204872119061944  SCAPA BAY           08C  00c  06  1027  057  055                                    
+SHEFFIELD:21204872119061944  SCAPA BAY           12C  00c  06  1025  060  057    - 2                             
+SHEFFIELD:21204872119061944  SCAPA BAY           16C  00b  07  1025  063  059                                    
+SHEFFIELD:21204872119061944  SCAPA BAY           20C  00bc 07  1025  056  052                                    
+SHEFFIELD:21204872119061944  SCAPA BAY           24C  00c  07  1026  056  054                                    
+SHEFFIELD:21204872725061944DASCAPA FLOW          04W  02bc 08   999           54                                 
+SHEFFIELD:21204872725061944DASCAPA FLOW          08W  01bc 08   999                                              
+SHEFFIELD:21204872725061944DASCAPA FLOW          12C  00bc 08  1000  055  058 53 - 2                             
+SHEFFIELD:21204872725061944DASCAPA FLOW          16C  00bc 08  1010  065  064 54                                 
+SHEFFIELD:21204872725061944DASCAPA FLOW          18C  00bc 07   999  071  071                                    
+SHEFFIELD:21204872725061944DASCAPA FLOW          20C  00bc 07   999  071  069                                    
+SHEFFIELD:21204872725061944DASCAPA FLOW          24V  01bc 07   999  056  053 64                                 
+SHEFFIELD:21204872826061944  SCAPA FLOW          04C  00bc 08   998  050  049 51                                 
+SHEFFIELD:21204872826061944  SCAPA FLOW          08E    c  06  1002  055  052                                    
+SHEFFIELD:21204872826061944  SCAPA FLOW          12C  00bc 07  1002  060  055    - 2                             
+SHEFFIELD:21204872826061944  SCAPA FLOW          16C  00bc 07  1004  072  063                                    
+SHEFFIELD:21204872826061944  SCAPA FLOW          18C  00b  07  1004  070  061                                    
+SHEFFIELD:21204872826061944  SCAPA FLOW          20ESE01bc 07  1000  064  060                                    
+SHEFFIELD:21204872826061944  SCAPA FLOW          24NNE02c  05  1000  055  053                                    
+SHEFFIELD:21204872927061944  SCAPA FLOW          04C  00cr 05   995  055  053                                    
+SHEFFIELD:21204872927061944  SCAPA FLOW          08C  00r  05   990  050  050                                    
+SHEFFIELD:21204872927061944  SCAPA FLOW          12E  02r  06   980  055  054    - 2                             
+SHEFFIELD:21204872927061944  SCAPA FLOW          16ESE03or 05   985  055  054                                    
+SHEFFIELD:21204872927061944  SCAPA FLOW          20ESE02eg 05   980  053  051                                    
+SHEFFIELD:21204872927061944  SCAPA FLOW          24ESE01c  06   987  055  053                                    
+STRIKER:21205610301061944  SCAPA FLOW          04NE 02c  0610i299  048  045 48                                 
+STRIKER:21205610301061944  SCAPA FLOW          08SE 04bc 0811i2982 049  046 48                                 
+STRIKER:21205610301061944  SCAPA FLOW          12SE 05c  0710i2979 049  047 49                                 
+STRIKER:21205610301061944  SCAPA FLOW          16SE 04c  0710i2976 046  045 48                                 
+STRIKER:21205610301061944  SCAPA FLOW          20N  04o  0611i297  052  049 49                                 
+STRIKER:21205610301061944  SCAPA FLOW          24ESE04o  0611i297  046  045 49                                 
+STRIKER:21205610503061944  SCAPA FLOW          04NW 02c  0610i2982 045  044 47                                 
+STRIKER:21205610503061944  SCAPA FLOW          08V  02c  0888i2979 046  044 48                   115           
+STRIKER:21205610503061944  SCAPA FLOW          12V  02bc 0888i2974 053  046 50                                 
+STRIKER:21205610503061944  SCAPA FLOW          16SE 03c  0710i2972 049  045 48                                 
+STRIKER:21205610503061944  SCAPA FLOW          20SE 04r  0488i2957 048  045 47                                 
+STRIKER:21205610503061944  SCAPA FLOW          24SE 05o  0310i2943 049  049 46                                 
+STRIKER:21205610604061944  SCAPA FLOW          04V  02r  0466i2928 054  054 50                                 
+STRIKER:21205610604061944  SCAPA FLOW          08SE 01o  0688i292  059  059 51                                 
+STRIKER:21205610604061944  SCAPA FLOW          12SW 04r  0610i2913 054  053 50                                 
+STRIKER:21205610604061944  SCAPA FLOW          16S  04c  0710i2904 054  052 50                                 
+STRIKER:21205610604061944  SCAPA FLOW          20S  06R  0533i2892 054  053 50                                 
+STRIKER:21205610604061944  SCAPA FLOW          24SSW03b  0620i2986 052  050 50                                 
+STRIKER:21205610705061944  SCAPA FLOW          04S  06r  0466i2872 053  052 50                                 
+STRIKER:21205610705061944  SCAPA FLOW          08W  07cr 0566i288  054  053 50                                 
+STRIKER:21205610705061944  SCAPA FLOW          12NW 07  ~0466i2832 054  052 51   B                             
+STRIKER:21205610705061944  SCAPA FLOW          16W  09cr 0641i2893 048  048 49                                 
+STRIKER:21205610705061944  SCAPA FLOW          20W  08g  0541i29   046  045 48                                 
+STRIKER:21205610705061944  SCAPA FLOW          24W  07d  0431i2908 048  047 49                                 
+STRIKER:21205610806061944  SCAPA FLOW          04W  09D  0541i2914 048  047 49                                 
+STRIKER:21205610806061944  SCAPA FLOW          08NW 07d  0541i291  048  048 48                                 
+STRIKER:21205610806061944  SCAPA FLOW          12NNE04o  0630i2922 044  049 47                                 
+STRIKER:21205610806061944  SCAPA FLOW          16NE 04c  0541i2944 053  050 46                                 
+STRIKER:21205610806061944  SCAPA FLOW          20NE 04c  0531i2962 054  052 48                                 
+STRIKER:21205610806061944  SCAPA FLOW          24NE 03c  0529i2972 048  048 49                                 
+STRIKER:21205610907061944  SCAPA FLOW          04NE 03c  0530i2956 046  045 40                                 
+STRIKER:21205610907061944  SCAPA FLOW          08NE 03c  0631i2977 047  046 40                     ~           
+STRIKER:21205610907061944  SCAPA FLOW          12NE 04c  0630i298  049  049 40                                 
+STRIKER:21205610907061944  SCAPA FLOW          16NW 05c  0621i298  048  048 40                                 
+STRIKER:21205610907061944  SCAPA FLOW          20NW 05c  0521i2977 047  047 40                                 
+STRIKER:21205610907061944  SCAPA FLOW          24N  05o  0621i2969 048  046 40                                 
+STRIKER:21205611008061944  SCAPA FLOW          04NW 05o  0629i2968 047  046 50                                 
+STRIKER:21205611008061944  SCAPA FLOW          08NW 03o  0525i2962 045  045 50                    85           
+STRIKER:21205611008061944  SCAPA FLOW          12NW 04o  0620i2958 048  045 50                                 
+STRIKER:21205611008061944  SCAPA FLOW          16NW 04bc 0731i2955 051  049 50                                 
+STRIKER:21205611008061944  SCAPA FLOW          20NW 04c  0733i2952 050  049 51                                 
+STRIKER:21205611008061944  SCAPA FLOW          24N  02c  0710i295  050  048 50                                 
+STRIKER:21205611109061944  SCAPA FLOW          04V  02c  0510i294  049  047 50                                 
+STRIKER:21205611109061944  SCAPA FLOW          08WNW03  ~0510i294     ~ 050 50                                 
+STRIKER:21205611109061944  SCAPA FLOW          12WNW03c  0610i2934 053  051 49   B                             
+STRIKER:21205611109061944  SCAPA FLOW          16WNW04c  0610i293  051  049 49                                 
+STRIKER:21205611109061944  SCAPA FLOW          20SSW03o  0510i2929 045  046 49                                 
+STRIKER:21205611109061944  SCAPA FLOW          24WNW02o  05 ~i2925 060  059 49                                 
+STRIKER:21205611210061944  SCAPA FLOW          04NNE04o  0621i2928 056  054 49                                 
+STRIKER:21205611210061944  SCAPA FLOW          08NW 04o  0521i2929 049  048 50                                 
+STRIKER:21205611210061944  SCAPA FLOW          12NW 04c  0820i2933 050  049 50                                 
+STRIKER:21205611210061944  SCAPA FLOW          16NW 05c  0521i2937 051  050 50                                 
+STRIKER:21205611210061944  SCAPA FLOW          20W  04bc 0621i2941 053  049 50                                 
+STRIKER:21205611210061944  SCAPA FLOW          24NW 02c  0610i2941 054  049 50                                 
+STRIKER:21205611311061944  SCAPA FLOW          04WSW01c  0710i294  050  048 50                                 
+STRIKER:21205611311061944  SCAPA FLOW          08NE 03c  0610i2937 050  049 49                                 
+STRIKER:21205611311061944  SCAPA FLOW          12WSW04o  0321i2926 051  049 50                                 
+STRIKER:21205611311061944  SCAPA FLOW          16W  04c  0720i2922 053  051 50                                 
+STRIKER:21205611311061944  SCAPA FLOW          20WSW06bc 0836i2925 053  049 48                                 
+STRIKER:21205611311061944  SCAPA FLOW          24NW 03b  0730i293  051  048 50                                 
+STRIKER:21205611412061944  SCAPA FLOW          04SW 03c  0820i293  048  046 48                                 
+STRIKER:21205611412061944  SCAPA FLOW          08SSW05  ~0420i2932 049  047 48                                 
+STRIKER:21205611412061944  SCAPA FLOW          12WNW07bc 0720i2941 047  044 49   B                             
+STRIKER:21205611412061944  SCAPA FLOW          16W  07bc 0742i295  052  048 49                                 
+STRIKER:21205611412061944  SCAPA FLOW          20W  05bc 0732i2953 053  048 49                                 
+STRIKER:21205611412061944  SCAPA FLOW          24SSW02c  0620i2954 050  049 48                                 
+STRIKER:21205611513061944  SCAPA FLOW          04SW 02bc 0621i2956 052  049 50                                 
+STRIKER:21205611513061944  SCAPA FLOW          08SW 02bc 0720i2955 050  047 50                   139           
+STRIKER:21205611513061944  SCAPA FLOW          12SW 03o  0320i295  052  048      B                             
+STRIKER:21205611513061944  SCAPA FLOW          16S  03bc 0720i2946 053  048                                    
+STRIKER:21205611513061944  SCAPA FLOW          20ESE02bc 0720i2944 051  047 50                                 
+STRIKER:21205611513061944  SCAPA FLOW          24SSW01c  0720i2945 050  048 50                                 
+STRIKER:21205611614061944  SCAPA FLOW          04WSW01bc 0720i2944 050  046 50                                 
+STRIKER:21205611614061944  SCAPA FLOW          08S  00c  0720i2948 055  051 48                    75           
+STRIKER:21205611614061944  SCAPA FLOW          12NNE03r  072010063 048  047 48                                 
+STRIKER:21205611614061944  SCAPA FLOW          16NW 06c  062110084 051  048                                    
+STRIKER:21205611614061944  SCAPA FLOW          20NW 06c  0621i2972 050  048 51                                 
+STRIKER:21205611614061944  SCAPA FLOW          24W  05c  0642i2979 049  047 51                                 
+STRIKER:21205611715061944  SCAPA FLOW          04WNW04c  0631i2984 045  045 50                                 
+STRIKER:21205611715061944  SCAPA FLOW          08WNW03c  0721i2983 050  047 48                    18           
+STRIKER:21205611715061944  SCAPA FLOW          12WSW04bc 0721i2982 052  047 50                                 
+STRIKER:21205611715061944  SCAPA FLOW          16SSE03c  0721i2972 050  048 50                                 
+STRIKER:21205611715061944  SCAPA FLOW          20SSE04d  0621i296  050  048 50                                 
+STRIKER:21205611715061944  SCAPA FLOW          24SE 04r  0521i295  050  048 50                                 
+STRIKER:21205611816061944  SCAPA FLOW          04SE 04d  0521i2945 049  048 50                                 
+STRIKER:21205611816061944  SCAPA FLOW          08WNW03o  0521i2948 057  050 50                                 
+STRIKER:21205611816061944  SCAPA FLOW          12NE 05o  0521i296  050  050 50                                 
+STRIKER:21205611816061944  SCAPA FLOW          16NW 05c  0732i298  053  049 50                                 
+STRIKER:21205611816061944  SCAPA FLOW          20N  05c  0731i2993 054  047 50                                 
+STRIKER:21205611816061944  SCAPA FLOW          24N  04bc 0721i3004 053  048 50                                 
+STRIKER:21205611917061944  SCAPA FLOW          04NW 02c  0610i301  049  048 50                                 
+STRIKER:21205611917061944  SCAPA FLOW          08NNW02b  0810i3012 053  050 50                                 
+STRIKER:21205611917061944  SCAPA FLOW          12NE 01c  0810i3015 060  055 50                                 
+STRIKER:21205611917061944  SCAPA FLOW          16WNW02c  0810i3015 055  052 50                                 
+STRIKER:21205611917061944  SCAPA FLOW          20NW 01c  0810i3014 054  049 50                                 
+STRIKER:21205611917061944  SCAPA FLOW          24SE 02c  0610i3012 051  049 51                                 
+STRIKER:21205612018061944  SCAPA FLOW          04ESE03c  07  i3008 050  048 50                                 
+STRIKER:21205612018061944  SCAPA FLOW          08SW 02c  06  i3006 053  051 50                                 
+STRIKER:21205612018061944  SCAPA FLOW          12SE 02c  08  i3008 056  053 50   B                             
+STRIKER:21205612018061944  SCAPA FLOW          16NE 02c  04  i301  060  055   ~                                
+STRIKER:21205612018061944  SCAPA FLOW          20NE  ~c  07  i301  054  055 52                                 
+STRIKER:21205612018061944  SCAPA FLOW          24C  00c  04  i3013 058  054 51                                 
+SWIFTSURE:21205992524061944  SCAPA FLOW          04NNW04cd 052110201                                             
+SWIFTSURE:21205992524061944  SCAPA FLOW          08NNE03cc 051010141                             174.0           
+SWIFTSURE:21205992524061944  SCAPA FLOW          12NW 02  ~04101012               BS                             
+SWIFTSURE:21205992524061944  SCAPA FLOW          16W  06cd 042110092                                             
+SWIFTSURE:21205992524061944  SCAPA FLOW          18SW 02c  04111008                                              
+SWIFTSURE:21205992524061944  SCAPA FLOW          20WSW01cd 041110068                                             
+SWIFTSURE:21205992524061944  SCAPA FLOW          24WSW04cd 041010062                                             
+SWIFTSURE:21205992625061944  SCAPA FLOW          04SW 01bc 071110062                                             
+SWIFTSURE:21205992625061944  SCAPA FLOW          08WSW01bc 061010008                                             
+SWIFTSURE:21205992625061944  SCAPA FLOW          12WSW01b  071110023              BD                             
+SWIFTSURE:21205992625061944  SCAPA FLOW          16WSW01b  071110031                                             
+SWIFTSURE:21205992625061944  SCAPA FLOW          18SW 01b  07101004                                              
+SWIFTSURE:21205992625061944  SCAPA FLOW          20WSW01b  071010039                                             
+SWIFTSURE:21205992625061944  SCAPA FLOW          24WSW01bc 061110039                                             
+SWIFTSURE:21205992726061944  SCAPA FLOW          04SW 03cf   1110013                                             
+SWIFTSURE:21205992726061944  SCAPA FLOW          08SW 04cf   1010041                                             
+SWIFTSURE:21205992726061944  SCAPA FLOW          12S  03c  061010039              BS                             
+SWIFTSURE:21205992726061944  SCAPA FLOW          16SW 02c  061010025                                             
+SWIFTSURE:21205992726061944  SCAPA FLOW          18SW 03bc 071010021                                             
+SWIFTSURE:21205992726061944  SCAPA FLOW          20SW 03c  061010011                                             
+SWIFTSURE:21205992726061944  SCAPA FLOW          24S  03c  0610 9995                                             
+SWIFTSURE:21205992827061944  SCAPA FLOW          04S  03c  0610 9982                                             
+SWIFTSURE:21205992827061944  SCAPA FLOW          08SE 04  ~0511    ~                                             
+SWIFTSURE:21205992827061944  SCAPA FLOW          12SE 05  ~0511    ~              BS                             
+SWIFTSURE:21205992827061944  SCAPA FLOW          16SE  ~  ~ ~11    ~                                             
+SWIFTSURE:21205992827061944  SCAPA FLOW          18SE 05  ~0411    ~                                             
+SWIFTSURE:21205992827061944  SCAPA FLOW          20ESE04c  0421 9984                                             
+SWIFTSURE:21205992827061944  SCAPA FLOW          24SE 04c  0621 9981                                             
+SWIFTSURE:21205992928061944  SCAPA FLOW          04E  03bc 0611 9953                                             
+SWIFTSURE:21205992928061944  SCAPA FLOW          08NE 03bc 0610 9923                                             
+SWIFTSURE:21205992928061944  SCAPA FLOW          12NE 03bc 0601 9928              BD                             
+SWIFTSURE:21205992928061944  SCAPA FLOW          16ESE02bc 0601 9932                                             
+SWIFTSURE:21205992928061944  SCAPA FLOW          18E  02bc 0611 9938                                             
+SWIFTSURE:21205992928061944  SCAPA FLOW          20E  02bc 0610 9945                                             
+SWIFTSURE:21205992928061944  SCAPA FLOW          24SE 04bc 0601 9952                                             
+SWIFTSURE:21205993029061944  SCAPA FLOW          04SE 04c  0610 998                                              
+SWIFTSURE:21205993029061944  SCAPA FLOW          08NNW02bc 070110027                              22.8           
+SWIFTSURE:21205993029061944  SCAPA FLOW          12N  03c  060110057              BS                             
+SWIFTSURE:21205993029061944  SCAPA FLOW          16NE 02bc 080110077                                             
+SWIFTSURE:21205993029061944  SCAPA FLOW          18NE 02bc 080110091                                             
+SWIFTSURE:21205993029061944  SCAPA FLOW          20NE 02bc 070110088                                             
+SWIFTSURE:21205993029061944  SCAPA FLOW          24N  02  ~0711    ~                                             
+SWIFTSURE:21205993130061944  SCAPA FLOW          04SW 01bc 070110092                                             
+SWIFTSURE:21205993130061944  SCAPA FLOW          08SW 02bc 070110104                             108.1           
+SWIFTSURE:21205993130061944  SCAPA FLOW          12NE 04bc 072010111              BD                             
+SWIFTSURE:21205993130061944  SCAPA FLOW          16ESE01c  071010121                                             
+SWIFTSURE:21205993130061944  SCAPA FLOW          18NNE02c  070110111                                             
+SWIFTSURE:21205993130061944  SCAPA FLOW          20NE 04cqu060110108                                             
+SWIFTSURE:21205993130061944  SCAPA FLOW          24NE 04c  061110104                                             
+TRUSTY:2 191260402061944  SCAPA               12SSW01vc 07111014  055         - 2                             
+TRUSTY:2 191260503061944  SCAPA               12SE 01b  07111015  070         - 2                             
+TRUSTY:2 191260604061944  SCAPA               10SW 02cf 0622 999  059                                         
+TRUSTY:2 191260604061944  SCAPA               16SSE04vc 0701 988  060                                         
+TRUSTY:2 191260705061944  SCAPA               12W  05v  0530 988  065         - 2                             
+TRUSTY:2 191260806061944  SCAPA               12NE 02cr 05   998  059                                         
+TRUSTY:2 191260907061944  SCAPA               07NE 01b  05131013  062                                         
+TRUSTY:2 191260907061944  SCAPA               12NE 03bc 06  1015  060         - 2                             
+TRUSTY:2 191262826061944  SCAPA               12                              - 2                             
+TRUSTY:2 191263028061944  SCAPA               12                              - 2                             
+VICTORIOUS:21206930503061944  SCAPA FLOW          04NNW01b  07  10208 046  045 50                                 
+VICTORIOUS:21206930503061944  SCAPA FLOW          08V  01bc 07  10209 048  048                                    
+VICTORIOUS:21206930503061944  SCAPA FLOW          12V  01bc 07  10213 050  0505   - 2                             
+VICTORIOUS:21206930503061944  SCAPA FLOW          16NW 03b  08  10224 052  051                                    
+VICTORIOUS:21206930503061944  SCAPA FLOW          18NW 03o  06  10208 053  054                                    
+VICTORIOUS:21206930503061944  SCAPA FLOW          20NNW04  ~06  10204 054  054                                    
+VICTORIOUS:21206930503061944  SCAPA FLOW          24SW 05o  04  10212 052  052                                    
+VICTORIOUS:21206930604061944  SCAPA FLOW          04SW 04d  02  10021 051  051                                    
+VICTORIOUS:21206930604061944  SCAPA FLOW          08SSW03o  05  10003 049  049                                    
+VICTORIOUS:21206930604061944  SCAPA FLOW          12SW 03o  05   9929 052  053    - 2                             
+VICTORIOUS:21206930604061944  SCAPA FLOW          16W B04c  05  10011 052  052                                    
+VICTORIOUS:21206930604061944  SCAPA FLOW          18WSW05c  05   986  051  050                                    
+VICTORIOUS:21206930604061944  SCAPA FLOW          20W B05o  04   9864 055  055                                    
+VICTORIOUS:21206930604061944  SCAPA FLOW          24SW 02bc 06   9824 053  053                                    
+VICTORIOUS:21206930705061944  SCAPA FLOW          04S  07R  04   9802 050  051                                    
+VICTORIOUS:21206930705061944  SCAPA FLOW          08WSW08R  04   9809 052  052                                    
+VICTORIOUS:21206930705061944  SCAPA FLOW          12W  09rq 04   9841 052  052    - 2                             
+VICTORIOUS:21206930705061944  SCAPA FLOW          16W  08rq 04   9841 051  051                                    
+VICTORIOUS:21206930705061944  SCAPA FLOW          18W  09o  05   9875 054  054                                    
+VICTORIOUS:21206930705061944  SCAPA FLOW          20W  09q  02   9889 053  054                                    
+VICTORIOUS:21206930705061944  SCAPA FLOW          24W  08oq 03   9902 054  054                                    
+VICTORIOUS:21206930806061944  SCAPA FLOW          04WNW08oq 03   999  050  051                                    
+VICTORIOUS:21206930806061944  SCAPA FLOW          08NW 05bc 05   9925 050  050                                    
+VICTORIOUS:21206930806061944  SCAPA FLOW          12NNW03c  06   9952 051  050    - 2                             
+VICTORIOUS:21206930806061944  SCAPA FLOW          16NNW04o  06  10017 054     ~                                   
+VICTORIOUS:21206930806061944  SCAPA FLOW          18NW 04o  06  10054 054  054                                    
+VICTORIOUS:21206930806061944  SCAPA FLOW          20NNW04o  06  10076 054  054                                    
+VICTORIOUS:21206930806061944  SCAPA FLOW          24NNW03c  05  10084 052  051                                    

@@ -1,0 +1,2189 @@
+DEVONPORT            52726 50°22'0'' N, 4°11'0'' W  # UK version
+DEVONPORT2           00000 36°50'0'' S, 174°47'0'' E  # NZ version (I added 2)
+PORTSMOUTH           50592 50°49'0'' N, 1°7'0'' W
+HONG KONG            47374 22°17'0'' N, 114°9'0'' E
+SCAPA FLOW           37802 58°55'0'' N, 3°6'0'' W
+TRINCOMALEE          35992 8°34'0'' N, 81°14'0'' E
+GREENOCK             33775 55°56'0'' N, 4°45'0'' W
+ROSYTH               31211 56°2'0'' N, 3°26'0'' W
+SIMONSTOWN           29017 34°11'0'' S, 18°26'0'' E
+COLOMBO              28982 6°55'55'' N, 79°50'52'' E
+ALEXANDRIA           24995 31°11'53'' N, 29°55'9'' E
+MALTA                24003 35°55'0'' N, 14°26'0'' E
+CHATHAM              21816 51°23'0'' N, 0°31'0'' E
+DURBAN               20599 29°51'0'' S, 31°2'0'' E
+SINGAPORE            18670 1°17'35'' N, 103°51'21'' E
+FREETOWN             18636 8°29'24'' N, 13°14'3'' W
+GIBRALTAR            17979 36°8'0'' N, 5°21'0'' W
+LIVERPOOL            17613 53°25'0'' N, 3°0'0'' W
+SCAPA                16688 58°55'0'' N, 3°6'0'' W
+SYDNEY               16176 33°53'0'' S, 151°13'0'' E
+KILINDINI            16101 5°0'0'' S, 39°49'0'' E
+BOMBAY               15206 18°58'30'' N, 72°49'33'' E
+PORTLAND             13132 50°33'0'' N, 2°26'0'' W
+WEI HAI WEI          12260 37°30'0'' N, 122°6'0'' E
+BERMUDA              9818 32°18'16'' N, 64°45'6'' W
+ADEN                 9167 12°46'0'' N, 45°1'0'' E
+HALIFAX              9097 44°39'0'' N, 63°36'0'' W
+BELFAST              8842 54°35'0'' N, 5°57'0'' W
+SHANGHAI             7739 31°14'0'' N, 121°28'0'' E
+HVALFJORD            7283 64°22'35'' N, 21°39'47'' W
+NORFOLK              6888 36°50'48'' N, 76°17'8'' W
+PLYMOUTH             6265 50°24'0'' N, 4°7'0'' W
+HEBBURN              5850 54°58'0'' N, 1°31'0'' W
+BOSTON               5751 42°21'30'' N, 71°3'37'' W
+GARELOCH             5690 56°2'0'' N, 4°48'0'' W
+MOMBASA              4963 6°12'0'' S, 39°13'0'' E
+ROTHESAY             4613 55°50'0'' N, 5°4'0'' W
+SHEERNESS            4330 51°26'0'' N, 0°46'0'' E
+SOUTHAMPTON          4166 50°54'0'' N, 1°24'0'' W
+DUNDEE               3957 56°30'0'' N, 2°58'0'' W
+AMOY                 3669 24°27'36'' N, 118°4'44'' E
+PORT SAID            3393 31°16'0'' N, 32°18'0'' E
+NAVAL BASE           3254  # Singapore?
+PHILADELPHIA         3198 39°57'8'' N, 75°9'51'' W
+GLASGOW              3016 55°50'0'' N, 4°15'0'' W
+AUCKLAND             2968 36°51'0'' S, 174°47'0'' E
+NEW YORK             2930 40°42'51'' N, 74°0'23'' W
+HOLY LOCH            2812 55°59'0'' N, 4°55'0'' W
+CHARLESTON           2622 32°46'35'' N, 79°55'52'' W
+SINGAPORE NAVAL BASE 2619 1°17'35'' N, 103°51'21'' E
+CAPETOWN             2610 33°55'0'' S, 18°25'0'' E
+HVALFJORDUR          2430 66°5'0'' N, 23°6'0'' W
+FREMANTLE            2366 32°3'0'' S, 115°46'0'' E
+COCHIN               2277 9°58'0'' N, 76°14'0'' E
+SWATOW               2266 23°22'0'' N, 116°40'0'' E
+PORT ELIZABETH       2204 33°58'0'' S, 25°35'0'' E (South Africa (PB))
+ALGIERS              2192 36°45'47'' N, 3°3'2'' E
+VANCOUVER            2116 49°15'0'' N, 123°8'0'' W
+BAHRAIN              2111 26°0'0'' N, 50°33'0'' E
+NEWPORT NEWS         2105 36°58'43'' N, 76°25'42'' W
+SUEZ                 2100 29°58'0'' N, 32°33'0'' E
+NEWCASTLE            2031 # on Tyne?
+TSINGTAO             2030 36°4'53'' N, 120°20'12'' E
+CLYDE                1986 55°50'0'' N, 4°15'0'' W
+BROOKLYN             1981 40°39'0'' N, 73°57'0'' W
+MANUS                1905 1°17'0'' S, 143°35'0'' E
+KIUKIANG             1841 22°49'54'' N, 113°0'37'' E # Guangdong not Jiangxi?
+HANKOW               1808 30°35'0'' N, 114°16'0'' E
+YOKOHAMA             1800 35°27'0'' N, 139°39'0'' E
+ESQUIMALT            1732 48°26'0'' N, 123°25'0'' W
+BAHREIN              1706 26°0'0'' N, 50°33'0'' E
+MARE ISLAND          1680 38°5'44'' N, 122°16'17'' W (Nr San Fransisco, (PB))
+LAMLASH              1658 55°32'0'' N, 5°9'0'' W
+GOVAN                1586 55°51'0'' N, 4°19'0'' W
+WAR STATION          1553 # ?
+ROYAL ALBERT DOCKS   1517 51°30'0'' N, 0°5'0'' W
+PENANG               1471 5°25'0'' N, 100°20'0'' E
+SPITHEAD             1437 50°45'0'' N, 1°8'0'' W
+INVERGORDON          1426 57°41'0'' N, 4°11'0'' W
+TARANTO              1405 40°37'0'' N, 17°15'0'' E
+DIEGO SUAREZ         1373 12°16'0'' S, 49°17'0'' E
+LOCH STRIVEN         1370 55°57'0'' N, 5°5'0'' W
+LOCH ALSH            1307 57°15'0'' N, 5°39'0'' W
+TRINCOMALI           1271 8°34'0'' N, 81°14'0'' E
+LONDONDERRY          1247 55°0'0'' N, 7°15'0'' W
+NEWPORT              1230 # South Wales?
+BASRAH               1206 30°29'39'' N, 47°49'9'' E
+HAIFA                1198 32°48'56'' N, 34°59'21'' E
+BIRKENHEAD           1191 53°24'0'' N, 3°2'0'' W
+BREMERTON            1157 47°34'3'' N, 122°37'53'' W
+GARELOCK             1154 56°2'0'' N, 4°48'0'' W
+ZARA                 1144 44°7'11'' N, 15°14'32'' E
+TIENTSIN             1127 # Which?
+ST JOHN              1112 49°20'0'' N, 55°7'0'' W    # St. John's, Newfoundland
+PORT SUDAN           1103 19°36'57'' N, 37°12'59'' E
+SEYCHELLES           1097 4°35'0'' S, 55°40'0'' E
+FREETOWN S L         1085 8°29'24'' N, 13°14'3'' W
+NO 10 DOCK           1054 50°49'0'' N, 1°7'0'' W     # Portsmouth
+TRINCO               1047 8°34'0'' N, 81°14'0'' E
+SAN DIEGO            1019 32°42'55'' N, 117°9'23'' W
+BEIRUT               1012 33°52'19'' N, 35°30'35'' E
+MASSAWA              984 15°37'0'' N, 39°29'0'' E
+SIMONS TOWN          974 34°11'0'' S, 18°26'0'' E
+WEIHAIWEI            960 37°30'0'' N, 122°6'0'' E
+HEBBURN ON TYNE      947 54°58'0'' N, 1°31'0'' W
+LEYTE                918 11°22'0'' N, 124°30'0'' E
+SURVEY GROUND        901 # ?
+MANILA               887 14°35'0'' N, 121°0'0'' E
+BALTIMORE            880 39°17'25'' N, 76°36'45'' W (Maryland)
+METHIL               856 56°10'0'' N, 3°1'0'' W
+KURE                 852 34°15'0'' N, 132°37'0'' E (Japan)
+SOUTH SHIELDS        846 54°59'16'' N, 1°25'17'' W
+PERSIAN GULF         842 27°0'0'' N, 51°0'0'' E
+NO 5 BASIN           814 50°49'0'' N, 1°7'0'' W    (Portsmouth)
+EAST LONDON          811 33°2'0'' S, 27°55'0'' E
+BANDAR ABBAS         803 27°11'11'' N, 56°16'38'' E
+VALETTA              783 35°53'59'' N, 14°30'53'' E
+TOB                  756 55°56'0'' N, 4°45'0'' W (Assumed Tail of Bank -  Greenock)
+SAN FRANCISCO        746 37°46'30'' N, 122°25'6'' W
+MOTHER BANK          742 50°45'0'' N,    1°8'0'' W 
+PORT OF SPAIN        740 10°40'0'' N, 61°31'0'' W
+KHOR KUWAI           710 26°21'14'' N, 56°21'48'' E
+FASLANE              703 56°2'0'' N, 4°48'0'' W
+KHOR KALIYA          687 26°12'32'' N, 50°38'20'' E
+ROYAL ALBERT DOCK    679 51°30'0'' N, 0°5'0'' W
+BRISBANE             667 27°30'0'' S, 153°1'0'' E
+CLYDEBANK            657 55°54'0'' N, 4°24'0'' W
+KINGSTON             650 18°0'0'' N, 76°48'0'' W (Jamaica)
+CHEFOO               649 37°32'0'' N, 121°24'0'' E
+TOKYO BAY            649 35°25'1'' N, 139°47'1'' E
+MELBOURNE            641 37°49'0'' S, 144°58'0'' E
+PORT STANLEY         630 51°42'0'' S, 57°51'0'' W
+TROON                612 55°32'0'' N, 4°40'0'' W
+TYNE                 605 54°58'0'' N, 1°31'0'' W (taken as Hebburn)
+HM NAVAL BASE        595 # ?
+HEI HAI HEI          582 37°30'0'' N, 122°6'0'' E (Wei Hai Wei)
+MAURITIUS            577 20°18'0'' S, 57°35'0'' E
+SHARP PEAK           571 # ?
+TAIL OF THE BANK     568 55°56'0'' N, 4°45'0'' W (Used Greenock)
+WEYMOUTH BAY         559 50°36'0'' N, 2°27'0'' W
+NORTH SHIELDS        536 55°0'17'' N, 1°28'22'' W
+JERVIS BAY           535 35°5'0'' S, 150°45'0'' E
+DALMUIR              535 55°54'0'' N, 4°25'0'' W
+NAVAL BASE SINGAPORE 534 1°17'35'' N, 103°51'21'' E
+NAVY YARD            533 # ? 
+MASIRA               530 20°30'0'' N, 58°40'0'' E
+WELLINGTON           529 41°18'0'' S, 174°47'0'' E
+TORBAY               524 50°25'0'' N, 3°28'0'' W (Devon (PB))
+BATAVIA              521 6°10'28'' S, 106°49'46'' E
+AUGUSTA              518 37°13'0'' N, 15°13'0'' E (Sicily (PB))
+RIO DE JANEIRO       517 22°54'0'' S, 43°14' 0'' W
+ARROMANCHES          516 49°20'0'' N, 0°37'0'' W
+MONTEVIDEO           511 34°51'29'' S, 56°10'15'' W
+BANGOR BAY           509 54°40'0'' N,  5°40'0'' W
+LAGOS                496 06°27'11'' N,  3°23'45'' E (assumed Nigeria, several other possibilities)
+US NAVY YARD BROOKLY 492 40°42'15'' N, 73°55'05'' W
+TRINIDAD             492 10°40'0'' N, 61°31'0'' W
+SAN PEDRO BAY        490 12°31'50'' N, 122°15'1'' E (Phillipines (PB))
+DOCKYARD BASIN       476 More info reqd
+ROSENEATH            475 56°01'0'' N,   4°49'0'' W     
+PALMA                473 39°34'0'' N,   2°39'0'' E (assumed Majorca, Spain)
+BASRA                470 30°30'0'' N,  47°51'0'' E
+LARNE                455 54°51'0'' N,   5°49'0'' W
+BARROW               452 54° 7'0'' N,   3°14'0'' W (assumed Barrow-in-Furness, UK)     
+TIENTSIM             448 39° 8'0'' N, 117°12'0'' E
+MIDDLE DOCK, SOUTH S 445 54°59'16'' N, 1°25'17'' W (South Shields)
+ABADAN               444 30°10'0'' N,  48°50'0'' E
+DALMUIR BASIN        443 55°54'0'' N,   4°24'0'' W
+ROTHESAY BAY         433 55°50'0'' N,  5° 4'0'' W     
+MADRAS               428 13° 0'0'' N, 80°15'0'' E
+MOBILE               426 30°41'39'' N, 88°2'35'' W
+NORTH WOOLWICH       422 51°30'0'' N,   0°4' 0'' E
+FALMOUTH             422 50° 9'0'' N,   5°5' 0'' W
+CHARLESTON SC        420 32°46'35'' N, 79°55'52'' W
+SURVEYING GROUND     416 ???????????? 
+CARDIFF              415 51°30'0'' N,   3°12'0'' W
+AKUREYRI             415 65°40'0'' N,  18° 6'0'' W
+WAS STATION          412 more info reqd (what is WAS?)
+DAKAR                411 14°39'58'' N, 17°26'12'' W
+TAIL OF BANK         411 55°59'0'' N,  4°50'0'' W (Kilkreggan)
+REYKJAVIK            411 64° 8'0'' N,  21°54'0'' W
+PEARL HARBOUR        406 21°19'36'' N, 157°58'9'' W
+CALCUTTA             403 22°32'0'' N,   88°25'0'' E
+MOTHERBANK           399 50°45'0'' N,    1°8'0'' W     ?
+GRAND HARBOUR        398 35°53'32'' N,  14°30'46'' E (Malta)
+KARACHI              388 24°52'0'' N,   67°3'0'' E
+JOHORE               388  2° 0'0'' N,  103°30'0'' E
+CHINWANGTAO          386 39°55'54'' N, 119°35'18'' E
+NORTH WOOLWICK       381 51°30'0'' N, 0°4'0'' E (misspelling of North Woolwich?)
+SINGAPORE ROADS      378  1°17'0'' N, 103°51'0'' E
+KOBE                 378 34°40'0'' N,  135°7'0'' E
+MIDDLE DOCK SOUTH SH 374 54°59'16'' N, 1°25'17'' W (South Shields)
+MEADOWSIDE           370 more info reqd
+KOLA INLET           369 69°15'0'' N,  33°32'0'' E
+PORT T               354 29°57'0'' N, 32°34'0'' E (Port Tewfick?)
+MANZA BAY            350  4°57'0'' S,  39°9'0'' E
+RANGOON              344 16°45'0'' N, 96°15'0'' E
+EL BUOY              343 19°36'0'' N, 70°15'0'' W (El Buey)
+SINGAPORE BASE       343 1°22'0'' N, 103°48'0'' E (as previous Singapore) 
+NAPLES               340 40°53'0'' N, 14°25'0'' E
+SUVA                 336 18° 8'0'' S, 178°25'0'' E (Fiji)
+TRISTAN DA CUNHA     335 37° 6'38'' S,  12°17'14'' W
+MONTE VIDEO          334 34°51'29'' S, 56°10'15'' W (alternative form of Montevideo?)
+SIMONS BAY           331 34°11'0'' S,  18°26'0'' E
+M MOORINGS           326 more info reqd
+GARE LOCH            326 56° 2'0'' N,  4°48'0'' W
+GAVELOCH             322 56° 2'0'' N, 4°48'0'' W (misspelling of Gare Loch?)
+LOWESTOFT            320 52°29'0'' N,  1°45'0'' E
+BLYTH                318 55°7'14'' N, 1°30'51'' W     ?
+PORTSMOUTH VA        317 36°50'7'' N, 76°17'55'' W
+PORT RUSSELL         315 (New Zealand (PB))
+HOBART               314 42°55'0'' S, 147°20'0'' E
+SAIGON               310 10°45'0'' N, 106°40'0'' E
+BUENOS AIRES         310 34°35'15'' S, 58°40'21'' W
+GARELOCHHEAD         304 56° 5'0'' N,  4°51'0'' W
+MIRS BAY             304 22°33'0'' N, 114°24'0'' E (Hong Kong)
+BAHIA                304 12°59'0'' S, 38°31'0'' W (Brazil (PB))
+CAPE TOWN            303 33°54'0'' S, 18°26'0'' E
+SALDANHA BAY         289 33° 5'0'' S, 18° 1'0'' E
+BARRY DOCK           288 51°24'0'' N,  3°15'0'' W
+PLYMOUTH SOUND       280 50°19'0'' N,  4° 9'0'' W
+COCKATOO IS          278 32°11'0'' S, 152°29'0'' E (Australia, NSW ?) 
+POINTE NOIRE         277 more info reqd - many possibilities
+SAINT JOHN           274 47°33'0'' N, 52°40'0'' W (Canada (PB)
+VAENGA BAY           273 69° 5'0'' N, 33°26'0'' E
+TANGKU               273 39° 1'16'' N, 117°38'49'' E (T'ang-ku)
+NOUMEA               273 22°16'0'' S, 166°27'0'' E
+MANUS ISLAND         267  2° 5'0'' S, 147°0'0'' E
+TIEUTSIU             266 39° 8'0'' N, 117°12'0'' E (misspelling of TIENTSIM?)
+ALEXANDRA DOCK       264 53°25'0'' N, 3°0'0'' W (Liverpool)
+GIBRALTER            262 36° 8'0'' N, 5°21'0'' W (misspelling of Gibraltar (PB))
+PORT VICTORIA        261  4°37'0'' S, 55°27'0'' E (Seychelles, but there are other possibilities) 
+JESSELTON            260  6° 2'0'' N, 116°10'0'' E
+SOUTH BASIN          255 more info reqd
+MERS EL KEBIR        255 35°43'46'' N,   0°42'23'' W
+GASPORT              255 50°48'0'' N, 1°8'0'' W (Gosport, UK (PB))
+MUSCAT               255 23°36'48'' N, 58°35'36'' E
+HAMPTON ROADS        253 36°58'30'' N, 76°21'0'' W
+PORT TEWFICK         253 29°57'0'' N, 32°34'0'' E
+BELFAST LOUGH        251 54°40'0'' N,  5°36'0'' W
+RN BASE SINGAPORE    250  1°22'0'' N, 103°48'0'' E
+ROOKA                249 More info reqd (several places listed as Roka) 
+TAMATAVE             248 18°10'0'' S, 49°23'0'' E
+BALBOA               247  8°57'0'' N, 79°34'0'' W  ?
+LONDON               247 51°30'0'' N,  0° 7'0'' W
+NO 5 DOCK            247 more info reqd
+CHESAPEAKE BAY       244 37°0'0'' N, 76°0'0'' W
+EAST WALL            244 more info reqd
+NANKING              243 32°3'42'' N, 118°46'40'' E
+ADDU ATOLL           241  0°38'0'' S, 73°10'0'' E
+PORT TENFIK          237 29°57'0'' N, 32°34'0'' E (Alternative misspelling of Port Tewfik?)
+TAKORADI             235  4°53'0'' N,  1°45'0'' W
+NO 2 DOCK ROSYTH     234 56° 2'0'' N,  3°26'0'' W
+MARSAXLOKK           232 35°49'12'' N, 14°32'44'' E
+BANDAR ABBAS PG      230 27°11'11'' N, 56°16'38'' E
+KUWAIT               229 29°30'0'' N, 47°45'0'' E
+BANGOR               229 More info reqd - many possibilities
+ROBINS DRY DOCK      229 40°40'7'' N, 74°0'57'' W (Brooklyn)
+ARGOSTOLI            228 38°10'23'' N, 20°28'55'' E
+GARDEN IS            227 More info reqd - many possibilities
+SIERRA LEONE         225  8°29'24'' N, 13°14'3'' W (taken as Freetown) 
+DAR ES SALAAM        225  6°48'0'' S,  39°17'0'' E 
+HEBBUAR ON TYNE      225 54°58'0'' N, 1°31'0'' W (taken as Hebburn) 
+AWOY                 224 more info reqd
+STATEN ISLAND        221 40°35'0'' N, 74°9'0'' W (assumed part of New York)
+SEYDISFJORD          220 65°18'0'' N, 13°50'0'' W
+NEW LONDON           219 More info reqd - several possibilities - all in USA
+KAVALLA              217 41°0'0'' N, 24°30'0'' E
+FALKLAND ISLANDS     215 51°42'0'' S, 57°51'0'' W (assumed Port Stanley)
+NAVARIN              213 36°8'0'' N, 5°50'0'' E
+FORT BLOCKHOUSE      213 50°48'0'' N, 1°8'0'' W (taken as Gosport)
+CAMPBELLTOWN         212 More info reqd - many possibilities
+PORT SWETTENHAM      212  3° 0'0'' N, 101°24'0'' E
+FREEMANTLE           212 32° 3'0'' S, 115°46'0'' E
+HELENSBURGH          211 56° 1'0'' N,  4°44'0'' W
+KAMARAN              210 15°21'0'' N, 42°35'0'' E (Yemen (PB))
+PORT LOUIS           205 More info reqd - several possibilities
+MERSING              203  2°26'0'' N, 103°50'0'' E
+WEYMOUTH             203 50°36'0'' N, 2°27'0'' W
+CORFU                201 39°40'0'' N, 19°45'0'' E
+SUDA BAY             200 35°29'0'' N, 24°10'0'' E
+ARROCHAR             199 56°12'0'' N, 4°44'0'' W (Scotland (PB))
+NO 1 BATTLESHIP FORT 198 More info reqd
+AUCHLAND             198 36°51'0'' S, 174°47'0'' E (taken as Auckland)
+TRIESTE              197 45°40'0'' N, 13°46'0'' E
+ZANZIBAR             197  6°10'0'' S, 39°11'0'' E
+NORMANDY BEACHEAD    196 49°22'0'' N, 0°53'0'' W (Omaha Beach)
+BERBERA              195 10°26'8'' N, 45°0'59'' E
+TSUIGTAO             192 36°4'53'' N, 120°20'12'' E (taken as Tsingtao)
+TORQUAY              191 50°27'0'' N, 3°30'0'' W
+SALERNO BAY          190 40°41'0'' N, 14°47'0'' E
+PORT T.              190 29°57'0'' N, 32°34'0'' E (Port Tewfik?)
+BARBADOS             189 13°6'0'' N, 59°37'0'' W (assumed Bridgetown)
+TANJONG PRIOK        189  6°6'49'' S, 106°53'27'' E
+ESQUINALT            189 48°26'0'' N, 123°25'0'' W (assumed Esquimalt)
+TSING TAO            188 36°4'53'' N, 120°20'12'' E
+KING GEORGE V DOCKS  188 51°30'18'' N, 0° 3' 19'' E (but could be 55°52'0'' N, 4°20'0'' W, Glasgow)
+SANDAKAN             188  5°45'0'' N, 118°0'0'' E
+KAMES BAY            187 55°52'0'' N,  5°5'0'' W
+6 & 7 WHARF DEVONPOR 186 50°22'0'' N, 4°11'0'' W (assumed Devonport UK)
+BATHURST             185 13°27'11'' N, 16°34'39'' W (assumed The Gambia)
+GRAND PORT           183 20°21'0'' S, 57°47'0'' E
+MERCURY BAY          183 36°47'0'' S, 175°48'0'' E
+MEADOWSIDE QUAY      183 More info reqd
+US NAVY YARD         182 More info reqd
+NO 8 DOCK            182 More info reqd
+NO 10                182 ????????????
+KOWLOON              181 22°19'0'' N, 114°11'0'' E
+MILFORD HAVEN        178 51°42'0'' N,  5°7'0'' W
+PUNTA DEL ESTE       177  8°26'0'' N, 79°7'0'' W (taken as Punta del Oeste, Panama)
+PRINCES DOCK         176 53°25'0'' N, 3°0'0'' W (Liverpool)
+MORSE D DOCK         175 40°40'7'' N, 74°0'57'' W (Morse Dry Dock, Brooklyn)
+SABANG               175 More info reqd - many possibilities
+SUEZ CANAL           174 29°55'0'' N, 32°33'0'' E
+BANDAR SHAPUR        172 30°26'8'' N, 49°6'20'' E (assumed Bandar Shahpoor)
+DALMUIO              170 55°54'0'' N,  4°25'0'' W (assumed Dalmuir)
+DUNGUN               170  4°47'0'' N, 103°26'0'' E (Malaysia - several other possibilities)
+JOHORE NAVAL BASE    169  2° 0'0'' N, 103°30'0'' E
+SOURABAYA            168  7°15'0'' S, 112°45'4'' E
+NW HONG KONG         167 22°18'0'' N, 114° 8'0'' E
+KING GEORGE V        164 51°30'18'' N, 0° 3' 19'' E (but could be 55°52'0'' N, 4°20'0'' W, Glasgow)
+NO 17 BUOY ROSYTH    163 56° 2'0'' N,  3°26'0'' W (as previous Rosyth)
+C1 BUOY PORTLAND     161 50°33'0'' N,  2°26'0'' W (assumed UK but many other possibilities)
+NO 10 DOCK DEVONPORT 161 50°22'0'' N,  4°11'0'' W (as previous Devonport)
+HARWICH              161 51°57'0'' N,  1°18'0'' E
+TEWFICK              161 29°57'0'' N, 32°34'0'' E (Alternative spelling of Port Tewfik?)
+BIZERTA              159 37°16'28'' N, 9°52'26'' E
+RECIFE               159  8° 3'0'' S, 34°54'0'' W
+MANAPAM              158  9°17'0'' N, 79° 7'0'' E (assumed Mandapam, India - could be Sri Lanka)
+CAMPBELTOWN          157 55°26'0'' N, 5°38'0'' W
+MIDDLE DOCK          157 More info reqd
+ARROMANCHER          156 49°20'0'' N, 0°37'0'' W (assumed Arromanches)
+PORTSMOUTH NW        155 50°49'0'' N, 1°7'0'' W (assumed UK)
+GREAT MERCURY ISLAND 154 36°37'0'' S, 175°48'0'' E
+NO 8 DRY DOCK        154 More info reqd
+A F D 5              153 More info reqd
+TORONTO              152 (Not Canada - somewhere in the Med. (PB))
+PORTSMOUTH NO 15 DOC 151 50°49'0'' N, 1°7'0'' W (as previous Portsmouth)
+TOBERMORY            150 56°38'0'' N, 6°5'0'' W (assumed UK)
+TSINPTAS             147 alternative misspelling of Tsingtao?
+ST HELENA            147 15°56'0'' S, 5°43'0'' W
+MONTREAL             147 45°30'0'' N, 73°35'0'' W
+WHANGAREI HEADS      146 35°49'0'' S, 174°30'0'' E
+KING GEORGE V DOCK   145 51°30'18'' N, 0° 3' 19'' E (but could be 55°52'0'' N, 4°20'0'' W, Glasgow)
+ALGER                143 36°45'47'' N, 3°3'2'' E
+PUERTA DEL ESTE      142 Could be misspelling of Punta del Oeste (Google thinks its a tourist motel in Madrid!) 
+NAGLE COVE           140 36°9'0'' S, 175°19'0'' E
+NORMANDY             140 49°0'0'' N, 0°0'0'' E
+15TH PIER            140 More info reqd
+BANDA ABBAS          139 27°11'11'' N, 56°16'38'' E (misspelling of Bandar Abbas?)
+H M DOCKYARD         139 More info reqd
+NO 1 JETTY           138 More info reqd
+NASSAU               138 25° 5'0'' N, 77°21'0'' W (assumed Bahamas)
+PORT DICKSON         135  2°31'0'' N, 101°48'0'' E
+PORT CASTRIES        134 14° 0'0'' N, 61° 0'0'' W
+COPENHAGEN           134 55°40'0'' N, 12°35'0'' E
+LOURENCO MARQUES     134 25°57'55'' S, 32°35'21'' E
+KRYSMA               133 More info reqd (no sensible match on Fuzzy G. or Google)
+MALTA (G H)          133 35°53'32'' N, 14°30'46'' E (as previous Grand Harbour)
+LOCH ERIBOLL         133 58°31'0'' N,  4°41'0'' W
+B I  PORTSMOUTH      132 50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+ST KILTS             132 17°18'0'' N, 62°44'0'' W (misspelling of St Kitts ?) 
+PORT TEWFIK          132 29°57'0'' N, 32°34'0'' E (misspelling of Port Tewfick)
+URMSTON ROAD         132 22°20'34'' N, 113°56'50'' E
+GRAND HARBOR         131 35°53'32'' N, 14°30'46'' E (as previous Grand Harbour) 
+TAIL O BANK          131 55°59'0'' N,  4°50'0'' W (alternative spelling of Tail of the Bank, Kilkreggan)
+HENJAM               128 26°40'46'' N, 55°53'47'' E (alternatively 29°40'2'' N, 56°30'24'' E, both in Iran) 
+WEI HEI WEI          126 24°20'0'' N, 120°37'0'' E (Taiwan - best guess)
+FREETOWN SL          126  8°29'24'' N, 13°14'3'' W (as previous Sierra Leone)
+BALI                 126  8°39'0'' S, 115°13'0'' E (assumed the island in Indonesia, but many other possibilities)
+PALUA                126 (Eastern Med. (PB)) 
+VENICE               125 45°35'0'' N, 12°34'0'' E (assumed to be in Italy)
+K G V DOCK           123 51°30'18'' N, 0° 3' 19'' E (King George V Dock, but could be 55°52'0'' N, 4°20'0'' W, Glasgow)
+GOSPORT              122 50°48'0'' N,  1°8'0'' W (as Fort Blockhouse)
+LOCK STRIVEN         121 55°57'0'' N,  5°5'0'' W
+GOWOCH               121 55°57'0'' N, 4°50'0'' W (Gouroch? (PB))
+KOMATSUSHIMA         120 34°0'0'' N, 134°35'0'' E
+CHIN WANG TAO        120 39°52'5'' N, 119°32'55'' E
+PEARL HARBOUR (BARM  119 21°19'36'' N, 157°58'9'' W (as previous Pearl Harbour)
+PORT IBRAHIM         119 29°56'0'' N, 32°34'0'' E
+WEIHAI WEI           119 alternative spelling of Wei Hei Wei
+TAING TAO            119 36°4'53'' N, 120°20'12'' E (Now known as Quingdao, alternatively 23°15'0'' N, 116°48'0'' E, both in China  
+KINGSTON JAMAICA     117 17°59'0'' N, 76°48'0'' W 
+BETHLEHEM            116 more info reqd - several possibilities 
+NEWCASTLE ON TYNE    116 54°58'26'' N, 1°36'48'' W
+SWAMSEA              114 51°38'0'' N,  3°58'0'' W (assumed Swansea, S.Wales, but several other possibilities)  
+MIAMI                114 25°46'26'' N, 80°11'38'' W
+OBAN                 114 56°25'0'' N,  5°28'0'' W
+SUEZ BAY             113 29°55'0'' N, 32°32'0'' E
+SFAX                 112 34°44'26'' N, 10°45'37'' E
+SORRENTO             112 40°37'0'' N, 14°22'0'' E (assumed in Italy)
+VALPARAISO           112 33° 2'52'' S, 71°36'4'' W (assumed in Chile, but several other possibilities) 
+SERANGOON ANCH       111  1°22'40'' N, 103°51'55'' E (Singapore)
+SEATTLE              111 47°36'23'' N, 122°19'51'' W
+BIRKEN HEAD          110 53°24'0'' N,  3°2'0'' W (assumed Birkenhead, UK) 
+CHETOO               110 More info reqd (several possibilities, mainly in China)
+TAIL O THE BANK      109 55°59'0'' N,  4°50'0'' W (alternative spelling of Tail of the Bank, Kilkreggan)
+PASCAGOULA           109 30°21'56'' N, 88°33'22'' W
+B I PORTSMOUTH       108 50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+SERANGOON            108  1°22'40'' N, 103°51'55'' E, as previous SERANGOON ANCH
+HOBOKEN              108 40°44'38'' N, 74°1'58'' W (in USA, several other possibilities) 
+SCOTTS BASIN         108 More info reqd (several possibilities, but none look likely)
+BI PORTSMOUTH        107 50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+ORAN                 106 35°41'28'' N,  0°38'30'' W
+WUHU                 106 31°17'0'' N, 118°20'0'' E (China, alternatively 24°32'0'' N, 120°46'0'' E, Taiwanl
+U.S. NAVY YARD BROOK 106 40°39'0'' N, 73°57'0'' W 
+DURBAN J.A.          105 29°51'0'' S, 31°1'0'' E
+BARRY                105 51°24'0'' N,  3°15'0'' W (as previous Barry Dock)
+ACID BEACH SICILY    105 37° 4'0'' N, 14°15'0'' E (taken as Gela - site of Allied landings in WW2)
+CAPT COOK DOCK       105 35° 7'0'' S, 150°36'0'' E (taken as Garden Island)
+NO 9 DOCK            105 More info reqd
+SAN PEDRO            105 More info reqd - many possibilities
+CASA BLANCA          105 33°32'0'' N, 7°35'0'' W (assumed Morocco, but many other possibilities) 
+STORE JETTY SINGAPOR 105 1°22'0'' N, 103°48'0'' E
+KHOR KAWEI           105 26°21'14'' N, 56°21'48'' E (assumed Khor Kuwai, Oman)
+SHARP PEAK ANCHORAGE 105 More info reqd (Anchorage, Alaska?) 
+MADEIRA              105 32° 39' 4'' N, 16° 54' 35'' W (taken as Funchal)
+ABERDEEN             104 57°10'0'' N, 2°40'0'' W
+DURHAM               104 54°40'0'' N, 1°45'0'' W
+ST LUCIA             104 13°53'0'' N, 60°58'0'' W
+GRASSY BAY           104 32°19'25'' N, 64°49'28'' W (assumed Bermuda)
+NORTH CORNER JETTY   103 50°48'09'' N, 1°06'27'' W (Portsmouth Naval Base)
+MITSUHAMA            102 33°51'0'' N, 132°43'0'' E
+GARELOCH HEAD        102 56° 5'0'' N,  4°51'0'' W (as previous Garelochhead)
+LYTTELTON            100 43°35'0'' S, 172°42'0'' E (misspelling of Lyttleton, New Zealand)
+GRAVESEND BAY        100 40°35'23'' N, 74°0'35'' W
+CHANGI               99   1°23'4'' N, 103°58'59'' E
+PORT FITZROY         98  36°11'0'' S, 175°20'0'' E (New Zealand, but could be 51°46'0'' S, 58°10'0'' W (Falkland Is.)
+MARSEILLES           98  43°18'0'' N, 5°24'0'' E
+TAIKOO DOCK          98  22°17'0'' N, 114°13'0'' E
+KASBA REACH          98  30°2'0'' N, 48°27'0'' E
+NOCIO BERTH TRINCOMA 98  8°34'0'' N, 81°14'0'' E (assumed Trincomalee, Sri Lanka)
+T I C                97  55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)
+PLOVER COVE          97  22°28'0'' N, 114°15'0'' E
+PORT BLAIR           97  11°40'0'' N, 92°45'0'' E
+TYNESIDE             97  54°59'0'' N, 1°30'0'' W
+JANEW                96  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+ROYAL ALBERT DRY DOC 96  51°30'18'' N, 0° 3' 19'' E (co-ordinates are those of London City Airport, built near site of R.A.D.)
+CASABLANCA           96  33°32'0'' N, 7°35'0'' W (as previous Casa Blanca)
+ATHOL BAY            96  33°51'0'' S, 151°14'0'' E
+GARELOCH HD          96  56° 5'0'' N,  4°51'0'' W (as previous Garelochhead)
+VALLETTA             96  35°53'59'' N, 14°30'53'' E (assumed Valetta, Malta, but several other possibilities)
+LACK STRIVEN         95  55°57'0'' N, 5°5'0'' W (assumed misspelling of Loch Striven)
+KAMA BAY             95  (UK (PB))
+JAMAICA              94  17°59'0'' N, 76°48'0'' W (assumed Kingston, Jamaica)
+AUGRA                94  ?? (PB)
+KARARCHI             93  24°52'0'' N,   67°3'0'' E (misspelling of Karachi)
+AMAY                 93  24°27'36'' N, 118°4'44'' E (Amoy, China (PB))
+MANCHESTER           93  53°30'0'' N, 2°13'0'' W (assumed Manchester, UK, but several other possibilities) 
+ULITHI               91   9°58'0'' N, 139°40'0'' E (assumed to be Ulithi atoll, Micronesia) 
+DEVENPORT            91  50°22'0'' N,  4°11'0'' W (as previous Devonport)
+MATADI               91   5°49'0'' S, 13°27'0'' E (most likely of several possibilities, mostly in Congo)
+DEAL                 91  51°13'0'' N, 1°24'0'' E (assumed Deal, UK, but several other possibilities) 
+LONG HARBOUR         90  (At least two different ports use this name (PB))
+ALBERT               90  53°25'0'' N, 3°0'0'' W (assumed Albert Dock, Liverpool)
+DALMUIR BASIN EAST S 90  55°54'0'' N,   4°24'0'' W (as previous 
+FAO                  90  29°59'0'' N, 48°28'0'' E (Basrah (PB)) 
+TIC                  90  55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)  
+CAEN ROADS           90  49°11'0'' N, 0°21'0'' W (assumed Caen, France)
+KHU KALIYA           90  30°11'54'' N, 48°23'20'' E (this is a guess - Kut Khalifa (Iraq)
+NO 4 DOCK            89  More info reqd
+SCAPA BAY            89  58°57'0'' N, 2°59'0'' W
+SALONIKA             88  40°40'0'' N, 23°0'0'' E
+HARLAN BANK          88  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google) 
+GARLOCH              88  56° 2'0'' N, 4°48'0'' W (taken as Gare Loch)
+LYTTLETON            88  43°35'0'' S, 172°42'0'' E (as previous Lyttelton)
+COMOX                87  49°41'0'' N, 124°56'0'' W
+BLOCKHOUSE           86  50°48'0'' N,  1°8'0'' W (as Fort Blockhouse)
+TAUGKU               86  39°1'16'' N, 117°38'49'' E this is a guess - T'ang-ku (China)
+ST JOHNS             86  47°33'0'' N, 52°40'0'' W (in Canada, but could be 17°7'0'' N, 61°51'0'' W (Antigua) 
+SIMONTOWN            85  34°11'0'' S, 18°26'0'' E (taken as Simonstown, S.Africa)
+TALCAHUANO           85  36°43'0'' S, 73°7'0'' W
+SAMARANG             84   1°41'0'' N, 111°6'0'' E (in Malaysia, but could be 7°13'0'' S, 107°50'0'' E (Indonesia)
+LISBON               84  38°43'0'' N, 9°8'0'' W
+TAUG RU              84  China (PB)
+ST KITTS             84  17°20'0'' N, 62°45'0'' W
+SCAPA FLOWS          84  58°55'0'' N, 3°6'0'' W
+NEW CALEDONIA        84  21°30'0'' S, 165°30'0'' E
+BEIRA                84  18° 4'0'' S, 33°13'0'' E
+BONE                 84  36°54'0'' N, 7°46'0'' E (in Algeria, but several other possibilities) 
+SWAVOW               84  23°22'0'' N, 116°40'0'' E (Swatow, China (PB))
+IVERGORDON           84  57°41'0'' N,  4°11'0'' W (taken as Invergordon, Scotland)
+E 1 BUOY             84  More info reqd
+NO C 3 BERTH TRINCOM 84  8°34'0'' N, 81°14'0'' E (as previous Trincomalee, Sri Lanka)
+TRINCOMALI NO 2 BERT 83  8°34'0'' N, 81°14'0'' E (as previous Trincomalee, Sri Lanka)
+JUNK BAY             81  22°18'0'' N, 114°15'0'' E (Hong Kong)
+WALLSEND ON TYNE     81  54°59'29'' N, 1°33'35'' W
+WALVIS BAY           80  22°55'0'' S, 14°28'0'' E
+VICTORIA             79  More info reqd - many possibilities
+KHASSAB BAY          78  26°11'30'' N, 56°14'37'' E (Khasab, Oman)
+NO 1 BATTLESHIP TROT 78  More info reqd
+SURABAYA             78   7°15'0'' S, 112°45'4'' E
+SUNDERLAND           78  54°54'43'' N,  1°23'0'' W
+N W HONG KONG        78  22°18'0'' N, 114° 8'0'' E 
+MANUO                77  17°41'0'' S, 168°35'0'' E (Vanuatu (PB))
+PALK BAY             77   9° 7'45'' N, 79°27'11'' E  
+CHITTAGONG           77  22° 0'0'' N, 92° 0'0'' E
+TANGA                77  More info reqd - many possibilities
+DEVONPORT NZ         77  36°50'0'' S, 174°47'0'' E
+WALLA                77  Somewhere in the Med. (PB)
+SHUWAMIYA            77  17°53'0'' N, 55°54'0'' E (taken as Shauwamiya, Oman)
+BERGEN               77  60°20'0'' N,  5°20'0'' E
+PAHUA                77  17°43'0'' S, 149°16'60'' W
+COLOMBO DRY DOCK     77   6°55'55'' N, 79°50'52'' E (assumed Colombo, Sri Lanka)
+SAN TROPEZ           77  43°16'0'' N, 6°38'0'' E
+GILBRALTAR           77  36° 8'0'' N, 5°21'0'' W (assumed Gibraltar)
+MASIRA CHANNEL       77  20°30'0'' N, 58°40'0'' E
+PONAM                77   1°54'0'' S, 146°53'0'' E
+PORT A               76  More info reqd (what is A?)
+WALLSEND             76  54°59'29'' N, 1°33'35'' W (as previous Wallsend on Tyne)
+ARDROSSAN            76  55°37'0'' N, 4°49'0'' W
+DIEGO GARCIA         76   7°20'0'' S, 72°25'0'' E
+LOBITO               75  12°21'0'' S, 13°33'0'' E (in Angola, 2 other possibilities) 
+MOVILLE              74  55°11'0'' N,  7° 3'0'' W
+MASIRAH              74  20°25'0'' N, 58°50'0'' E
+SALDENHA BAY         73  33° 5'0'' S, 18° 1'0'' E (taken as Saldanha Bay, S.Africa)
+HM DOCKYARD          73  More info reqd
+CRISTOBAL            73  More info reqd - many possibilities
+TACOMA               73  47°15'11'' N, 122°26'35'' W (taken as in USA, Washington State, but several other possibilities) 
+FALKLAND IS          72  51°42'0'' S, 57°51'0'' W (as previous Falkland Islands - assumed Port Stanley)
+CLYDE ANCHORAGE      72  55°54'0'' N,  4°52'0'' W (taken as Inverkip)
+DUNBAR               71  56° 0'0'' N,  2°31'0'' W
+PORT. T.             71  (not Port Tewfik? - Kenya? (PB))
+SPETSAI              71  37°16'0'' N, 23°9'0'' E
+NB JAHORE            70   1°28'0'' N, 103°45'0'' E (taken as Johore Bahru, Malaysia)
+HARBOUR GRACE        70  47°41'0'' N, 53°15'0'' W
+JARROW SLAKE         70  54°59'0'' N,  1°28'0'' W
+ASSAULT BEACHES      70  More info reqd
+HVALFJORDR           70  64°22'35'' N, 21°39'47'' W (taken as Hval Fjord, Iceland)
+HUALFJORDUS          70	 64°22'35'' N, 21°39'47'' W (alternative misspelling of Hval Fjord)	
+SCOTTS YARD          70  55°56'0'' N,  4°45'0'' W (taken as Greenock, Scotland)
+DAR ES SALAAH        70   6°48'0'' S,  39°17'0'' E (misspelling of Dar es Salaam)
+ROSYTH IN NO 1 DOCK  70  56° 2'0'' N,  3°26'0'' W (as previous Rosyth)
+YOKOHANA             70  35°27'0'' N, 139°38'0'' E (assumed Yokohama, Japan)
+ANCHORAGE            69  (Various places (not Alaska) (PB))
+9 1 BERTH SCAPA      69  58°57'0'' N, 2°59'0'' W (as previous Scapa Bay)
+MYKONI               69  37°27'0'' N, 25°20'0'' E
+TRIMCOMALEE          67  8°34'0'' N, 81°14'0'' E (as previous Trincomalee, Sri Lanka)
+LIBREVILLE           67  0°23'0'' N, 9°27'0'' E
+GUAM                 67  13°26'40'' N, 144°44'12'' E
+ABUDAN               66  30°10'0'' N, 48°50'0'' E (taken as Abadan, Iran)
+TOLO INLET           66  22°27'0'' N, 114°12'0'' E
+A F D 4              66  ????????????
+TAIL O` THE BANK     66  55°59'0'' N,  4°50'0'' W (alternative spelling of Tail of the Bank, Kilkreggan)
+GRYTVIKEN            65  54°16'36'' S, 36°30'42'' W
+WILMINGTON           65  More info reqd - many possibilities
+LIVERPOOL BAY        64  53°32'0'' N, 3°12'0'' W
+KENKIANG             63  32°12'33'' N, 119°26'3'' E (taken as Chenkiang, China)
+GREAT MERCURY I      63  36°35'0'' S, 175°55'0'' E (taken as Great Mercury Island, New Zealand)
+N N Y                63  ????????????
+ABBAZIA              63  45°44'0'' N, 12°31'0'' E (but could be 45°20'21'' N, 14°18'30'' E in Croatia)
+BUSHIRE              63  28°58'30'' N, 50°50'17'' E
+BOATHOUSE WHARF MALT 63  More info reqd (Malta?)
+F BUOY               63  More info reqd
+LIMASOL              63  34°39'0'' N, 33°1'0'' E
+TANGIER              63  35°45'0'' N, 5°45'0'' W
+BLUFF                63  More info reqd - many possibilities
+HVAR                 63  43°8'27'' N, 16°43'42'' E
+PUERTO MONIT         63  41°28'18'' S, 72°56'13'' W (taken as Puerto Montt, Chile)
+NAPIER               63  39°30'0'' S, 176°54'0'' E
+SEEADLER HARBOUR     63   2°0'0'' S, 147°18'0'' E
+HAMILTON             63  More info reqd - many possibilities
+QUEBEC               62  47°30'0'' N, 72°0'0'' W
+LABUAN               62   5°16'36'' N, 115°14'30'' E (in Malaysia, but several other possibilities)
+S SHIELDS            62  54°59'16'' N, 1°25'17'' W
+ST RAPHAEL           62  Med. (PB)
+YOKOHAMAS            61  35°27'0'' N, 139°38'0'' E (assumed Yokohama, Japan)
+GREENOCK FLOATING DO 61  55°56'0'' N,  4°45'0'' W (as previous Greenock)
+NO 14 BERTH          61  More info reqd
+PORTSMOUTH HARBOUR   61  50°49'0'' N,  1°7'0'' W
+NEW ORLEANS          61  29°57'16'' N, 90°4'30'' W
+MAYOTTA              60  12°50'0'' S, 45°10'0'' E (taken as Mayotte, Comoros)
+LEONPORT             60  50°22'0'' N, 4°11'0'' W (Devonport? (PB)) 
+14 DOCK              60  More info reqd
+DAV ES SALAAM        59   6°48'0'' S,  39°17'0'' E (misspelling of Dar es Salaam)
+HORTA                59  38°32'0'' N, 28°38'0'' W (Azores)
+GEORGETOWN           59  More info reqd - many possibilities
+SKAGEN               58  68°0'53'' N, 15°28'8'' E (in Norway, but several other possibilities)
+PAPCOTE              58  NZ (PB)
+NAGASAKI             58  32°45'0'' N, 129°53'0'' E
+KUYSUA               58  More info reqd (Google hints it could be in S.Africa, but no Lat/Long available)  
+BARRANQUILLA         57  11°0'0'' N, 74°48'0'' W
+SWAFOW               57  23°22'0'' N, 116°40'0'' E (taken as Swatow, China)
+HVALEFORD            56  64°22'35'' N, 21°39'47'' W (alternative misspelling of Hval Fjord?)
+DABEI                56  26°56'7'' N, 118°54'8'' E
+AJACCIO              56  41°56'0'' N, 8°41'0'' E
+NEW BROOKLYN         56  39°41'35'' N, 74°56'35'' W
+9 6 BERTH SCAPA      56  58°57'0'' N, 2°59'0'' W (as previous Scapa Bay)
+PORT  STANLEY        56  51°42'0'' S, 57°51'0'' W (as previous Falklands/ Port Stanley)
+HODEIDA              56  14°48'0'' N, 43°12'0'' E
+LAPOINTE PIER        56  Near Vancouver? (PB)
+SYDENHAM JETTY       56   0°40'0'' S, 174°21'0'' E (Sydenham Is. Kiribati)
+COLON                56  More info reqd - many possibilities
+ELDERSLIE            56  More info reqd - several possibilities
+ST  KITTS            56  17°20'0'' N, 62°45'0'' W (as previous St Kitts)
+METHEL               56  More info reqd (incorrect spelling?)
+NO 3 PIER            56  More info reqd
+BOYE                 56  More info reqd - several possibilities
+WHAUGAPUA BAY        56  36°43'0'' S, 175°37'0'' E (assumed Whangapoua Bay, New Zealand)
+GULF OF SALEMO       56  40°32'0'' N, 14°42'0'' E (assumed Gulf of Salerno, Italy)
+NUNEA                55  22°16'0'' S, 166°27'0'' E (New Caledonia (PB))
+MIDDLE DOCK S. SHIEL 55  54°59'16'' N, 1°25'17'' W (as previous South Shields)
+NO 1 DOCK            55  More info reqd
+ST JOHN`S            55  47°33'0'' N, 52°40'0'' W (as previous, in Canada, but could be 17°7'0'' N, 61°51'0'' W (Antigua) 
+BANDAR               55  More info reqd - many possibilities
+KHASAB BAY           55  26°11'30'' N, 56°14'37'' E (as previous Khasab, Oman)
+BRIDGETOWN           54  13°6'0'' N, 59°37'0'' W (assumed Bridgetown, Barbados)
+BANDAR GULF          54  More info reqd
+B 3 BERTH            54  More info reqd
+Q BERTH              54  More info reqd
+ALGIER               54  36°45'47'' N, 3°3'2'' E
+MALTA (GH)           54  35°53'32'' N, 14°30'46'' E (as previous Grand Harbour)
+NO 3 DOCK GOVAN      53  55°51'0'' N, 4°19'0'' W
+FIRTH OF CLYDE       53  55°40'0'' N, 5°00'0'' W
+VERA CRUZ            52  More info reqd - many possibilities
+PORT TREBUKI         52  38°46'34'' N, 24°35'11'' E
+PIRAEUS              51  37°57'41'' N, 23°38'20'' E
+PORT JEFFERSON       51  40°56'47'' N, 73°4'11'' W
+ADELAIDE             51  34°56'0'' S, 138°36'0'' E
+THE KOLA INLET       51  69°15'0'' N,  33°32'0'' E (as previous Kola Inlet)
+M S J PORTSMOUTH     51  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+PORT SUEZ            51  29°58'0'' N, 32°33'0'' E
+SINGAPORE ROAD       50  1°17'0'' N, 103°51'0'' E (as previous Singapore Roads)
+NOB                  50  More info reqd (is this a name or abbrev.?)
+TOLO                 50  22°27'0'' N, 114°12'0'' E (as previous Tolo Inlet)
+INGENIERO WHITE      50  38°47'0'' S, 62°16'0'' W
+JACKSONVILLE         49  More info reqd - many possibilities, (mostly in USA)
+DEBAI                49  25°15'8'' N, 55°16'48'' E (Dubai (PB))
+NO 4 MEADOWSIDE      49  More info reqd
+ASCENSION            49   7°57'0'' S, 14°22'0'' W
+PUNTA ARENAS         49  53° 9'0'' S, 70°55'0'' W
+VILLEPAUCHE          49  More info reqd (could this be Villefranche?)
+BRIDGETOWN BARBADOS  49  13°6'0'' N, 59°37'0'' W (as previous Bridgetown, Barbados)
+SOUTH GEORGIA        49  54°15'0'' S, 36°45'0'' W
+TRINCOMALT           49  8°34'0'' N, 81°14'0'' E (misspelling, as previous Trincomalee, Sri Lanka)
+NO 2 BASIN           49  More info reqd
+ACID BEACH           49  37° 4'0'' N, 14°15'0'' E (as previous Acid Beach, Sicily) 
+TALINDI              49  More info reqd (misspelling?) 
+92 BERTH SCAPA       49  58°57'0'' N, 2°59'0'' W (as previous Scapa Bay)
+ELLIS BAY            49  49°48'0'' N, 64°21'0'' W (but could be 38°14'40'' N, 75°52'40'' W)
+SWATORO              49  More info reqd (misspelling?)  
+FARLANE              49  56° 3'58'' N, 4°49' 1'' W (assumed misspelling of Faslane)
+ON SURVEYING GROUND  49  ????????????
+ISMAILIA             49  30°35'0'' N, 32°16'0'' E
+Z5 BELFAST LOUGH     49  54°40'0'' N, 5°36'0'' W
+KHOR JARANA          49  22°30'1'' N, 59°44'16'' E (assumed misspelling of Khor Jarameh, Oman)
+JUBAL STRAITS        49  27°40'0'' N, 33° 55'0'' E
+FIUME                49  45°20'35'' N, 14°24'33'' E
+KARNES BAY           49  More info reqd (could be near 38°29'0'' N, 23°54'0'' E, Greece, or somewhere in Scotland) 
+ARANCI BAY           49  41°0'0'' N, 9°38'0'' E
+LABERVRACH           49  48°36'0'' N, 4°34'0'' W  
+PRINCESS DOCK        49  53°25'0'' N, 3°0'0'' W (Liverpool)
+ANTOFAGASTA          49  23°39'0'' S, 70°24'0'' W
+FREETOWN, S. L.      49   8°29'24'' N, 13°14'3'' W (as previous Freetown)
+KUCHING              49   1°25'0'' N, 110°25'0'' E (but could be 5°58'0'' N, 100°33'0'' E, both in Malaysia) 
+MANSA BAY            49   4°57'0'' S, 39°9'0'' E
+NO 1 BASIN           49  More info reqd
+ST PAULS BAY         49  35°56'54'' N, 14°24'6'' E (Malta)  
+AKYAB                49  20°9'0'' N, 92°54'0'' E
+52 BERTH             49  More info reqd
+SEADLER HARBOUR      49   2°0'0'' S, 147°18'0'' E (Seeadler Harbour, Papua New Guinea)
+FAMAGUSTA            49  35°7'30'' N, 33°57'0'' E 
+LOS PALMOS           49  28°34'0'' N, 16°9'0'' W (taken as Las Palmas, Gran Canaria, but many other possibilities)
+ARAUCI BAY           49  41°0'0'' N, 9°38'0'' E (assumed misspelling of Aranci Bay)
+BARCELONA            49  41°23'0'' N, 2°11'0'' E (assumed in Spain, but several other possibilities)
+HAMLOCK              48  More info reqd (could be misspelling of Hemlock - many possibilities)
+BELHAM               48   1°28'0'' S,  48°29'0'' W (assumed misspelling of Belem, Brazil, but many other possibilities) 
+MALACCA              48   2°12'0'' N, 102°15'0'' E
+SINGAPORE NB         48   1°22'0'' N, 103°48'0'' E (as previous Singapore)
+TOMPKINSVILLE        48  40°38'11'' N, 74°5'9'' W (but could be 38°19'18'' N, 76°53'34'' W)
+KOWLOON CAMBER       48  22°20'0'' N, 114°11'0'' E
+HOLY ROCK            48  More info reqd (no sensible match on Fuzzy G. or Google)
+EDENBURGH DOCK       48  55°57'0'' N, 3°10'0'' W (taken as Edinburgh [Leith])
+WOOSUNG              47  31°22'6'' N, 121°29'34'' E
+ST VINCENT           47  16°50'0'' N, 24°59'0'' W (Sao Vicente, Canaries (PB))
+DUALA                47   4°3'0'' N, 9°42'0'' E (Cameroon, but could be 5°2'0'' N, 2°14'0'' W, Ghana)
+TOR                  47  More info reqd - several possibilities
+N SHIELDS            47  55°0'17'' N, 1°28'22'' W
+HASLAR CREEK         46  50°47'14'' N, 1°08'02'' W
+SABIC BAY            46  14°44'45'' N, 120°12'58'' E (taken as Subic Bay, Phillipines)
+PALLIKULA BAY        45  15°29'0'' S, 167°14'0'' E (taken as Palikoula Bay, Vanuatu)
+FORMOSA              45  More info reqd - many possibilities, (mostly in S. America)
+GULF OF MARTABAN     45  16°31'53'' N, 97°36'40'' E
+NO 8 BERTH           45  More info reqd
+AQABA                45  29°31'36'' N, 35°0'28'' E
+PORT SHELTER         44  22°21'0'' N, 114°17'0'' E
+MUDROS               44  39°52'0'' N, 25°16'0'' E
+CURACAS              44   1°46'42'' N, 77°7'5'' W
+TIMARU               44  44°24'0'' S, 171°15'0'' E (New Zealand, but could be 3°43'0'' S, 143°44'0'' E (Papua New Guinea)
+MADDALENA            44  41°14'0'' N, 9°25'0'' E (Italy, but could be 35°51'1'' N, 14°23'20'' E (Malta)
+KGV DOCK             44  (US West coast (PB))
+NANOOSE              44  49°15'0'' N, 124°11'0'' W
+PARA                 44  More info reqd - many possibilities
+PORT OF SPAIN TRINID 43  10°40'0'' N, 61°31'0'' W  
+KILLINDINI           43   5°0'0'' S, 39°49'0'' E
+BOOM DEFENCE PIR KOW 43  22°20'0'' N, 114°11'0'' E (Kowloon?)
+ANCHORAGE B          43  More info reqd (Anchorage Bay? - if so several possibilities)
+AGACCIO              43  41°56'0'' N, 8°41'0'' E (assumed misspelling of Ajaccio)
+35TH PIER            43  40°43'42'' N, 73°59'39'' W (assumed 35th Street Pier, Manhattan)
+SWATAW               43  23°22'0'' N, 116°40'0'' E (assumed Swatow, China)
+ANNAPOLIS            42  More info reqd - several possibilities
+PORT SWELTENHAM      42   3°0'0'' N, 101°24'0'' E (assumed Port Swettenham, Malaysia)
+PROFRIANO            42  41°40'0'' N, 8°54'0'' E (assumed Propriano, Corsica)
+PARLATORIO WHARF     42  35°53'32'' N, 14°30'46'' E (as previous Grand Harbour, Malta)
+AIRPORT WHARF        42  More info reqd
+NO 4 PIER NORFOLK    42  36°52'51'' N, 76°18'29'' W (assumed Lambert's Point, Norfolk, Virginia, USA) 
+T O B                42  55°59'0'' N,  4°50'0'' W (abbreviation of Tail of the Bank?)
+NAKOS                42  37°3'11'' N, 25°28'35'' E (taken as Naxos Is. Greece)
+COCANADA             42  16°56'0'' N, 82°13'0'' E
+A7 ANCHORAGE         42  More info reqd (see prev. Anchorage)
+BATAIRA              42  20°31'0'' N, 92°49'0'' E (taken as Batarai, Myanmar)
+PALERMO              42  38° 7'0'' N, 13°22'0'' E (assumed Palermo, Sicily, but many other possibilities)
+SERANGOON HARBOUR    42   1°23'52'' N, 103°56'27'' E (singapore)
+REPAIR BASE SAN DIEG 42  32°42'55'' N, 117°9'23'' W (assumed San Diego, California, USA, but many other possibilities)
+VEJLE                42  55°16'0'' N, 10°19'0'' E
+NELSON               42  More info reqd - many possibilities
+LOUREUCO MARQUES     42  26°0'0'' S, 32°30'0'' E (assumed Lourenco Marques, Mozambique)
+DALHOUSIE            42  48°4'0'' N, 66°22'0'' W (Canada)
+MARGIL               42  30°33'6'' N, 47°47'50'' E (Iraq)
+AARKUS               42  56°9'0'' N, 10°13'0'' E ( taken as Aarhus, Denmark)
+T I C JETTY          42  More info reqd (see earlier T I C)
+SANTOS               42  More info reqd - many possibilities
+PENG CHAN ROADS      42  31°39'4'' N, 121°28'47'' E (Shanghai)
+MORSE D. DOCK NEW BR 42  40°40'7'' N, 74°0'57'' W (as previous Morse Dry Dock, Brooklyn)
+LAMACA               42  34°55'0'' N, 33°38'0'' E (taken as Larnaca, Cyprus)
+SEYDIOFJORDUS        42  65°18'0'' N, 13°50'0'' W (taken as Seydisfjördur, Iceland)
+PICTON               42  41°18'0'' S, 174°1'0'' E (New Zealand, but could be 33°21'0'' S, 115°41'0'' E, Western Australia)   
+MUSGRAVE CHANNEL     42  54°37'0'' N, 5°54'0'' W
+LOANDA               42  8°50'18'' S, 13°14'4'' E (Angola)
+MA QIL               42  30°33'6'' N, 47°47'50'' E (Iraq)
+RESYTH               42  56°2'0'' N, 3°26'0'' W (assumed misspelling of Rosyth, UK)
+HVALFJORDUN          42  64°22'35'' N, 21°39'47'' W (Iceland)
+MALTA (G.H.)         42  35°53'32'' N, 14°30'46'' E (as previous Grand Harbour)
+PUERTO BELGRANO      42  38°54'0'' S, 62°6'0'' W
+N DVINA RIVER        42  In NW Russia (unable to obtain co-ordinates from either Fuzzy G. or Google) 
+PORT YALES           42  More info reqd (nothing close in either Fuzzy G. or Google, but there are many Yales)
+PORT CHALMERS        42  45°49'0'' S, 170°37'0'' E (New Zealand, but could be 8°8'0'' S, 146°6'0'' E, Papua New Guinea)
+PORT POGAN           42  (Turkey? (PB)) 
+OYACCIO              42  (Med.? (PB)))  
+BARE DE LA SEINE     42  More info reqd (probably in France, but unable to obtain co-ordinates from either Fuzzy G. or Google) 
+HALMSTAD             42  55°57'0'' N, 13°2'0'' E
+JEDDA                42  21°31'1'' N, 39°13'9'' E
+INHAMBANC            42  23°15'51'' S, 35°4'58'' E (assumed misspelling of Inhambane, Mozambique)
+WILLOUGHBY DOCK      42  36°52'51'' N, 76°18'29'' W (near Norfolk, Virginia, USA)
+OH MERCURY BAY       42  36°47'0'' S, 175°48'0'' E
+MARSA XLOKK          41  35°49'12'' N, 14°32'44'' E (Malta)
+NORTH WALL ALBERT ED 41  More info reqd
+MORSE DOCK           41  40°40'7'' N, 74°0'57'' W (as previous Morse Dry Dock, Brooklyn)
+ST TROPEZ            41  43°16'0'' N, 6°38'0'' E
+LERWICK              41  60°9'0'' N, 1°9'0'' W
+SANTA MARGHERITA     41  38°29'0'' N, 14°57'0'' E (Sicily)
+JAMES WATT DOCK      41  55°56'0'' N,  4°45'0'' W (as previous Greenock)
+HAVANA               41  23°7'55'' N, 82°21'51'' W (Cuba, but several other possibilities)
+NO 8 DOCK PORTSMOUTH 40  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+PORT SWETTENHOUSE    40  3°0'0'' N, 101°24'0'' E (assumed Port Swettenham, Malaysia)
+PORT WILLIAM         39  54°45'0'' N, 4°36'0'' W (UK, but several other possibilities)
+SUBIC BAY            39  14°44'45'' N, 120°12'58'' E (Phillipines)
+PORT TOWNSEND        39  48°7'2'' N, 122°45'33'' W
+DUNEDIN              38  45°52'0'' S, 170°30'0'' E
+FLEETWOOD            38  53°55'0'' N, 3°0'0'' W
+CHEMULPHO            38  37°27'13'' N, 126°43'54'' E
+CHINGWANGTAO         37  39°55'54'' N, 119°35'18'' E (misspelling of Chinwangtao, China)
+PANAMA               37   8°58'0'' N, 79°32'0'' W (but many other possibilities)
+N WALL HONG KONG     37  22°18'0'' N, 114°08'0'' E
+NO 10 BERTH          36  More info reqd
+PORT MELBOURNE       36  37°50'0'' S, 144°56'0'' E
+B4 BERTH GREENOCK    36  55°56'0'' N,  4°45'0'' W (as previous Greenock)
+NW PORTSMOUTH        36  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+M MOORINGS PORTSMOUT 36  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+COLOMBO HARBOUR      36   6°56'47'' N, 79°51'2'' E
+PARLATORIA WHARF     36  35°53'9'' N, 14°30'49'' E
+PARLATORIO WHARF MAL 36  35°53'9'' N, 14°30'49'' E
+LOCH CONIE           36  55°19'0'' N, 5°38'0'' W (not sure about this one - ref. relates to Conie Water, Argyll)  
+B 3 BERTH GREENOCK   36  55°56'0'' N,  4°45'0'' W (as previous Greenock)
+PORTSMOUTH NO 5 BERT 36  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+INHAMBANE            36  23°15'51'' S, 35°4'58'' E
+TOR BAY              36  47°40'0'' N, 52°42'0'' W
+NORTH WALL PORTSMOUT 36  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+MAJUNGA              36  15°44'0'' S, 46°18'0'' E
+PATRAS               36  38°14'40'' N, 21°44'4'' E
+JARROW SLACKS        36  54°58'50'' N,  1°27'3'' W
+E 1 BUOY GREENOCK    36  55°56'0'' N,  4°45'0'' W (as previous Greenock)
+PORT H               36  ?? (PB)
+PERIM                35  12° 39' 24'' N, 43° 24'54'' E  
+LOCH RANZA           35  55°43'0'' N, 5°18'0'' W
+PORT AU PRINCE       35  18° 32'0'' N, 72° 20'0'' W
+WEI HAI WAI          35  24°20'0'' N, 120°37'0'' E (as previous Wei Hei Wei)
+ALAMEDA              35  More info reqd - several possibilities  
+KILIDINI             35   5°0'0'' S, 39°49'0'' E (taken as Kilindini, Tanzania)
+ARGENTIA             35  47°18'0'' N, 54°0'0'' W
+TULLEAR              35  23°21'0'' S, 43°40'0'' E
+ROSAIRO              35  32°57'4'' S, 60°39'59'' W (assumed misspelling of Rosario, Argentina)
+PAROS                35  37°5'0'' N, 25°9'0'' E
+BELIZE               35  17°29'0'' N, 88°11'0'' W
+FARM COVE            35  33°52'0'' S, 151°13'0'' E (New South Wales, Australia, but several other possibilities)
+DALMUIR DOCK GLASGOW 35  55°54'0'' N,   4°24'0'' W (as previous Dalmuir)
+BAYONNE              35  43°29'0'' N, 1°29'0'' W
+TRINTSIN             35  39°8'0'' N, 117°12'0'' E (taken as Tientsin, China)
+BIGERIA              35  38°5'0'' N, 13°30'0'' E (assumed misspelling of Bagheria, Sicily)
+NO 3 BASIN PORTSMOUT 35  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+INGENIENO WHITE      35  38°47'0'' S, 62°16'0'' W (assumed misspelling of Ingeniero White, Argentina) 
+KHOR JARAMA          35  22°30'1'' N, 59°44'16'' E (assumed misspelling of Khor Jarameh, Oman)
+ST THOMAS            35  13°11'0'' N, 59°35'0'' W (Barbados, several other possibilities, although prob. not the one in Exeter!) 
+PERY MAIN TIC QUAY   35  55°0'17'' N, 1°28'22'' W (assumed to be at North Shields) 
+LABNAM AMORK         35  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+NORTH ARM            35  More info reqd - several possibilities
+CHINWANGTAS          35  39°55'54'' N, 119°35'18'' E (misspelling of Chinwangtao, China)
+PENDING              35   1°33'0'' N, 110°23'0'' E (Malaysia, or could be 7°29'19'' S, 110°21'16'' E, Indonesia)
+NUKUALOFA            35  21°8'0'' S, 175°12'0'' W (Tonga)
+KHOR KALIGA          35  26°12'32'' N, 50°38'20'' E (assumed misspelling of Khor Kaliya, Bahrein)
+STAWANGER            35  58°58'0'' N, 5°45'0'' E (assumed misspelling of Stavanger, Norway)
+TYNEMOUTH            35  55°1'14'' N, 1°26'58'' W
+LOCH EWE             35  57°48'0'' N, 5°40'0'' W
+FLOATING DOCK        35  More info reqd
+WASHINGTON           35  More info reqd - several possibilities
+MANZO BAY            35  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+PAGO PAGO            35  14°16'41'' S, 170°42'9'' W
+ARIEGE BAY           35  51°10'00'' N, 56°0'00'' W
+JEDDAH               35  21°31'1'' N, 39°13'9'' E (as previous Jedda)
+GANDIA               35  38°58'0'' N, 0°11'0'' W
+ROSYTH IN NO. 1 DOCK 35  56° 2'0'' N, 3°26'0'' W (as previous Rosyth)
+OSLO                 35  59°55'0'' N, 10°45'0'' E
+KHOI KUWAI           35  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+SALDANNA BAY         35  33° 5'0'' S, 18° 1'0'' E (taken as Saldanha Bay, S.Africa)
+BOATHOUSE WHARF      35  More info reqd
+ABA ZENIMA           35  29°2'59'' N, 33°6'13'' E (taken as Abu Zenima, Egypt)
+SCOFA                35  Do they mean Sofa, in which case More info reqd - several possibilities 
+SAMOS BAY            35  38°16'0'' N, 20°38'0'' E
+B1 BERTH T O B       35  55°59'0'' N,  4°50'0'' W (another variant of Tail of the Bank)
+N W T B              35  ????????????
+SEYDISFJORDUR        35  65°18'0'' N, 13°50'0'' W
+DOUGLAS IOM          34  54° 9'0'' N, 4°29'0'' W
+SHARJAH              34  25° 0'0'' N, 55°45'0'' E
+ARDOSSAN             34  55°37'0'' N, 4°49'0'' W (misspelling of Ardrossan)
+T.I.C. DOCK N SHIELD 34  55°0'17'' N, 1°28'22'' W
+TOLO HARBOUR         34  22°27'0'' N, 114°12'0'' E (as previous Tolo Inlet)
+SHEIMA               34  (Med. )
+CANNES               33  43°33'0'' N, 7°1'0'' E
+NO 2 BASIN SOUTH     33  More info reqd
+SEIDISFJORD          33  65°18'0'' N, 13°50'0'' W (misspelling of Seydisfjördur)
+PRINCES DOCK GLASGOW 33  55°51'0'' N, 4°19'0'' W (taken as Govan, Glasgow)
+6 7 BERTH            33  More info reqd
+T I C NORTH SHIELDS  33  55°0'17'' N, 1°28'22'' W (as previous North Shields)
+AROCHAR              32  40°35'54'' N, 74°4'23'' W (misspelling of Arrochar, but could be in Scotland)
+WESTON SOLENT        32  do they mean Western Solent?
+GRASSY BAY BERMUDA   32  32°19'25'' N, 64°49'28'' W
+ABU ZENIMA           32  29°2'59'' N, 33°6'13'' E
+ROTHSAY              32  55°50'0'' N,  5° 4'0'' W (misspelling of Rothesay) 
+K G V DOCK GLASGOW   32  55°52'0'' N, 4°22'0'' W
+KHIOS                32  38°24'21'' N, 26°1'28'' E
+MAR DEL PALTA        32  38°0'0'' S,  57°33'0'' W 
+TANJONG PARK         32  More info reqd (several possibilities - spelling of second word critical)
+GARDEN ISLAND        31  35° 7'0'' S, 150°36'0'' E (as previous Garden Island) 
+KAGOSHIMA            31  31°36'0'' N, 130°33'0'' E
+N O B  NORFOLK       31  36°52'51'' N, 76°18'29'' W (as previous Norfolk, Virginia, USA)
+CARRADALE BAY        31  55°35'0'' N, 5°29'0'' W
+SCARBOROUGH          31  53°53'0'' N, 0°27'0'' W (assumed UK, but several other possibilities) 
+BAHIA DE MALDONADO   31  34°40'0'' S, 54°55'0'' W
+HURDIA               31  10°30'0'' N, 51°5'0'' E (taken as Khor Hurdia, Somalia)
+SOUTH BOSTON         31  42°20'0'' N, 71°3'0'' W
+MCVAGISSEY           30  50°17'0'' N, 4°47'0'' W (taken as Mevagissey, Cornwall) 
+U.S. NAVY YD BROOKLY 30  40°42'10'' N, 73°58' 24'' W  
+HOLLANDIA            30   2°32'0'' S, 140°42'0'' E
+OPORTO               30  41° 9'0'' N, 8°37'0'' W
+E WALL HONG KONG     30  22°18'0'' N, 114°08'0'' E 
+LOR BAY              30  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+BETIO TARAWA         30  1°21'0'' N, 172°56'0'' E
+SAVANNAH             29  More info reqd - several possibilities
+COCKATOO ISLAND      29  33°50'49'' S, 151° 10' 16'' E (in Sydney Harbour, most likely of 3 alternatives) 
+MILFORD SOUND        29  44°40'0'' S, 167°56'0'' E
+A2 BERTH             29  More info reqd  
+G BERTH NORTH ISLAND 29  More info reqd 
+ROYAL ROADS          29  48°12'1'' N, 123°34'17'' W (taken as Juan de Fuca Strait, Washington, USA)
+PORT HARCOURT        29  4°46'42'' N, 7°0'42'' E
+TOR G ANCHORAGE      29  More info reqd
+PATROL AREA          29  More info reqd
+LONG HOPE            29  58°48'0'' N, 3°12'0'' W
+PRINCESS DOCK BOMBAY 29  18°56'53'' N, 72°51'8'' E
+LUDEITZ BAY          29  22°57'22'' S, 14°30'29'' E (alternative name for Walvis Bay, Namibia) 
+MURCUT               28  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+MARUS                28  34°14'0'' N, 135°19'0'' E(taken as Marusu, Japan)
+CALDER HARBOUR       28  1°23'59'' N, 104°5'24'' E (Singapore)
+COMERBROOK           28  48°57'0'' N, 57°56'0'' W (taken as Cornerbrook, Newfoundland, Canada)
+DELOS                28  37°23'33'' N, 25°16'4'' E
+KINGSTOWN            28  13°8'0'' N, 61°13'0'' W (St Vincent, but could be 18°25'0'' N, 64°35'0'' W (British Virgin Is.)
+IQUIQUE              28  20°13'0'' S, 70°10'0'' W
+ARCHANGEL            28  64°34'0'' N, 40°32'0'' E
+PORT AMELIA          28  12°57'39'' S, 40°30'28'' E (Mozambique)
+PORT SAUNDERS        28  50°39'0'' N, 57°16'0'' W
+URMSTON ROADS        28  22°20'34'' N, 113°56'50'' E (as previous Urmston Road)
+MONROVIA             28   6°18'38'' N, 10°48'17'' W
+FUNCHAL BAY MADIERA  28  32°38'0'' N, 16°55'0'' W
+MENTON               28  43°47'0'' N, 7°30'0'' E
+ARUBA                28  12°30'0'' N, 69°58'0'' W
+LOCH CRIBOLL         28  58°31'0'' N, 4°41'0'' W (misspelling of Loch Eriboll, UK?) 
+TE RAWHITI           28  35°14'0'' S, 174°15'0'' E  
+BANGKOK              28  13°45'0'' N, 100°31'0'' E
+BRIDGETOWN  BARBADOS 28  13° 6'0'' N, 59°37'0'' W (as previous Bridgetown, Barbados)
+MANGALORE            28  12°55'0'' N, 74°49'0'' E
+DUNALIN              28  More info reqd (it may be somewhere in Co.Donegal, Ireland) 
+T I C QUAY           28  More info reqd (as several previous references to T I C, etc.) 
+A8 BUOY              28  More info reqd
+PORT ORCHARD         28  47°32'26'' N, 122°38'6'' W
+14TH PIER STATEN ISL 28  40°35'0'' N, 74°9'0'' W (New York, USA, but 3 other possibilities)
+5TH ST PIER HOBOKEN  28  40°44'38'' N, 74°1'58'' W (in USA, several other possibilities)
+MERSA HALAIB         28  22°14'0'' N, 36°39'0'' E
+PASIR PANJANG        28  1°17'34'' N, 103°46'15'' E (Singapore, but several other possibilities in Indonesia and Malaysia)
+DOMINICO             28  15°18'0'' N, 61°24'0'' W (Dominica? (PB))
+PUERTO CORRAL        28  39°52'0'' S, 73°26'0'' W
+PORT. T              28  29°57'0'' N, 32°34'0'' E (as previous Port Tewfick)
+SELLTER              28  58°57'30'' N, 11°8'0'' E (Sellater, Sweden)
+MALMO                28  55°35'0'' N, 13°0'0'' E (Major port, Sweden - several other possibilities)
+PANANG               28  14°17'0'' N, 122°41'0'' E (but could be 11°53'59'' N, 121°55'7'' E, both in Phillipines)
+GREENOCH             28  55°56'0'' N,  4°45'0'' W (misspelling of Greenock)
+M.E.K.               28  ????????????
+CHESAPEAKE RIVER     28  37°0'0'' N, 76°0'0'' W (mean position of Chesapeake Bay, which covers 3,237 sq mi (8,384 sq km)) 
+BRUNSWICK            28  More info reqd - several possibilities
+CONGO RIVER          28   6°4'0'' S, 12°24'0'' E
+91 BERTH, SCAPA      28  58°58'0'' N, 2°59'0'' W
+GREAT BRITTEN LAKE   28  30°20'0'' N, 32°23'0'' E (Great Bitter Lake?)
+CALDETAS             28  41°34'19'' N, 2°31'43'' E
+MIDDLESEX            28  More info reqd - several possibilities
+RAPHAEL              28  43°39'0'' N, 4°43'0'' E (misspelling of Raphele, France?)
+KILINDIINI           28   5°0'0'' S, 39°49'0'' E
+TAIL OF BANK B5      28  55°59'0'' N,  4°50'0'' W (another variant of Tail of the Bank)
+CHANAI               28  43°7'21'' N, 145°1'27'' E (Japan)
+MANSVILLE            28  More info reqd - several possibilities in USA, but all appear to be inland - could it be Manville?)
+FREETOWN SIERRA LEON 28  8°29'24'' N, 13°14'3'' W (as previous Freetown)
+WINSTON ROAD         28  More info reqd
+15 BERTH             28  More info reqd
+SUBIA BAY            28  could be Khor Subiya (29°38'30'' N, 48°9'2'' E)  
+PORT DARWIN          28  12°25'0'' S, 130°48'0'' E
+HORMUZ               28  27°5'51'' N, 56°27'8'' E
+ROSYTH DECKYARD      28  56°2'0'' N, 3°26'0'' W (assumed Rosyth Dockyard)
+MORSEL BAY           28  34°8'0'' S, 22°10'0'' E (S.Africa, or could be 79°54'0'' N, 16°0'0'' E (Svalbard) 
+SANABAYA             28  (Indonesia (PB)) 
+NUHUALOFA            28  21°8'0'' S, 175°12'0'' W (taken as Nukualofa, Tonga)
+MALTA GH             28  35°53'32'' N, 14°30'46'' E (as previous Grand Harbour)
+BANGKOK BAR          28  13°26'0'' N, 100°36'0'' E
+14 BERTH STH         28  More info reqd
+KUVE                 28  (Japan (PB))
+AMORY                28  24°27'36'' N, 118°4'44'' E (Amoy (PB))
+PERNAMBUCO           28  More info reqd - several possibilities, (mostly in Brazil)
+DOUGLAS              28  54° 9'0'' N, 4°29'0'' W (assumed Douglas, Isle of Man)
+JOHN STRAIT          28  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+PONTA DELGADA        28  37°44'0'' N, 25°41'0'' W (Azores, but several other possibilities)
+K C V DOCK           28  More info reqd
+LINDI                28  More info reqd - several possibilities
+MORSE `D` DOCK NEW B 28  40°40'7'' N, 74°0'57'' W (as previous Morse Dry Dock, Brooklyn)
+GULF OF SALERNO      28  39°22'0'' N, 16°24'0'' E
+BASE                 28  ????????????
+NORFOLK BAY          27  42°57'55'' S, 147°46'19'' E
+ADMIRALTY FLOATING   27  More info reqd (could be Singapore or Cockatoo Island)
+PORT AUGUSTA         27  37°13'0'' N, 15°13'0'' E (as Augusta (PB))
+H M DOCKYARD HONG KO 27  22°17'0'' N, 114°10'0'' E
+CALLAO               27  More info reqd - several possibilities
+NO 4 MIDDLE DRY DOCK 26  More info reqd
+LOCH LONG            26  56°5'0'' N, 4°52'0'' W (alternatively 57°18'0'' N, 5°30'0'' W)
+BOUY                 26  ????????????
+START BAY            26  50°15'0'' N, 3°36'0'' W
+ALBANY               26  35°1'1'' S, 117°53'30'' E (Western Australia)
+PORT ADELAIDE        26  34°51'0'' S, 138°28'0'' E
+ALSACHENA BAY        25  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+HM DOCKYARD HONG KON 25  22°17'0'' N, 114°10'0'' E
+SO SHIELDS           25  54°59'16'' N, 1°25'17'' W (as previous South Shields)
+COVENTRY             25  More info reqd - several possibilities
+BARRY ROADS          25  51°24' 0'' N, 3°16'0'' W (Barry Island, S.Wales?) 
+K G V                25  51°30'18'' N, 0° 3' 19'' E (King George V Dock, but could be 55°52'0'' N, 4°20'0'' W, Glasgow)
+PORT OF LOS ANGELES  24  33°43'45'' N, 118° 15'43'' W 
+GILKICKER POINT      24  50°46'0'' N, 1°8'0'' W
+NO 6 WHARF           24  More info reqd
+GISBORNE             24  38°39'12'' S, 178°0'15'' E
+ROYALE ALBERT DOCK   24  51°30'18'' N, 0° 3' 19'' E (co-ordinates are those of London City Airport, built near site of R.A.D.)
+MARTINIQUE           24  14°40'0'' N, 61°0'0'' W
+COCKATOO IS DOCK     23  33°50'49'' S, 151° 10' 16'' E ( as previous Cockatoo Island)  
+ROCKAHILL            23  More info reqd (should this be Rockhill, if so - many possibilities?)
+NO 7 TROT FORT BLOCK 23  50°48'0'' N,  1°8'0'' W (a variant of Fort Blockhouse)
+BASE SINGAPORE       23  1°27'54'' N, 103°49'10'' E
+SINGAPORE N.B.       23  1°27'54'' N, 103°49'10'' E
+NAVAL BASE JOHAVE    22  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+SWANSEA              22  51°38'0'' N, 3°58'0'' W
+WALKER NAVAL YARD    22  54°58'26'' N, 1°36'48'' W (as previous Newcastle)
+SARAGOON HARBOUR     22   1°24' 0'' N,  103°56' 0'' E (taken as Serangoon Harbour, Singapore)
+NEWQUAY              22  50°25'0'' N, 5°5'0'' W
+LARGS                22  55°47'0'' N, 4°51'0'' W
+DOVER                22  51° 8'0'' N, 1°18'0'' E
+T I C QUAY NORTH SHI 22  55°0'17'' N, 1°28'22'' W (as previous North Shields)
+ST GEORGES HARBOUR G 22  12° 3'0'' N, 61°45'0'' W (taken as in Grenada)
+WILLIAMSTOWN         22  More info reqd - many possibilities
+TAKORASI             21  6°19'0'' N, 1°59'0'' W
+WICHSI BAY           21  78°27'0'' N, 19°0'0'' E (taken as Wiches Bay, Svalbard)  
+BIZERTE              21  37°16'28'' N, 9°52'26'' E
+STORE JETTY          21  More info reqd
+DUACA                21  (Douala, Nigeria? (PB))
+ABERLADY BAY         21  56°0'0'' N, 2°55'0'' W
+MUKALLA              21  14°31'48'' N, 49°7'53'' E
+KHOR JANAINA         21  24°12'26'' N, 53°24'19'' E (could be misspelling of Janana, UAE?) 
+LOBITOS              21  37°22'59'' N, 122°23'57'' W (California, USA)
+TAI HOO DRY DOCK     21  More info reqd (somewhere in China/ Hong Kong?)
+NO 8 BERTH DEVONPORT 21  50°22'0'' N,  4°11'0'' W (as previous Devonport)
+SANTA ELANA          21  More info reqd (should this be Santa Elena, if so - many possibilities?)
+MOLACCA              21  2°11'49'' N, 102°14'53'' E (taken as Malacca, Malaysia)
+PIRAUES              21  37°57'41'' N, 23°38'20'' E (taken as Pireus, Greece)
+GASFE                21  48°50'0'' N, 64°29'0'' W (taken as Gaspé, Quebec, Canada)
+KEPPEL HARBOUR       21   1°15'54'' N, 103°49'49'' E
+SERANGOON HBR        21   1°24' 0'' N,  103°56' 0'' E (as previous Serangoon Harbour)
+KHOL KUWAI           21  26°21'14'' N, 56°21'48'' E (taken as Khor Kuwai, Oman)
+DAKAT                21  More info reqd (probable misspelling, too many unknowns to make a guess, several possibilities) 
+B4 BERTH             21  More info reqd
+COQUIMBO             21  29°56'0'' S, 71°19'0'' W (Chile, but could be 15°23'58'' S, 74°36'17'' W, Peru)
+SANCHEZ              21  More info reqd - many possibilities
+PORT OF SPAIN, TRINI 21  10°40'0'' N, 61°31'0'' W (as previous Port of Spain)
+COSMOPOLITAN DOCK    21  22°19'0'' N, 114°11'0'' E (Hong Kong?)
+GT BITTER LAKE       21  30°20'0'' N, 32°23'0'' E 
+CHIMBOTE             21   9°5'0'' S, 78°36'0'' W
+APIA                 21  13°50'0'' S, 171°44'0'' W (Samoa)
+CINDAD TRUJILLO      21  18°28'0'' N, 69°54'0'' W (assumed Ciudad Trujillo, Dominican Republic) 
+DELFT                21  52°0'0'' N, 4°22'0'' E
+HVALFJORDOR          21  64°22'35'' N, 21°39'47'' W (as previous Hvalfjordun)
+KOLA INLET VAENGA BA 21  69°15'0'' N, 33°32'0'' E
+NEW CASTLE           21  54°58'26'' N, 1°36'48'' W (assumed Newcastle on Tyne)
+RIVER CONGO          21  More info reqd - too vague
+AWAUA BAY            21  12°30'0'' N, 69°58'0'' W
+TOBA                 21  More info reqd - many possibilities
+CALICUT              21  11°15'0'' N, 75°46'0'' E
+PANGO PANGO          21  (Not Mozambique (PB)
+ELDERSLIE DOCKS      21  55°50'0'' N, 4°28'0'' W (Glasgow, UK)
+OAMARU               21  45° 5'0'' S, 170°59'0'' E
+EL PARELLO           21  39°17'0'' N, 0°17'0'' W (taken as El Perelló, Spain - most likely of 3 possibilities)
+LA PLATA             21  More info reqd - many possibilities
+RABAND               21  More info reqd (several possibilities in Iran, but none look likely as they are all well inland) 
+HELENS ROADS         21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+OBAU                 21  (UK (Oban?) (PB))
+PANAMA CITY          21   8°58'0'' N, 79°32'0'' W
+STARLING INLET       21  22°32'0'' N, 114°14'0'' E
+KISMAYO              21   0°22'0'' S, 42°32'0'' E (Somalia)
+DIBAH                21  25°37'0'' N, 56°16'0'' E
+GREENOCK ANCHORAGE   21  55°59'0'' N,  4°50'0'' W (another variant of Tail of the Bank) 
+MADDALINA            21  41°14'0'' N, 9°25'0'' E (Sardinia, or could be 35°51'1'' N, 14°23'20'' E - Malta)
+ST. HELENA           21  15°57'0'' S, 5°42'0'' W (assumed St Helena island - S.Atlantic)
+WOOLLOOMMOOLOO       21  India (PB)
+NO 6F BERTH          21  More info reqd
+COQUINBO             21  29°56'0'' S, 71°19'0'' W
+CORONEL              21  More info reqd - several possibilities
+KUSHAIRSAND          21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+OH CHARLES COVE      21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+TAKU BAY             21  23°4'49'' S, 134°57'22'' W
+PICTOU               21  45°40'0'' N, 62°42'0'' W
+MERKLANDS WHARF      21  55°52'0'' N, 4°19'0'' W, (Glasgow)  
+KASBA REACHES        21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+CHEVBOURGH           21  49°39'0'' N, 1°39'0'' W (taken as Cherbourg, France)
+NO 12 BERTH          21  More info reqd
+NO 1 PIER            21  More info reqd
+INVER GORDON         21  57°41'0'' N, 4°11'0'' W
+MATSA ISLAND         21  26°8'56'' N, 119°56'14'' E (taken as Matsu Island, Taiwan, could also be 7°23'0'' N, 151°54'0'' E, Micronesia)
+SEYDIS FJORD         21  66°0'0'' N, 22°54'0'' W (or could be 65°18'0'' N, 13°50'0'' W, both Iceland,)   
+DUBAI                21  25°15'8'' N, 55°16'48'' E (United Arab Emirates)
+RIO GRANDE DO SUL    21  30°2'0'' S, 51°12'0'' W (Brazil - Lat/ Long given is that of Porto Alegre, state capital)
+PAHI BAY             21  35°16'0'' S, 174°20'0'' E
+STONEWAY             21  58°13'0'' N, 6°22'0'' W (taken as misspelling of Stornoway) 
+SHAWAMIYA            21  17°53'0'' N, 55°54'0'' E (taken as Shauwamiya, Oman)
+D 1 BUOY             21  More info reqd
+RANGOON RIVER        21  16°29'32'' N, 96°20'43'' E
+CHINWANGTAA          21  39°55'54'' N, 119°35'18'' E (alternative misspelling of Chinwangtao, China)
+W ALVIS BAY          21  22°55'0'' S, 14°28'0'' E (Walvis Bay, Namibia)
+SINGAPORE FLOATING D 21   1°18'1'' N, 103°41'50'' E
+LABUAN AMARK         21   5°16'0'' N, 115°15'0'' E (taken as Labuan Sabah, Malaysia)
+DUNECLIN             21  45°52'0'' S, 170°30'0'' E (taken as Dunedin, New Zealand)
+PATNOL               21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+JOHNS RIVER          21  More info reqd - several possibilities
+NOSEI BE             21  13°20'0'' S, 48°15'0'' E (taken as Nossi-Be, Madagascar)
+KEPPER HARBOUR SINGA 21   1°15'54'' N, 103°49'49'' E (taken as Keppel Harbour, Singapore)
+VALIKA BAY           21  38°2'0'' N, 23°31'0'' E (taken as Vlikha Bay, Greece) 
+RAS GARIB            21  28°21'19'' N, 33°6'3'' E
+MORMUGAO             21  15°24'0'' N, 73°48'0'' E
+GIB                  21  36°8'0'' N, 5°21'0'' W (assumed Gibraltar)
+R N BASE SINGAPORE   21   1°27'54'' N, 103°49'10'' E
+MERMEL KEBIS         21  35°43'46'' N, 0°42'23'' W (taken as Mers el Kebir, Algeria, but could be 32°27'0'' N, 8°40'0'' W - Morocco) 
+MAFUNGA              21  18°20'0'' S, 36°38'0'' E (one of four places in Mozambique called this)
+TALARA               21   4°34'0'' S, 81°17'0'' W (Peru)
+LUCZ                 21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google. Could be misspelling of Luz - many possibilities)
+POROS                21  More info reqd - several possibilities
+DJIBOUTI             21  11°35'42'' N, 43°8'53'' E
+CALENTTA             21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google
+PORT IBRAHAM         21  29°56'0'' N, 32°34'0'' E (misspelling of Port Ibrahim, Egypt)
+SALINAS              21  More info reqd - many possibilities
+RENOWN ANCHORAGE     21  37°34'0'' S, 175°3'0'' E (New Zealand)
+SCAPA FLOW PENTLAND  21  58°55'0'' N, 3°6'0'' W
+SATAGA               21  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google - somewhere in Middle East?)
+MARGATE              21  51°23'0'' N, 1°25'0'' E
+KYAUK PYU            20  12°34'0'' N, 98°49'0'' E (Myanmar, but several other locations in Myanmar with similar name)
+35TH ST PIER         20  40°44'48'' N, 73°57'55'' W
+ROSTHSAY             20  55°50'0'' N,  5° 4'0'' W (misspelling of Rothesay)
+TALCAHVANO           20  36°43'0'' S, 73°7'0'' W (taken as Talcahuano, Chile)
+PRINCE RUPERT B.C.   20  54°19'0'' N, 130°20'0'' W
+POLA                 20  More info reqd - many possibilities
+DE BERTH PRINCESS DO 20  53°25'0'' N, 3°0'0'' W (Liverpool?)
+ST GEORGES           20  More info reqd - many possibilities
+BALBAO               20  More info reqd - several possibilities
+SYRACUSE             20  37°4'0'' N, 15°18'0'' E (Sicily)
+SAUGOR ISLAND        20  21°43'0'' N, 88°6'0'' E
+LABERWRACH           20  48°36'0'' N, 4°34'0'' W
+9 6 BERTH, SCAPA     20  58°58'0'' N, 2°59'0'' W (as previous Scapa)
+DE BERTH             20  53°25'0'' N, 3°0'0'' W (Liverpool?)
+LA GOULETTE          19  37°14'41'' N, 9°50'19'' E
+PORTA PRAYA          19  14°54'0'' N, 23°31'0'' W (taken as Porto Praya, Cape Verde)
+OYSTER BAY           19  More info reqd - many possibilities
+ALBERT EDWARD DOCK   19  More info reqd
+MUI RIVER            19  More info reqd (only references I can find are in Ethiopia, which has no coastline!)  
+DOCKYARD HONG KONG   19  22°17'0'' N, 114°10'0'' E
+STATTEN ISLAND       19  40°35'0'' N, 74°9'0'' W (assumed New York, but several other possibilities)
+DREGER HARBOUR       19   6°39'0'' S, 147°52'0'' E
+SANDAHAM             19  14°35'0'' N, 121°0'0'' E (Phillipines - 2 possibilities near Manila so used Manila)
+NNY                  19  ????????????
+BIRKERHEAD           19  53°24'0'' N, 3°2'0'' W (assumed UK, but other possibilities in Australia and New Zealand) 
+BANDAR ABBAS, P.G.   19  27°11'11'' N, 56°16'38'' E
+LONGHOPE             18  58°48'0'' N, 3°12'0'' W (taken as Long Hope Bay, UK)
+N ARM HONG KONG      18  22°18'0'' N, 114°12'0'' E
+CROOKED HARBOUR      18  22°33'0'' N, 114°16'0'' E (Hong Kong)
+SHIELDHALL           18  55°52'0'' N, 4°22'0'' W
+OTARU                18  43°11'22'' N, 141°0'8'' E
+WATSONS BAY          18  33°51'0'' S, 151°17'0'' E
+BAHRA                18  ?? (PB)
+COCOS ISLANDS        18  12°0'0'' S, 96°50'0'' E
+T.I.C. QUAY          18  More info reqd
+SEGANI WAN           18  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google - somewhere in Malaysia?
+GARILOCH             18  57°42'0'' N, 5°40'0'' W (assumed Gairloch, UK)
+DARTSMOUTH           18  50°21'0'' N, 3°35'0'' W (assumed Dartmouth, UK but several other possibilities)
+BANDRA ABBAS, P.G.   18  27°11'11'' N, 56°16'38'' E (misspelling of Bandar Abbas)
+FIRTH                18  More info reqd (Firth of ???????) 
+SASEBO               18  33°9'33'' N, 129°43'22'' E
+PIER 14              18  More info reqd
+OCEAN IS             18  0°53'0'' S, 169°32'0'' E (Kiribati, or could be 50°32'0'' S, 166°16'0'' E (New Zealand)
+JARROW BUOYS         18  54°59'5'' N, 1°31'29'' W.
+NWW HONG KONG        18  22°18'0'' N, 114° 8'0'' E
+SAN FANCISCO         18  37°46'30'' N, 122°25'6'' W (assumed San Francisco, California, USA, but many other possibilities) 
+OKHA                 18  22°29'0'' N, 69°6'0'' E (India)
+DALMUIR WEST         18  55°54'0'' N, 4°25'0'' W
+JARROW STAKE         18  54°59'0'' N,  1°28'0'' W (as previous Jarrow Slake)
+JOSS HOUSE BAY       18  22°29'0'' N, 114°20'0'' E (taken as Joss House Point, Hong Kong) 
+MADDELENA            18  41°14'0'' N, 9°25'0'' E (taken as Maddalena, Italy)
+P H JETTY            18  More info reqd
+PORT SWEFFINHAM      17  3°0'0'' N, 101°24'0'' E (assumed Port Swettenham, Malaysia)
+PORT SWETTONHOUSE    17  3°0'0'' N, 101°24'0'' E (assumed Port Swettenham, Malaysia)
+AKURYRI              17  65°40'0'' N, 18°6'0'' W (taken as Akureyri, Iceland)
+COLUMBO              17   6°55'55'' N, 79°50'52'' E
+LOUGH LARNE          17  54°51'0'' N, 5°49'0'' W
+PORT TEMPIK          17  29°57'0'' N, 32°34'0'' E (yet another variant of Port Tewfick?)
+S R J PORTSMOUTH     17  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+GEELONG              16  38°9'30'' S, 144°21'0'' E
+LEITH                16  55°57'0'' N, 3°10'0'' W
+GUAM PORT APIA       16  13°26'40'' N, 144°44'12'' E (Guam (PB))
+NEB TOWER            16  50°40'3'' N, 00° 57'4'' W (taken as Nab Tower, Isle of Wight, UK) 
+SALAMIS              16  37°57'0'' N, 23°28'0'' E
+KHOLKUWAI            16  26°21'14'' N, 56°21'48'' E (taken as Khor Kuwai, Oman)
+SERANGEAU            16   3°26'0'' S, 101°54'0'' E (taken as Serangai, Indonesia)
+NO 2 TROT FORT BLOCK 16  50°48'0'' N,  1°8'0'' W (another variant of Fort Blockhouse)
+B. ALULA             16  11°58'0'' N, 50°45'0'' E (Somalia, several other possibilities)
+FISHGUARD            16  52°0'0'' N, 4°56'0'' W
+VIZAGAPATAN          15  17°42'0'' N, 83°18'0'' E
+NO 1 TROT FORT BLOCK 15  50°48'0'' N,  1°8'0'' W (another variant of Fort Blockhouse)
+BIERA                15  19°50'37'' S, 34°50'20'' E (assumed misspelling of Beira, Mozambique)
+LAUNCESTON           15  41°27'0'' S, 147°10'0'' E
+HONG HONG            15  22°15'0'' N, 114°11'0'' E (taken as misspelling of Hong Kong)
+NO 3 BASIN           15  More info reqd
+SCOTTS               15  More info reqd - several possibilities
+DEVONPORT N YARD     15  50°22'0'' N,  4°11'0'' W (as previous Devonport)
+GOVAN & GREENOCK     15  55°51'0'' N, 4°19'0'' W (as previous Govan)
+HSINKONG             15  31°50'49'' N, 121°33'7'' E (taken as Hsin-Kang, China, but several other possibilities)  
+CHARLOTTE TOWN       15  15°18'0'' N, 61°24'0'' W (Dominica, but several other possibilities)
+SAN DEIGO USA        14  32°42'55'' N, 117°9'23'' W
+HUACHO               14  11°6'24'' S, 77°36'37'' W
+PORT ABERCROMBIE     14  36°9'0'' S, 175°20'0'' E
+HALIFER              14  44°39'0'' N, 63°36'0'' W (Halifax (PB))
+TAIL OF THE BANK GRE 14  55°59'0'' N,  4°50'0'' W (another variant of Tail of the Bank) 
+MANDAPAM             14  9°17'0'' N, 79°7'0'' E (India, or could be 9°49'0'' N, 80°9'0'' E (Sri Lanka)
+STOKES BAY           14  50°46'0'' N, 1°10'0'' W (UK, but 3 other possibilities in Australia)
+WAI HAI WEI          14  24°20'0'' N, 120°37'0'' E (as previous Wei Hei Wei)
+WARRI                14   4°18'0'' N, 6°15'0'' E (Nigeria, most likely of 4 possibilities)
+Z5                   14  More info reqd (possibly in Dublin)
+DARWIN               14  12°28'0'' S, 130°50'0'' E (assumed Australia, several other possibilities)
+SANTOS,BRAZIL        14  23°57'0'' S, 46°20'0'' W
+256 BERTH SEEADLER H 14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+RUSSELL              14  More info reqd - several possibilities
+V J ANCHGE PENANG    14   5°24'0'' N, 100°14'0'' E
+WHAUGAREI HEAD       14  35°49'0'' S, 174°30'0'' E
+FOOCHOW              14  26°3'41'' N, 119°18'22'' E
+PLYMOTH              14  More info reqd (assumed misspelling of Plymouth, of which there are several in addition to UK)
+POINT FORTIN         14  10°11'0'' N, 61°41'0'' W
+HOLYHEAD             14  53°18'0'' N, 4°38'0'' W
+RIO JANEIRO          14  22°54'0'' S, 43°14' 0'' W 
+VALLETTE             14  19°37'0'' N, 72°20'0'' W (Haiti)
+LYME REGIS           14  50°44'0'' N, 2°56'0'' W
+TABLE BAY            14  33°53'0'' S, 18°27'0'' E (S.Africa, but several other possibilities)
+EXAMINING IN PALM BA 14  More info reqd (Palm ??)
+CATHERINE BAY        14  36°7'0'' S, 175°21'0'' E
+HONOLULU             14  21°18'25'' N, 157°51'30'' W
+SANTIAGO DE CUBA     14  20°1'29'' N, 75°49'19'' W
+WAIWEIHEI            14  24°20'0'' N, 120°37'0'' E (as previous Wei Hei Wei)
+PORT A ANCHORAGE     14  More info reqd (what is A?)
+PORTLAND HARBOUR     14  50°35'0'' N, 2°27'0'' W (assumed UK)
+GRAVING ROCK         14  36°8'0'' N, 5°21'0'' W (taken as Graving Dock, Gibraltar)
+GH MAUGAWAI RIVER    14  36°8'0'' S, 174°0'0'' W (taken as Mangawai River, New Zealand) 
+GLADSTONE            14  More info reqd - several possibilities
+KARAHI               14  India (PB)
+KHOR KIWAI           14  26°21'14'' N, 56°21'48'' E (Oman)
+TAIHOO               14  22°18'0'' N, 113°58'0'' E (taken as Tai Ho, Hong Kong)
+V J ANCHGE           14  More info reqd (what is V J?)
+14TH PIER            14  More info reqd
+KHOR NOWARD          14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+KHOR KUWAIT          14  29°25'55'' N, 47°55'32'' E (taken as Kuwait Bay, or could be Khor Subiya 29°38'30'' N, 48°9'2'' E)
+DAR ES SALAMIS       14   6°48'0'' S,  39°17'0'' E ( alternative misspelling of Dar es Salaam)
+NANCARY              14   (THailand? (PB))
+SANDEKAN             14   5°50'0'' N, 118°7'0'' E (taken as Sandakan, Malaysia)
+N BASIN              14  More info reqd
+GREAT MERCURY BAY    14  36°37'0'' S, 175°48'0'' E (as previous Great Mercury Island)
+DRY DOCK (HIGH SHIEL 14  More info reqd
+KHOR KUINAI          14  26°21'14'' N, 56°21'48'' E (assumed misspelling of previous Khor Kuwai, Oman)
+LABRIAN              14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+DARTMOUTH            14  50°21'0'' N, 3°35'0'' W
+NAVAL OPERATING BASE 14  More info reqd
+SMOOGROO BAY         14  58°56'0'' N, 2°6'0'' W (taken as Smoogro Bay, UK)
+CAEN ROAD            14  More info reqd
+OH RED MERCURY I     14  36°37'0'' S, 175°56'0'' E (Red Mercury Island, New Zealand)
+WEIHEIWEI            14  24°20'0'' N, 120°37'0'' E (as previous Wei Hei Wei)
+ROLLWAY JETTY COCHIN 14   9°58'0'' N, 76°14'0'' E
+J KUBLER             14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+FISHERMANS BAY NOUME 14  More info reqd - several possibilities
+RIO GRANDE           14  More info reqd - many possibilities
+BAY ST GEORGE        14  48°26'0'' N, 58°28'0'' W (Newfoundland, Canada, but could be 54°22'13'' S, 36°14'19'' W - South Georgia
+KILLINDINNI          14   5°0'0'' S, 39°49'0'' E (misspelling of Kilindini, Tanzania)
+OPERATION AREA       14  ????????????
+BEN ACCORD HARBOR    14  36°25'0'' S, 174°51'0'' E (taken as Bon Accord Harbour, Kawau Island, New Zealand)
+HARBOUR WHARF        14  More info reqd
+PANGO                14  More info reqd - several possibilities
+PUERTO MONTT         14  41°28'18'' S, 72°56'13'' W
+CHARLOTTETOWN        14  46°14'0'' N, 63°8'0'' W
+ELEPHANT BAY         14  More info reqd - several possibilities
+MEDAN                14   3°35'0'' N, 98°40'0'' E (Indonesia)
+ABERYSTWYTH          14  52°25'0'' N, 4°4'0'' W
+ASSAULT AREAS        14  More info reqd
+NORTH ARM WALL HONG  14  22°18'0'' N, 114°12'0'' E (as previous North Arm Hong Kong)
+F BERTH              14  More info reqd
+CUBA                 14  More info reqd (it is quite a large island!)
+WHAMPON DOCK         14  22°18'0'' N, 114°11'0'' E (Hong Kong)
+NEMO BAY (NOSOMEA)   14  (Solomon Islands? (PB))  
+KUALA JOHNS          14   5°17'0'' N, 96°8'12'' E (taken as Kuala Njong - Indonesia)
+KUNE                 14  34°58'0'' N, 138°29'0'' E (Japan (PB))
+B4                   14  ????????????
+GRENADA              14  12°7'0'' N, 61°40'0'' W
+KHOR KUWA            14  26°21'14'' N, 56°21'48'' E (assumed misspelling of previous Khor Kuwai, Oman)
+PENAZE               14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+RIO GRANDE DE SUL    14  More info reqd (assumed Rio Grande do Sul, southernmost state of Brazil)
+T I C WHARF          14  More info reqd
+NORTH LANTAU         14  22°15'0'' N, 113°56'0'' E (Hong Kong)
+TOWILA               14  More info reqd - several possibilities, (with different spellings)
+FOOCHON              14  26°3'41'' N, 119°18'22'' E (assumed misspelling of Foochow)
+OAMAN                14  More info reqd (do they mean Oman?)
+KHOR JAVANA          14  22°30'1'' N, 59°44'16'' E (assumed misspelling of Khor Jarameh, Oman)
+BAN ACCORD HARBOUR   14  36°25'0'' S, 174°51'0'' E (misspelling of Bon Accord Harbour, Kawau Island, New Zealand)
+N O B NORFOLK        14  36°52'51'' N, 76°18'29'' W (as previous Norfolk, Virginia, USA)
+GOA                  14  15°30'0'' N, 73°55'0'' E (India, but several other possibilities)
+NORTH BASIN          14  More info reqd
+REPAID BASE          14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+BAYONNE TERMINAL     14  43°29'0'' N, 1°29'0'' W
+LUANDA               14   8°50'18'' S, 13°14'4'' E (Angola)
+IWAKUNI              14  More info reqd
+J BERTH              14  More info reqd
+GEORGETOWN ARCENCIAN 14   7°56'0'' S, 14°25'0'' W (Ascension Is.)
+VATICA BAY           14  36°30'0'' N, 23°2'0'' E (taken as Vatika Bay, Greece)
+BOURNEMOUTH          14  50°43'0'' N, 1°53'0'' W
+NO. 46 DOCK SOUTHAMP 14  50°54'0'' N, 1°24'0'' W
+LIMANOT              14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+LATZI                14  35°2'17'' N, 32°23'37'' E (Cyprus)
+MALTA (G.H)          14  35°53'32'' N, 14°30'46'' E (as previous Grand Harbour)
+BIGHI BAY            14  35°53'45'' N, 14°31'21'' E (Malta)
+FUKUOKA              14  33°35'0'' N, 130°24'0'' E (Note; there are 7 places with this name in Japan - I have listed the one most likely)
+DALEAR               14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+COMMISSIONING JETTY  14  More info reqd
+THE SOLENT           14  More info reqd (it covers quite a large area)
+Z5 ANCHORAGE         14  More info reqd (possbly in Dublin)
+DUNDRUM BAY          14  54°14'0'' N, 5°45'0'' W
+46 BERTH             14  More info reqd
+NO 52 BERTH          14  More info reqd
+AKAROA               14  43°45'0'' S, 173°0'0'' E
+MAHE                 14   4°37'0'' S, 55°27'0'' E (Seychelles - but several other possibilities)
+SMALL ISLAND         14  More info reqd (several possibilities)
+CHRISTOBEL           14  More info reqd (could be misspelling of Christobal - several places with this name)
+GRAND HARBOUR MALTA  14  35°53'32'' N, 14°30'46'' E (as previous Grand Harbour)
+TELRAN REACH         14   1°28'0'' N, 103°48'0'' E (taken as Tebrau Reach, Singapore, but may not be)
+LIFUKA               14  19°48'0'' S, 174°21'0'' W (taken as Lefuka Island, Tonga)
+LONA LUNA            14  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+PAYTA                14   7°55'0'' N, 77°17'0'' W (Panama) 
+TOMKINSVILLE BAY     14  40°38'11'' N, 74°5'9'' W (assumed misspelling of Tompkinsville, New York, USA) 
+DOCKYARD BASIN HONG  14  22°17'0'' N, 114°10'0'' E 
+HARBOUR WATER WHARF  14  ????????????
+SALEMO BAY           14  40°32'0'' N, 14°42'0'' E (assumed Gulf of Salerno, Italy)
+WHANTON DOCK         14  22°18'0'' N, 114°11'0'' E (assumed misspelling of Whampon Dock, Hong Kong)
+PYRMOND JETTY        14  33°52'0'' S, 151°12'0'' E (assumed misspelling of Pyrmont, New South Wales, Australia) 
+KUALA JAHRE          14   5°27'0'' N, 101°13'0'' E (assumed misspelling of Kuala Jerai, Malaysia)
+BALLS BANK           14  36°0'12'' N, 14°24'12'' E (Malta)
+SAO SEBASTIAO        14  More info reqd - many possibilities, (>50 in Brazil)
+ELPHINSTONE INLET    14  26°12'33'' N, 56°20'58'' E (Oman)
+LOCH FOYLE           14  55°6'0'' N, 7°8'0'' W (misspelling of Lough Foyle, Ireland)
+SAGAMI BAY           14  35°20'0'' N, 139°15'0'' E (Japan)
+VATIKA BAY           14  36°30'0'' N, 23°2'0'' E
+NO 2                 14  ????????????
+KAMARAU              14   5°10'0'' S, 123°4'0'' E (taken as Kamaru, Indonesia)
+SWATON               14  52°55'0'' N, 0°18'0'' W
+SARDAM BAY           14  77°34'0'' N, 15°0'0'' E (Svalbard)
+MALTA (NX)           14  More info reqd (what/ where is NX?)
+BERMUDA DOCKYARD     14  32°19'12'' N, 64°50'30'' W
+BATEMAN BAY          14  (Nr Sydney, Australia (PB))
+SAND R BEACHES       14  More info reqd (what is R?)
+F.O.                 14  ????????????
+GEORGETOWN ASCENSION 14   7°56'0'' S, 14°25'0'' W
+TSMALIA              14  38°31'0'' N, 22°57'0'' E (taken as Tsamali, Greece)
+WALLSEND DOCK        14  54°59'29'' N, 1°33'35'' W (assumed in UK, but could be Australia or New Zealand)
+A F D ROTHESAY       14  55°50'0'' N,  5° 4'0'' W (as previous Rothesay)
+COSMOPOLITAN PARK    14  More info reqd (Google thinks it is a hotel in Istanbul!)   
+LIMA CHANNEL         14  22°7'0'' N, 114°17'0'' E (Hong Kong, or could be 1°22'0'' N, 104°17'3'' E (Malaysia)
+DIGBY                14  53°5'0'' N, 0°22'0'' W (UK, but could be 37°48'0'' S, 141°32'0'' E - Australia, or 44°36'0'' N, 65°45'0'' W - Canada)
+EL PERELLO           14  39°17'0'' N, 0°17'0'' W ( but could be 40°52'0'' N, 0°43'0'' E, or 41°57'0'' N, 2°48'0'' E (all in Spain)
+TANJONG PRIOR        14  6°6'49'' S, 106°53'27'' E (taken as Tanjong Priok, Indonesia)
+WILLEMSTAD           14  6°20'0'' N, 57°35'0'' W (Guyana (PB)))
+HEMPSTEAD HARBOUR    14  40°42'22'' N, 73°37'9'' W
+KOLA INLET.          14  69°15'0'' N, 33°32'0'' E (as previous Kola Inlet, etc) 
+DUOON                14   (Scotland?? (PB))
+HOLYLAND             14  More info reqd (do they mean somewhere in Israel?)
+PEARL HARBOR         14  21°21'18'' N, 157°58'20'' W
+SANTA ISABEL         14  More info reqd - many possibilities
+LAUTOKA              14  17°37'0'' S, 177°28'0'' E
+SELETAR              14   1°24'36'' N, 103°52'27'' E (Singapore)
+POINT NOIRE          14  More info reqd - many possibilities
+SULLAN VOC.          14  60°27'0'' N, 1°20'0'' W (taken as Sullom Voe, UK)
+C3 BERTH             14  More info reqd
+MOCAIO               14  (Brazil?, (PB))
+NO 2 GLADSTONE DOCK  14  53°26'56'' N, 3°1'5'' W (Liverpool)
+AUGUSTO              14  More info reqd - several possibilities (mostly in Mozambique)
+SANTA MARTA          13  More info reqd - many possibilities
+TIMARA               13  40°58'0'' N, 39°9'0'' E
+EXERCISES            13  ????????????
+BOMBAY ROADS         13  18°56'53'' N, 72°51'8'' E (as previous Bombay - unable to obtain more accurate position from Fuzzy G or Google)
+KEPPEL HARBOR        13   1°16' 0'' N, 103°50' 0'' E 
+FRAMANTLE            13  32°3'0'' S, 115°46'0'' E (assumed misspelling of Fremantle, Western Australia) 
+NURVEA               13  16°31'0'' S, 178°48'0'' E (taken as Nuvera, Fiji)
+COCHIN NO 9 BERTH    13   9°58'0'' N, 76°14'0'' E (as previous Cochin)
+ABADAN.              13  30°10'0'' N, 48°50'0'' E
+14 PYRMONT           13  33°52'0'' S, 151°12'0'' E (as previous Pyrmont)
+KHOR GHUBB ALI       13  26°15'48'' N, 56°21'26'' E
+SERANGOON ANCHORAGE  13   1°24' 0'' N,  103°56' 0'' E (as previous Serangoon Harbour)
+FOWLERTON PATCHES    13   1°41'10'' N, 102°58'4'' E (misspelling of Foulerton Patches, Malaysia)
+ALBERT BASIN         13  More info reqd (could be London or Newry) 
+PARACELE ISLAND      13  16°30'0'' N, 112°15'0'' E (assumed misspelling of Paracel Is.)
+DAMO                 13  More info reqd - several possibilities
+CLYDE AREA           13  More info reqd - a bit vague
+NO 46 DOCK SOUTHAMPT 13  50°54'0'' N, 1°24'0'' W (as previous Southampton)
+BRODICK BAY          13  55°35'0'' N, 5°8'0'' W
+CARTAGUA             13  More info reqd (there is a place with this name at 14°38'0"  N, 88°52'0" W in Honduras, but it is >1000m above sea level!)
+CRANEY ISLAND        13  38°37'31'' N, 77°8'16'' W (or could be 36°53'32'' N, 76°21'35'' W, both in USA)
+GREAT BITTER LAKE    13  30°20'0'' N, 32°23'0'' E  
+FISTH OF CLYDE       13  More info reqd - assumed misspelling of Firth - also a bit vague as it covers quite a large area 
+SEYCHELLIS           13   4°35'0'' S, 55°40'0'' E (assumed misspelling of Seychelles)
+MARSEILLAS           13  43°18'0'' N, 5°24'0'' E (assumed misspelling of Marseilles, France)
+CHING WANG TAO       13  39°55'54'' N, 119°35'18'' E (alternative misspelling of Chinwangtao, China)
+W ALVIS BAY          21  22°55'0'' S, 14°28'0'' E (Walvis Bay, Namibia)
+MEDIL                12  56°10'0'' N, 3°1'0'' W (Methil (PB))
+PENNSICOLA           12  (not Pensacola, Florida, USA - Brazil? (PB))
+M S JETTY PORTSMOUTH 12  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+FUNCHAL              12  32°38'0'' N, 16°54'0'' W
+AFD 7                12  More info reqd
+MIN RIVER OUTER BANK 12  26°4'56'' N, 119°31'58'' E (China)
+HAMPTON ROCKS        12  alternative name for Hampton Roads?
+KILINDINE            12   5°0'0'' S, 39°49'0'' E (misspelling of Kilindini, Tanzania)
+PORT SAID DOCKYARD   12  31°16'0'' N, 32°18'0'' E
+P                    12  ????????????
+NWW PORTSMOUTH       12  50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+NO 3 DOCK            12  More info reqd
+PORO DE JANEIRO      12  Is this meant to be Rio de Janeiro?
+ULITHIE              12   9°58'0'' N, 139°40'0'' E (as previous Ulithi) 
+SOUTH WALL ROSYTH    12  56°2'0'' N, 3°26'0'' W (as previous Rosyth) 
+HOY DOCKYARD         12  58°51'0'' N, 3°18'0'' W
+RN BASE              12  More info reqd
+BOOM DEFENCE PER KOW 12  22°20'0'' N, 114°11'0'' E (Kowloon?)
+DURBAN WHARF         12  29°53'0'' S, 31° 3'0'' E (assumed Durban S.Africa) 
+SANTA CRUZ           12  More info reqd - many possibilities 
+A F D 20             12  ????????????  
+TAUGA BAY            12  More info reqd (could be misspelling of Tagua Bay, New Zealand - unable to get co-ordinates)
+KHASAL BAY           12  26°12'13'' N, 56°14'56'' E (taken as Khasab Bay, Oman)
+BANGOT               12  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+BARROW IN FURNESS    12  54°7'0'' N, 3°14'0'' W
+AWOCHAR              12  56°12'0'' N, 4°44'0'' W (taken as Arrochar, Scotland)
+NO 2 BERTH           12  More info reqd
+MARSAXLOKK BAY       12  35°49'12'' N, 14°32'44'' E (Malta)
+LAMLASH HARBOUR      12  55°32'0'' N, 5°9'0'' W
+AZORES               12  More info reqd
+BEYT IS ANCHORAGE    12  22°28'0'' N, 69°5'0'' E (India (PB))
+NO 5 AND 6 WHARVES   12  More info reqd
+TOLO CHANNEL         12  22°27'0'' N, 114°12'0'' E (as previous Tolo Inlet)
+ENGLISH BAY          12  More info reqd - several possibilities
+PORT HHX             12  More info reqd (what is HHX?)
+MIN RIVER ENTRANCE   12  26°4'56'' N, 119°31'58'' E (China)
+N W                  12  ????????????
+BRODERICH BAY        12  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+CORE BAY             12  Could be Score Bay, UK 57°40'0'' N, 6°21'0'' W, or Cory Bay, Canada 65°25'0'' N, 74°30'0'' W 
+SCOTTS GREENOCK      12  55°56'0'' N,  4°45'0'' W (as previous Greenock)
+A E DOCK             12  More info reqd  
+BERKELEY             12  US East coast (PB)
+BANDAR GASIN         11   (Yemen (PB))
+FANNING IS           11  3°52'0'' N, 159°20'0'' W (Kiribati) (PB) 
+HOLY DOCK            11  55°59'0'' N, 4°55'0'' W (taken as Holy Loch, Scotland) 
+HARRISON COVE        11  44°38'0'' S, 167°54'0'' E (New Zealand, but several other possibilities)
+ADDU HILL            11  Do they mean Addu Atoll?
+FRENCH CREEK         11  35°53'4'' N, 14°30'57'' E (Malta)
+BERWICK              11  55°47'0'' N, 2°0'0'' W (UK, but several other possibilities)
+ADU ATOLL            11  0°38'0'' S, 73°10'0'' E (Addu Atoll, Maldives)
+KAINES BAY           11  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google, but Google has a reference in New Zealand)
+B D PUR KOWLOON      11  22°20'0'' N, 114°11'0'' E (as previous Kowloon)
+KHA KUWAI            10  26°21'14'' N, 56°21'48'' E (assumed misspelling of previous Khor Kuwai, Oman)
+PORT BANNATYNE       10  55°51'0'' N, 5°4'0'' W
+S BASIN              10  More info reqd
+CHRISTOBAL           10  More info required - several places with this name
+PORT PHILLIP         10  38°9'0'' S, 144°52'0'' E
+SANCHIAKWAN          10  33°31'0'' N, 126°32'0'' E (taken as Sanchi-kawa, South Korea)
+ALEX                 10  53°25'0'' N, 3°0'0'' W (Alexandra Dock, Liverpool?)
+CAMBELTOWN           10  55°26'0'' N, 5°38'0'' W (taken as Campeltown, Scotland, but several other possibilities)
+GRANSEND BAY NY      10  More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+P DEL ESTE           10   8°26'0'' N, 79°7'0'' W (taken as Punta del Oeste, Panama)
+EXERCISING           10  More info reqd
+ST HELENS            10  More info reqd - several possibilities
+RED BAY              9   55°4'0'' N, 6°1'0'' W (UK, but several other possibilities)
+N WALL A E DOCK      9   More info reqd
+LAINE                9   Scotland (PB)
+SCALPSIE BAY         9   55°46'0'' N, 5°6'0'' W
+S                    9   ???????????? 
+N ANCHORAGE          9   More info reqd
+NICE                 9   43°42'0'' N, 7°15'0'' E
+BUTARIKARI           9    3°5'0'' N, 172°49'0'' E (assumed misspelling of Butaritari, Kiribati)   
+A F D XX             9   ????????????
+SKELMORLIE           8   55°52'0'' N, 4°54'0'' W
+ELPHINSTON INLET     8   26°12'33'' N, 56°20'58'' E (misspelling of Elphinstone Inlet, Oman)
+ILLAHEE & BREMERTON  8   47°36'47'' N, 122°35'44'' W 
+KHER KUWAIT          8   29°25'55'' N, 47°55'32'' E (as previous Kuwait Bay)
+PORT BONET           8    5°15'0'' N, 3°58'0'' W (taken as Port-Bouet, Ivory Coast)
+LAZARETT CREEK       8   35°54'7'' N, 14°29'57'' E (Malta)
+NIL                  8   30°10'0'' N, 31°6'0'' E (Egypt, or could be 25°29'0'' N, 61°6'0'' E - Iran)
+NORTHERN ANCHORAGE   8   More info reqd
+GI CI SYDNEY         8   More info reqd (what is GI CI?)
+BULTAN               8   More info reqd (could this be Bulten?) 
+GI CI                8   More info reqd (what is GI CI?)
+KHASSAL BAY          8   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+LUNA                 8   More info reqd - many possibilities
+DRY DOCK             8   More info reqd 
+KIRIBILLI BERTH      8   33°51'0'' S, 151°13'0'' E (New South Wales, Australia)
+TUNBY                8   (Channel? (PB))
+SLIP JETTY           8   More info reqd
+NALACCA              8    2°11'49'' N, 102°14'53'' E (Malaysia, but 4 other possibilities)
+SOUTH BOSROW         8   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+SHIP JETTY           8   More info reqd
+CONCEPCION BAY       8   More info reqd - several possibilities
+PORT HHZ             8   More info reqd (what is HHZ?)
+B4 ANCHORAGE         7   More info reqd
+SALDANHA             7   33° 5'0'' S, 18° 1'0'' E (as previous Saldanha Bay, S.Africa)
+ABU DHABI            7   24°27'0'' N, 54°23'0'' E
+PALK STRAITS         7   10°0'0'' N, 79°45'0'' E
+POLL BAY             7   58°4'0'' N, 5°17'0'' W (taken as Polly Bay, Scotland) 
+YOKAHAMA             7   35°27'0'' N, 139°38'0'' E (assumed misspelling of Yokohama, Japan) 
+KENEDY BAY           7   More info reqd - several possibilities
+MAIN TIC QUAY        7   55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)
+HARRAH GULF          7   (Near Tonga? (PB))
+SANDAHAN             7    5°50'0'' N, 118°7'0'' E (taken as Sandakan, Malaysia)
+REYKJAVIT            7   64° 8'0'' N,  21°54'0'' W (misspelling of Reykjavik)
+PORT THEWFIK         7   29°57'0'' N, 32°34'0'' E (yet another variant of Port Tewfick)
+SKIATHOS             7   39°10'0'' N, 23°29'0'' E
+LARNACA              7   34°55'0'' N, 33°38'0'' E (as previous Larnaca)
+FALKLAND IDS         7   More info reqd (assumed Falkland Islands, but where?
+CHINGWANGTAA         7   39°55'54'' N, 119°35'18'' E (alternative misspelling of Chinwangtao, China)
+FEBRUARY             7   23°32'0'' N, 75° 50'0'' W (approx. location of February Point, Gt Exuma Island, Bahamas)  
+P SAID               7   31°16'0'' N, 32°18'0'' E (as previous Port Said)
+PORT LOUIS MAURITIUS 7   20°10'0'' S, 57°32'0'' E
+CALABAV              7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+KENNEDY BAY          7   More info reqd - several possibilities
+MANSARELOKK          7   35°49'12'' N, 14°32'44'' E (misspelling of Marsaxlokk, Malta)
+ABA ZENIMA BAY       7   29°2'59'' N, 33°6'13'' E (taken as Abu Zenima, Egypt)
+MANNUS ISLAND        7    2°10'0'' S, 147°0'0'' E (taken as Manus Islands, Papua New Guinea) 
+BASSETERRE ST KITTS  7   17°18'0'' N, 62°43'0'' W
+FREMONT              7   More info reqd - several possibilities
+PORT BARENICA        7   23°56'44'' N, 35°29'3'' E (taken as Port Berenice, Egypt)
+CANAL TRANSIT        7   44°48'0'' S, 73°44'0'' W (taken as Canal Transito, Chile, but could be part of Suez or Panama Canals)
+LAKE TOWN            7   22°34'11'' N, 88°22'11'' E (part of Kolkata, India?)
+FALSE BAY            7   South Africa (PB))
+MAUI                 7   near NZ (PB)
+LISANDA              7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+FERNANDO PO          7    3°30'0'' N, 8°42'0'' E (Equatorial Guinea, or could be 8°35'52'' N, 13°1'10'' W - Sierra Leone)
+NO 14 PIERMONT       7   41°2'31'' N, 73°55'7'' W
+PORT BLAINE          7   ?? (PB)
+DOCK N SHIELDS       7   55°0'17'' N, 1°28'22'' W (as previous North Shields)
+CHINWAUGTAO          7   39°55'54'' N, 119°35'18'' E (alternative misspelling of Chinwangtao, China)
+MADROS               7   (Not Madras - in the Med. (PB))
+PINES                7   (Near Suez? (PB))
+LONG HOPE SCAPA      7   58°48'0'' N, 3°12'0'' W
+YARMOUTH             7   50°42'0'' N, 1°30'0'' W (Isle of Wight, UK, but could be 52°38'0'' N, 1°45'0'' E, or several possibilities overseas)
+WHANGARURU           7   36°43'0'' S, 175°37'0'' E (assumed misspelling of Whangapoua Bay, New Zealand)
+OH RED MERCURY ISLAN 7   36°37'0'' S, 175°56'0'' E (as previous Red Mercury Island, New Zealand)
+MULLER               7   18°24'42'' N, 73°43'26'' W (Haiti)
+PAHMA                7   39°34'0'' N, 2°39'0'' E (assumed misspelling of Palma, Majorca, Spain)
+ANDORES AT APPROACH  7   41°35'29'' N, 129°40'13'' E (Andore, N.Korea, but could be misspelling of somewhere else)
+MORTON BAY           7    4°0'0'' N, 9°12'0'' E (Cameroon)
+T O B B1 BERTH       7   55°59'0'' N,  4°50'0'' W (yet another variant of Tail of the Bank)
+OH WAIKAWAI BAY      7   36°35'0'' S, 175°32'0'' E (taken as Waikawau Bay, New Zealand) 
+NO 15 BERTH          7   More info reqd
+MELVILLE             7   More info reqd - several possibilities
+SCOTSTOWN            7   56°43'0'' N, 5°34'0'' W  
+POMPEY               7   50°49'0'' N, 1°7'0'' W (Portsmouth)
+HARBOUR              7   More info reqd (which harbour?)
+JAFFNA               7    9°40'0'' N, 80°0'0'' E (Sri Lanka)
+SPEED TRIALS         7   ????????????
+MORIB ANCHORAGE      7    2°45'0'' N, 101°26'0'' E (Malaysia)
+KHA NOWARAT          7   18°12'0'' N, 38°16'0'' E (misspelling of Khor Nowarat, Sudan)
+NANDI ROADS          7   More info reqd - several possibilities
+AKREYRI              7   65°40'0'' N, 18°6'0'' W (misspelling of Akureyri, Iceland)
+S`HORE               7   ????????????
+CHRISTMAS IS         7   Central Pacific (PB)
+MORSE DAY DOCK       7   40°40'7'' N, 74°0'57'' W (as previous Morse Dry Dock, Brooklyn)
+VIETNAM              7   More info reqd - where in Vietnam? - it covers about 12° of latitude!  
+LOCH CAIOU           7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+KARGOW               7   More info reqd (several possibilities in Fuzzy G. but none of them coastal)
+CALAIS               7   50°57'0'' N, 1°50'0'' E
+TACOMA & ILLAHEE     7   47°15'11'' N, 122°26'35'' W (Tacoma) and 47°36'47'' N, 122°35'44'' W (ILLAHEE)
+LOCH RANIA           7   55°43'0'' N, 5°18'0'' W (taken as Loch Ranza bay, Scotland) 
+JARROW SLADE         7   54°59'0'' N,  1°28'0'' W (misspelling of Jarrow Slake)
+IN THE FLOW          7   which flow????????????   
+MARTA SEIROCCO       7   35°49'12'' N, 14°32'44'' E (taken as Marsa Scirocco, Malta)
+KHA JARAMA           7   22°30'1'' N, 59°44'16'' E (assumed misspelling of Khor Jarameh, Oman)
+D E BERTH PRINCESS D 7   53°25'0'' N, 3°0'0'' W (Princess Dock, Liverpool?)
+SOUTH RAILWAY JETTY  7   More info reqd
+KINKAURAUD           7   Norway (PB)
+NO 10 DRY DOCK       7   More info reqd
+ELAYU                7   11°14'44'' N, 48°53'33'' E (Somalia)
+KUBA                 7   More info reqd (several possibilities)
+DARBAN               7   More info reqd (4 locations in Fuzzy G. none coastal, many more of Darband, mostly in Iran)  
+YOKCHAMA             7   35°27'0'' N, 139°38'0'' E (assumed misspelling of Yokohama, Japan)
+36TH ST PIER         7   40°47'13'' N, 73°55'5'' W (assumed New York, USA)
+SEA AT PANAMA CANAL  7    9°20'0'' N, 79°55'0'' W
+5TH STREET PIER HOBO 7   40°44'38'' N, 74°1'58'' W
+CATHERINES BAY       7   49°13'10'' N, 2°2'59'' W (taken as St Catherine's Bay, Jersey)
+YANGTGE DELTA        7   31°12'0'' N, 120°30'0'' E (misspelling of Yangtze, China) 
+FIVE FATHOM HOLE     7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google, although Google suggests it could be either on the Savannah River, or a harbour in New Brunswick, Canada))
+PAROS STRAIT         7   37°5'0'' N, 25° 9'0'' E (Greece)
+ROCK A FLOAT         7   ????????????
+TWOFOLD BAY          7   37°6'0'' S, 149°55'0'' E
+HEBBUNN              7   54°58'0'' N, 1°31'0'' W (assumed misspelling of Hebburn, UK)
+GREAT NOME ANCHORAGE 7   51°28'0'' N, 0°48'0'' E (taken as Great Nore Anchorage, UK)
+SURVEYING            7   ????????????
+SOUTH BASIN BERMUDA  7   32°19'15'' N, 64°50'11'' W
+COWICHAN             7   48°52'0'' N, 124°15'0'' W (taken as Cowichin, Brit. Columbia, Canada)
+FALKLANDS ISLANDS    7   More info reqd - too vague
+ZAILA                7   11°21'14'' N, 43°28'26'' E (Somaliland)
+SAN TROPAZ           7   43°16'0'' N, 6°38'0'' E (taken as Saint-Tropez, France)
+R CLYDE              7   More info reqd - too vague
+BARBADOS B W I       7   13° 6'0'' N, 59°37'0'' W (as previous Bridgetown, Barbados)
+TELFA                7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+FALKLAND ISLES       7   More info reqd - too vague
+RIO DE JANARO        7   22°54'0'' S, 43°14' 0'' W (misspelling of Rio de Janeiro, Brazil)
+WOOLWICH             7   51°28'0'' N, 0°12'0'' E
+GOWOCK               7    7°6'23'' S, 110°18'29'' E (taken as Gowok, Indonesia; or 8°7'6'' S, 112°32'53'' E - also Indonesia)
+TOBAGA BAY           7   38°22'0'' S, 178°19'0'' E (taken as Tolaga Bay, New Zealand)
+VIZAGAPOTAM          7   17°42'0'' N, 83°18'0'' E (taken as Vizagapatam, India)
+LOCK RYAN & BELFAST  7   54°56'0'' N, 5°2'0'' W (Loch Ryan, N.Ireland)
+ROSYTH IN THE BASIN  7   56°2'0'' N, 3°26'0'' W (as previous Rosyth)
+DRAGON               7   20°15'0'' S, 57°22'0'' E (Mauritius)
+TIENTSUI             7   39°8'0'' N, 117°12'0'' E (misspelling of Tientsin, China)
+AS SUWAIK            7   23°50'58'' N, 57°26'19'' E (taken as As Suwaiq, Oman)  
+Z5 ANCHOR BANK       7   More info reqd (possibly in Dublin)
+HSUPUKOU             7   31°3'53'' N, 111°20'24'' E (taken as Hsi-pei-k'ou, China)
+SINGAPORE NAVAL YARD 7    1°27'54'' N, 103°49'10'' E
+ALEXANDER            7   More info reqd (several possibilities)
+BERTH C3 TRINCOMALEE 7    8°34'0'' N, 81°14'0'' E (as previous Trincomalee, Sri Lanka)
+SIERRE LEONE         7   More info reqd - too vague
+SUR                  7   22°34'0'' N, 59°31'44'' E (Oman, but several other possibilities)
+C.2 BERTH            7   More info reqd
+WHAUGABOUA BAY       7   36°43'0'' S, 175°37'0'' E (misspelling of Whangapoua Bay, New Zealand)
+RUS AL HADD          7   22°32'0'' N, 59°48'0'' E (misspelling of Ras al Hadd, Oman)
+AJMAN                7   25°24'22'' N, 55°26'34'' E (Oman)
+TANRA                7   (Tanzania? (PB))
+CARRIACOA            7   12°28'0'' N, 61°28'0'' W (taken as Carriacou, Grenada)
+DI BOUY              7   More info reqd (probable misspelling) 
+KHABAB BAY           7   26°12'13'' N, 56°14'56'' E (taken as Khasab Bay, Oman)
+DAHAB                7   28°29'0'' N, 34°32'0'' E (Egypt)
+MANDEPAIN            7   India (PB)
+ZABAIR ISLANDS       7   15°3'0'' N, 42°10'0'' E (taken as Zubair Island, Yemen) 
+CHERBOURG            7   49°39'0'' N, 1°39'0'' W
+FORT DE FRANCE       7   14°36'0'' N, 61°5'0'' W (Martinique)  
+TAIRIO DOCK          7   22°17'0'' N, 114°13'0'' E (taken as Taikoo Dock, Hong Kong) 
+SIMON`S TOWN         7   34°11'0'' S, 18°26'0'' E (taken as Simonstown, S.Africa)
+AKABA                7   29°31'36'' N, 35°0'28'' E (Jordan, but could be 4°54'27'' N, 6°15'43'' E - Nigeria)
+S EDINBURGH CHANNEL  7   51°31'0'' N, 1°20'0'' E
+ALAMEDA (SAN FRANCIS 7   37°45'55'' N, 122°14'26'' W
+CHATHAM BAY          7    5°33'0'' N, 87°3'0'' W (Costa Rica, or could be 12°36'0'' N, 61°28'0'' W - St Vincent)
+ENGLISH BANK         7   12°21'0'' N, 83°40'0'' W (Nicaragua, or could be 35°12'0'' S, 55°55'0'' W - Uruguay)
+GRIMSBY              7   53°32'0'' N, 0°3'0'' W
+DUNK ISLAND          7   17°57'0'' S, 146°10'0'' E (Queensland, Australia) 
+MANUS IS             7    2°10'0'' S, 147°0'0'' E (as previous Manus Islands, Papua New Guinea)
+SELETAR ROAD         7    1°24'36'' N, 103°52'27'' E (as previous Seletar, Singapore)
+N E ARM              7   More info reqd
+MANUS ISLANDS        7    2°10'0'' S, 147°0'0'' E (as previous Manus Islands, Papua New Guinea)
+NORTHERN BEACHES     7   More info reqd
+COLVILLE BAY         7   36°37'0'' S, 175°27'0'' E (New Zealand, or could be 68°0'0'' N, 88°15'0'' W - Canada)
+PORT. SEYCHELLES     7    4°37'0'' S, 55°27'0'' E (taken as Mahe)
+SANTA FI             7   More info reqd (assumed misspelling of Santa Fe, in which case - many possibilities)
+LA SALINAS           7   11°17'45'' S, 77°34'35'' W (Peru)
+NO 3 PORT BERTH PORT 7   More info reqd (Port ?)
+RYDE                 7   50°43'0'' N, 1°10'0'' W (assumed Isle of Wight, UK)
+MANIA BAY            7   Tanzania? (PB) 
+PORT SHELLER         7   22°21'0'' N, 114°17'0'' E (taken as Port Shelter, Hong Kong)
+LOCH ALSTE           7   57°15'0'' N, 5°39'0'' W (taken as Loch Alsh, Scotland)
+KOLA INLET & SEIDISF 7   69°15'0'' N, 33°32'0'' E (as previous Kola Inlet, etc)
+PEARL  HARBOUR       7   21°21'18'' N, 157°58'20'' W (as previous Pearl Harbor)
+THE WHARF            7   ????????????
+VENGA BAY            7   69°5'0'' N, 33°26'0'' E (taken as Vaenga Bay, Russia)
+KHOR KUWAI & BANDAR  7   26°21'14'' N, 56°21'48'' E (as previous Khor Kuwai, Oman)
+WAIKAWAU BAY         7   36°35'0'' S, 175°32'0'' E (New Zealand)
+G ANCHORAGE          7   More info reqd
+DALAB                7   More info reqd (could be misspelling of Dahab?)
+MADALENA             7   More info reqd (several possibilities)
+SUNDAY ISLAND        7   More info reqd (several possibilities)
+MKOANI               7    5°22'0'' S, 39°39'0'' E (Tanzania)
+CRANEY IS            7   38°37'31'' N, 77°8'16'' W (or could be 36°53'32'' N, 76°21'35'' W - both USA)
+HERVEY BAY           7   25°0'0'' S, 153°0'0'' E (Queensland, Australia)
+RIO DE JAMAIRO       7   22°54'0'' S, 43°14' 0'' W (misspelling of Rio de Janeiro, Brazil)
+CAIRNS               7   16°55'0'' S, 145°46'0'' E
+URMSTON ROAD OF HONG 7   22°20'34'' N, 113°56'50'' E (as previous Urmston Road)
+MATRAS               7   13° 0'0'' N, 80°15'0'' E (Madras (PB))
+LABIAN               7   More info reqd (several places listed in Fuzzy G, but none coastal)    
+CANAL PASSAGE        7   More info reqd - which canal?
+MONTSERRAT           7   16°44'0'' N, 62°11'0'' W (several other possibilities)
+MURRAYS ANCHORAGE    7   32°23'2'' N, 64°43'14'' W (Bermuda)
+TULEAR               7   23°21'0'' S, 43°39'0'' E (Madagascar)
+LARGS BAY            7   34°48'0'' S, 138°28'0'' E (South Australia)
+MADNAS               7   More info reqd (is this a misspelling of Madras?)
+6 N BERTH            7   More info reqd
+CONCEPCION           7   More info reqd (many possibilities)
+SCRANGOON HARBOUR    7    1°24' 0'' N,  103°56' 0'' E (misspelling of Serangoon Harbour)
+Z5 BERTH             7   More info reqd (possibly in Dublin)
+SALEMO               7   40°32'0'' N, 14°42'0'' E (as previous Gulf of Salerno, Italy)
+SEYDISLFJORD         7   66°0'0'' N, 22°54'0'' W (or could be 65°18'0'' N, 13°50'0'' W, both Iceland)
+FT GILKICKER         7   50° 46'27'' N, 1° 8'27'' W 
+NOSSI BE             7   13°20'0'' S, 48°15'0'' E
+MEYOR ISLAND         7   29°14'0'' S, 177°50'0'' E (or could be 3°41'0'' S, 143°52'0'' E - Papua New Guinea)
+VANEGA BAY           7   69°5'0'' N, 33°26'0'' E (assumed misspelling of Vaenga Bay, Russia)
+SARDIS FJORD         7   66°0'0'' N, 22°54'0'' W (misspelling of Seydis Fjord - could be 65°18'0'' N, 13°50'0'' W, both Iceland,)
+JAMES ISLAND         7   More info reqd (several possibilities)
+AMUREYRIE            7   65°40'0'' N, 18°6'0'' W (assumed misspelling of Akureyri, Iceland)
+TRANSIT PANAMA CANAL 7    9°20'0'' N, 79°55'0'' W (as previous Panama Canal)
+SITRAH ANCHORAGE     7   26°8'40'' N, 50°38'31'' E
+HORDIA               7   10°34'0'' N, 51°8'0'' E (possible misspelling of Hordiva, Somalia)
+TEPAKI POINT         7   36°41'0'' S, 175°48'0'' E
+QOSIAC               7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+PORT A ANCHORAGEA" A 7   More info reqd (where is A?)
+MAR DEL PLATA        7   38°0'0'' S, 57°33'0'' W 
+PLYMOUTH SONNA       7   50°19'0'' N, 4°9'0'' W (taken as Plymouth Sound, UK)
+5N KOWLOON           7   22°20'0'' N, 114°11'0'' E (as previous Kowloon)
+MALTA (N,X)          7   More info reqd (what/ where is N,X?)   
+KHARAB               7   More info reqd (two places listed in Fuzzy G, but neither coastal)
+BREMENTON            7   38°23'50'' N, 75°30'40'' W (taken as Bremerton - could also be 47°34'3'' N, 122°37'53'' W - both USA)
+GRAND HARLEUS MALTA  7   35°53'32'' N, 14°30'46'' E (assumed Grand Harbour)
+PLYMOUTH BAY         7   41°58'0'' N, 70°36'0'' W (Massachusets, USA)
+B1 BIRTH T O B       7   55°59'0'' N,  4°50'0'' W (yet another variant of Tail of the Bank)
+R BERTH              7   More info reqd
+HERDMAN CHANNEL      7   54°37'11'' N, 5°54'13'' W (Belfast)
+YATIKA BAY           7   36°30'0'' N, 23°2'0'' E (taken as Vatika Bay, Greece) 
+WEWAK                7    3°33'0'' S, 143°38'0'' E (Papua New Guinea)
+SHARP PEALI          7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+C1 BERTH             7   More info reqd
+GWADAR BAY           7   25°8'0'' N, 61°38'0'' E (taken as Gwatar Bay, Pakistan)
+SEATTLE & PORT TOWNS 7   47°36'23'' N, 122°19'51'' W (as previous Seattle)
+SWASOW               7   23°22'0'' N, 116°40'0'' E (assumed misspelling of Swatow, China)
+CALLIOPE WHARF       7   36°49'0'' S, 174°48'0'' E (Devonport, New Zealand)
+PORT KALLONI         7   39°12'24'' N, 26°12'45'' E
+MERRYWEATHER DRYDOCK 7   More info reqd
+HAUSAKI GULF         7   36°21'0'' S, 175°2'0'' E (taken as Hauraki Gulf, New Zealand)  
+MALTA MASAXLOBB      7   35°49'12'' N, 14°32'44'' E (misspelling of Marsaxlokk, Malta)
+THURSDAY ISLAND      7   10°34'52'' S, 142°13'7'' E (Queensland, Australia)
+BAY OF ISLANDS       7   35°12'0'' S, 174°10'0'' E (New Zealand)  
+PIER NO 15           7   More info reqd
+PORT. `T             7   29°57'0'' N, 32°34'0'' E (yet another variant of Port Tewfick?)
+FALK BAY             7    9°30'0'' N, 79°15'0'' E (assumed misspelling of Palk Bay, Sri Lanka) 
+TRINCONALEE          7    8°34'0'' N, 81°14'0'' E (assumed misspelling of Trincomalee, Sri Lanka)
+NO 5 BSIN            7   More info reqd
+COX`S BAZAAR         7   21°35'0'' N, 92° 1'0'' E (Bangladesh)  
+CHANGYINSHA          7   31°52'0'' N, 120°45'0'' E (China)
+TOMPKINSVILLE BAY    7   40°38'11'' N, 74°5'9'' W (as previous Tompkinsville, New York, USA)
+BERENICE             7   32°7'0'' N, 20°4'0'' E (Libya)
+PORT TRYBHEUC        7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+LAMBASH              7   15°51'0'' N, 119°57'0'' E (taken as Lambas, Phillipines)
+MORSE  DOCK          7   40°40'7'' N, 74°0'57'' W (as previous Morse Dry Dock, Brooklyn)
+BRADHAM              7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+CASTELLAMARE         7   34°2'33'' N, 118°33'37'' W (California, USA)
+MONTEGO BAY JAMAICA  7   18°28'0'' N, 77°56'0'' W
+LOCH GOIL HEAD       7   56°8'0'' N, 4°53'0'' W
+OSLO QUAY            7   59°55'0'' N, 10°45'0'' E
+PALMERS              7   UK (PB)
+GREAT BASIN          7   More info reqd (according to Google it is a large, arid region of the western USA) 
+UMM AL QAIWAIN       7   26°10'45'' N, 56°32'49'' E (possible misspelling of Umm al Faiyarin, Oman)
+TAIKO WAN            7   22°16'0'' N, 114°8'0'' E (taken as Tai Ho Wan, Hong Kong)
+SINGAPORE KEPPEL HAR 7    1°16' 0'' N,  103°50'0'' E (as previous Keppel Harbour)
+MISIRA               7   13°34'57'' N, 16°1'10'' W (The Gambia - several places with this name, taken as most westerly one)  
+WHAUGAREI HEADS      7   35°49'0'' S, 174°30'0'' E (as previous Whangarui Head)
+PASIR PANJANA        7   More info reqd (probably misspelling of Pasir Panjang - several possibilities)
+LORENCO MARQUES      7   26°0'0'' S, 32°30'0'' E (as previous Lourenco Marques, Mozambique)
+GILBRATAR            7   36°8'0'' N, 5°21'0'' W (assumed misspelling of Gibraltar)
+TOWNSVILLE           7   19°15'0'' S, 146°48'0'' E
+KIIRUN               7   34°28'0'' N, 126°12'0'' E (taken as Kirun, S.Korea)
+VALETTA MALTA        7   35°53'59'' N, 14°30'53'' E (as previous Valetta, Malta)
+RIO DE JANIERO       7   22°54'0'' S, 43°14' 0'' W (misspelling of Rio de Janeiro, Brazil)
+OH CAVAIR I          7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+FIFTH AND GREENOCK   7   55°56'0'' N,  4°45'0'' W (as previous Greenock)
+LOLEIYA              7   15°42'14'' N, 42°41'31'' E (assumed misspelling of Loheiya, Yemen)
+ISMALIA              7   30°35'0'' N, 32°16'0'' E (misspelling of Ismailia, Egypt)
+SING. NAVAL BASE     7    1°27'54'' N, 103°49'10'' E (as previous Singapore Naval Yard)
+SOLENT               7   More info reqd (it covers quite a large area)
+ON PATROL            7   ???????????? (where?)
+ST JOHN`S HARBOR     7   47°34'0'' N, 52°38'0'' W
+KOLA INLET VALNEA BA 7   69°15'0'' N, 33°32'0'' E (as previous Kola Inlet, etc)
+BAKAR                7   West Africa (PB)
+F.O. (PLATI)         7   ????????????
+HERMANUS BAY         7   34°25'0'' S,  19° 15'0'' E (S.Africa) 
+MARACAILO            7   More info reqd (assumed misspelling of Maracaibo, several possibilities)
+PORT MAURITIUS       7   20°10'0'' S, 57°30'0'' E (taken as Port Louis, Mauritius) 
+NA WALL HONG KONG    7   22°18'0'' N, 114°12'0'' E
+WHAUGAPOUA           7   36°43'0'' S, 175°37'0'' E (assumed Whangapoua Bay, New Zealand)
+RAJANG               7    2°9'0'' N, 111°15'0'' E (Malaysia)
+SCAPA FLOW LA        7   58°55'0'' N, 3°6'0'' W (as previous Scapa Flow)
+MAN O` WAR BAY       7   (NZ (PB))
+HVALETORD            7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+SANTOS, BRAZIL       7   23°57'0'' S, 46°20'0'' W (as previous Santos, Brazil)
+SHIELDS              7   More info reqd (several places with this name in USA)
+PENZANCE             7   50°8'0'' N, 5°33'0'' W
+ST GEORGE            7   More info reqd (many possibilities) 
+G BERTH SAN DIEGO    7   32°42'55'' N, 117°9'23'' W (as previous San Diego, California) 
+SARDSON BAY          7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+SWAN HUNTERS WALLSEN 7   54°59'29'' N, 1°33'35'' W 
+NO 13 BERTH SHEIMA   7   (See Shiema - Med. (PB)) 
+LITTLETON            7   More info reqd (several possibilities)
+PORT. T`             7   29°57'0'' N, 32°34'0'' E (yet another variant of Port Tewfick?)
+NORFOLK VA           7   36°52'51'' N, 76°18'29'' W (as previous Norfolk, Virginia, USA)
+MURRAY`S ANCHORAGE   7   32°23'2'' N, 64°43'14'' W (Bermuda)
+NORTH SHIELDS AND HE 7   55°0'17'' N, 1°28'22'' W (as previous North Shields)
+LUDENTZ BAY          7   22°57'22'' S, 14°30'29'' E (probable misspelling of Ludeitz Bay, alternative name for Walvis Bay, Namibia)
+SAVU SAVU            7   16°39'0'' S, 178°32'0'' E (Fiji)
+JEZIRAT HINDARALI    7   26°40'34'' N, 53°37'51'' E (probable misspelling of Jazirat Hindarabi, Iran)
+ROSEAU DOMINICA      7   15°18'0'' N, 61°24'0'' W
+ANTIQUA              7   17°3'0'' N, 61°48'0'' W (probable misspelling of Antigua)
+B4 BUOY              7   More info reqd
+TRINCONALI           7    8°34'0'' N, 81°14'0'' E (assumed misspelling of Trincomalee, Sri Lanka)
+STOKER BAY           7   50°46'0'' N, 1°10'0'' W (probably Stokes Bay, UK, but 3 other possibilities in Australia)
+BATHUM               7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+HURUKI BAY           7   36°48'0'' S, 175°1'0'' E (probable misspelling of Huruhi Bay, New Zealand) 
+SOUTHEND             7   51°32'0'' N, 0°42'0'' E
+N BASE JAHORE        7    1°28'0'' N, 103°45'0'' E (Jahore Baru, Malaysia) 
+TOLO HARBOR          7   22°27'0'' N, 114°12'0'' E (as previous Tolo Inlet)
+PORT TRYPHEUC        7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+ARGENTINA            7   ???????????? (where in Argentina - it's a big country!)   
+PORT T`              7   29°57'0'' N, 32°34'0'' E (yet another variant of Port Tewfick?)
+HAWAHI GULF          7   More info reqd (do they mean Hawaii?)
+T I C N SHIELDS      7   55°0'17'' N, 1°28'22'' W (as previous North Shields)
+MARSA                7   35°49'12'' N, 14°32'44'' E (abbreviation of Marsaxlokk, Malta?)
+SANDMAN BAY          7   Could this be Sand BanK Bay? (if so, 3 possibilities - in Australia, Papua New Guinea or St Kitts & Nevis)
+KYAUK PYCU HARBOUR   7   19°26'0'' N, 93°33'0'' E (probable misspelling of Kyauk Pyu, Burma) 
+CHATHAM ISLAND       7   More info reqd (several possibilities)
+CEARA                7    1°45'0'' S, 44°50'0'' W (or could be 3°43'0'' S, 38°30'0'' W - both in Brazil)
+JOHN`S RIVER         7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+HAIPHONG             7   20°51'22'' N, 106°40'56'' E (Vietnam)
+GILLKICKER POINT     7   50°46'0'' N, 1°8'0'' W (as previous Gilkicker Point)
+SUBIE BAY            7   14°44'45'' N, 120°12'58'' E (possible misspelling of Subic Bay, Phillipines)
+SHINAS               7   24°44'36'' N, 56°27'57'' E (Oman)
+BANGON               7   More info reqd (several possibilities)
+MAN OF WAR           7   50°37'0'' N, 2°15'0'' W (UK, but several other possibilities)
+JOHNS STRAIT         7   More info reqd (possibly in New Brunswick, Canada)
+MAKALLA              7   More info reqd (probable misspelling of Makala - several possibilities)
+CHALMETTE            7   29°56'33'' N, 89°57'48'' W (Louisiana, USA)
+MANILA BAY           7   14°31'9'' N, 120°46'12'' E
+MUSCAL               7   23°36'48'' N, 58°35'36'' E (possible misspelling of Muscat, Oman)
+ST IVIE              7   50°12'0'' N, 5°30'0'' W (taken as St Ives, UK) 
+GIBRALTOR            7   36°8'0'' N, 5°21'0'' W (misspelling of Gibraltar)
+BANNATYNE            7   13°5'0'' N, 59°32'0'' W (Barbados)
+CASTRO               7   More info reqd (many possibilities, and not just in Cuba!) 
+BITTER LAKES         7   30°20'0'' N, 32°23'0'' E 
+SHOR KUWAI           7   26°21'14'' N, 56°21'48'' E (assumed misspelling of Khor Kuwai, Oman)
+NO 401 BERTH GUAM    7   13°26'40'' N, 144°44'12'' E
+NOUMEA  SEA          7   22°16'0'' S, 166°27'0'' E (New Caledonia - low confidence in this one)
+VAVAR                7   9°52'0'' S, 160°48'0'' E (possible misspelling of Vavao, Solomon Is. or could be 16°30'0'' S, 151°45'0'' W - French Polynesia)
+TIEUTSUI             7   39°8'0'' N, 117°12'0'' E (possible misspelling of Tientsin, China)
+SAN FRANCISCO BAY    7   37°49'37'' N, 122°25'18'' W
+ANCHOR               7   ????????????
+PORTUGAL             7   ???????????? (ditto comment re. Argentina)
+COWES AND RYDE       7   50°46'0'' N, 1°18'0'' W and 50°43'0'' N, 1°10'0'' W
+CALDEN HARBOUR       7   More info reqd (only place in Fuzzy G/ Google with this name is well inland, in Germany)   
+NORTH WALL DOCKYARD  7   More info reqd
+RUO AT HUDD          7   ????????????
+A ANCHORAGE          7   More info reqd (where is A?)
+SAN SIEGO            7   Could this be San Diego? 
+SEA ANCHORAGE IN APP 7   More info reqd (where is APP?)
+TUSCAN               7   Carribean (PB)
+GUIDE PIER COLOMBO   7    6°56'47'' N, 79°51'2'' E (as previous Colombo Harbour)
+KAMERAN              7   15°21'0'' N, 42°35'0'' E (misspelling of Kamaran [Island], Yemen) 
+NAVAL DOCKYARD BERMU 7   32°19'12'' N, 64°50'30'' W (Bermuda)
+ZUBAIR               7   15°3'0'' N, 42°10'0'' E (as previous Zubair Island, Yemen) 
+FRANCE               7   ???????????? (ditto comment re. Argentina)
+AHARON               7   (NZ (PB))
+CHARLESTOWN SC       7   32°46'35'' N, 79°55'52'' W (misspelling of Charleston, South Carolina, USA)
+CLYDE RIVER          7   More info reqd (several possibilities, apart from the one in Scotland)
+PENG CHAIN ROAD      7   More info reqd
+TOBAGA               7   11°15'0'' N, 60°40'0'' W (possible misspelling of Tobago)
+PENANY               7    5°24'0'' N, 100°14'0'' E (possible misspelling of Penang, Malaysia)
+HALE                 7   More info reqd (several possibilities)
+JOHN RIVER           7   More info reqd (possibly in New Brunswick, Canada)
+NORFOLK IS           7   29°2'0'' S, 167°57'0'' E (Australia)
+MITHEL               7   13°41'0'' N, 43°56'0'' E (possible misspelling of Mihel, Yemen)
+DELAWARE VALLEY      7   40°53'34'' N, 75°3'54'' W
+REGER                7   Morocco? (PB)
+ONEATA               7   18°53'0'' S, 178°30'0'' E (possible misspelling of Oneta, Fiji)
+WRANGELL             7   56°28'15'' N, 132°22'36'' W (Alaska)
+SAN JUAN             7   More info reqd (many possibilities)
+PABUA                7   Med. (PB)
+BALIKPAPAN           7    1°17'0'' S, 116°50'0'' E (Indonesia)
+BHARJAH              7   25° 0'0'' N, 55°45'0'' E (possible misspelling of Sharjah)
+KHOR ASH SHAMM       7   26°12'33'' N, 56°20'58'' E (Oman)
+HONG KONG SEA        7   22°18'0'' N, 114° 8'0'' E (or thereabouts)
+PORTO PRAYA          7   14°54'0'' N, 23°31'0'' W
+ST HELEN`S           7   More info reqd (several possibilities)
+AREHAUGEL            7   64°34'0'' N, 40°32'0'' E (possible misspelling of Archangel, Russia)
+MOOREA               7   17°32'0'' S, 149°50'0'' W (French Polynesia)
+NOUMEA FISHERMANS BA 7   22°16'0'' S, 166°27'0'' E (New Caledonia - low confidence in this one)
+LIFKUA               7   64°5'9'' N, 9°6'43'' E (possible misspelling of Leikua Island, Norway)
+KHOR ASH SHANNA      7   26° 12'33'' N, 56°20'58'' E (misspelling of Khor Ash Shamm, Oman) 
+AKUSEYOI             7   65°40'0'' N, 18°6'0'' W (possible misspelling of Akureyri, Iceland)
+PELAUS SOUND         7   possible misspelling of Pelorus Sound, South Island, New Zealand (unable to obtain co-ordinates from either Fuzzy G. or Google)  
+NAVAL DOCKYARD       7   More info reqd
+PERY MAIN TIC QUEY   7   55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)
+ST HELEN`S ROAD      7   More info reqd (several possibilities)
+ABADAN AND ASHAT     7   30°10'0'' N, 48°50'0'' E (as previous Abadan. No info. found re. Ashat)
+KHA JARMO            7   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+JUNK BAY HONG KONG   7   22°18'0'' N, 114°15'0'' E 
+JOHN RIVER STRAIT    7   More info reqd (possibly in New Brunswick, Canada)
+GRANGER              7   54°11'0'' N, 2°55'0'' W (Grange? UK (PB))
+NEW YORK PIER 88     7   40°46'5'' N, 73°59'48'' W 
+CHARLOTTE AMALIE     7   18°20'38'' N, 64°55'52'' W (USA Virgin Is.)
+BLACK RIVER BAY      7   Madagascar (PB)
+PORT VICTORIA, MAHI  7    4°37'0'' S, 55°27'0'' E
+SEGAMI WAN           7   35°15'1'' N, 139°25'1'' E (Japan)
+CHARLESTOWN          7   More info reqd (could be misspelling of Charleston, South Carolina, but several other possibilities) 
+HAVANNAH HARBOUR     7   (Near Tonga? (PB))
+LOURENCE MARQUES     7   26°0'0'' S, 32°30'0'' E (as previous Lourenco Marques, Mozambique)
+MAUREL BAY           7   South Africa (PB)
+LEYTA                7   11°22'0'' N, 124°30'0'' E (Phillipines (PB)) 
+HAIPHOUL             7   23°12'0'' N, 120°12'0'' E (possible misspelling of Hai-pu-li - Taiwan [low confidence] 
+NOUVEA               7   22°16'0'' S, 166°27'0'' E (possible misspelling of Noumea, New Caledonia)
+HONG KONG HARBOUR    7   22°17'0'' N, 114°10'0'' E (as previous Hong Kong Dockyard)
+AZEAU                7   35°51'6'' N, 0°19'17'' W (probable misspelling of Arzeu, Algeria)
+9 1 BERTH            7   More info reqd
+THORSHAUN            7   62°1'0'' N, 6°46'0'' W (assumed misspelling of Thorshavn, Faeroe Is.)
+MIDDLE DOCKS         7   More info reqd
+TREINSTIEN           7   39°8'0'' N, 117°12'0'' E (possible misspelling of Tientsin, China)
+PUNTA ARINAS         7   53°9'0'' S, 70°55'0'' W (assumed misspelling of Punta Arenas, Chile, but several other possibilities)
+PORT LEWIS           7   20°10'0'' S, 57°30'0'' E (taken as Port Louis, Mauritius)
+CANDIA               7   35°15'0'' N, 24°45'0'' E (Greece, but other possibilties in Haiti and Spain)
+LOWETOFT             7   52°29'0'' N,  1°45'0'' E (assumed misspelling of Lowestoft)
+TIC WARF TYNE        7   55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)
+MAURITIS             6   20°10'0'' S, 57°30'0'' E (taken as Port Louis, Mauritius)
+GREENOCK & GEARSON   6   55°56'0'' N, 4°45'0'' W (Greenock, no info. found re. Gearson)
+SCOTTS BASIN GREENOC 6   55°56'0'' N, 4°45'0'' W
+KHOR ABBAS           6   27°11'11'' N, 56°16'38'' E (possible alternative form of Bandar Abbas, Iran)
+METHILL              6   56°10'0'' N, 3°1'0'' W
+BASIN                6   ????????????
+T C Q NORTH SHIELDS  6   55°0'17'' N, 1°28'22'' W (as previous North Shields)
+FAKE BAY             6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+HONG KONG E 2 BERTH  6   22°17'0'' N, 114°10'0'' E (location of Hong Kong Dockyard)
+DEVONPORT & PLYMOUTH 6   50°22'0'' N,  4°11'0'' W (Devonport), 50°24'0'' N, 4°7'0'' W (Plymouth)
+SEYDISFJONDUR        6   65°18'0'' N, 13°50'0'' W (misspelling of Seydisfjördur)
+BOLOVIA              6   36°5'18'' N, 5°46'31'' W (possible misspelling of Bolonia, Spain)
+SINGAPORE N B        6    1°27'54'' N, 103°49'10'' E (as previous Singapore Naval Yard)
+BEYROUTH             6   33°52'19'' N, 35°30'35'' E (according to Fuzzy G. this is alternative spelling of Beirut, Lebanon)
+KLASAB BAY PG        6   26°12'13'' N, 56°14'56'' E (taken as Khasab Bay, Oman)
+GREENLOCK            6   55°56'0'' N, 4°45'0'' W (possible misspelling of Greenock)
+GRANDSEND BAY NY     6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+TOWNSEND             6   More info reqd (several possibilities in USA)
+VILA                 6   17°44'0'' S, 168°19'0'' E (Vanuatu, but several other possibilities)
+INDIAN ISLAND        6   More info reqd (several possibilities, mainly in USA)
+NAVAL BASE JOHOSEN   6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+KLASAB BAY           6   26°12'13'' N, 56°14'56'' E (taken as Khasab Bay, Oman)
+SOUTH NORFOLK        6   41°55'23'' N, 73°12'28'' W
+3D DOLPHIN           6   50°48'0'' N, 1°8'0'' W (taken as Gosport)
+KHAR KUWAI           6   26°21'14'' N, 56°21'48'' E (assumed misspelling of Khor Kuwai, Oman)
+NORTH WALL HONG KONG 6   22°18'0'' N, 114°12'0'' E (as previous North Arm Hong Kong)
+NTH SHIELDS          6   55°0'17'' N, 1°28'22'' W (as previous North Shields)
+PITCH HOUSE JETTY    6   More info reqd (could be Plymouth or Portsmouth)
+NA HONG KONG         6   22°18'0'' N, 114°12'0'' E (as previous North Arm Hong Kong)
+K G I WHARF          6   More info reqd
+MARSA HOKK           6   35°49'12'' N, 14°32'44'' E (misspelling of Marsaxlokk, Malta)
+ALEXANDRIA DOCK      6   31°11'53'' N, 29°55'9'' E (Egypt, but may be misspelling of Alexander)
+ROYALE ALBERTS DRY D 6   51°30'18'' N, 0° 3' 19'' E (co-ordinates are those of London City Airport, built near site of R.A.D.)
+SOUTH WALL           6   More info reqd
+13TH BERTH SOUTH SIN 6   More info reqd
+TEINGTAO             6   36°4'53'' N, 120°20'12'' E (now known as Qingdao, China)
+TARHOO DRY DOCK      6   22°17'0'' N, 114°13'0'' E (probable misspelling of Taikoo Dock, Hong Kong)
+GARELOCHEAD          6   56° 5'0'' N,  4°51'0'' W (as previous Garelochhead)
+MOSYTH               6   56°2'0'' N, 3°26'0'' W (probable misspelling of Rosyth) 
+NORTH ARM HONG KONG  6   22°18'0'' N, 114°12'0'' E
+NO 1 BATTLESHIP TROY 6   More info reqd
+HOLY INLET HOLY LOCH 6   55°59'0'' N, 4°55'0'' W (as previous Holy Loch, Scotland) 
+TAIHOO DOCK          6   22°17'0'' N, 114°13'0'' E (misspelling of Taikoo Dock, Hong Kong)
+SEEATHER HARBOUR     6   More info reqd (could this be Seattle Harbour?) 
+ALEXANDA DOCK        6   More info reqd (several possibilities)
+MATHEL               6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+BAUDAR ABBAI         6   27°11'11'' N, 56°16'38'' E (possible misspelling of Bandar Abbas, Iran)
+GUANTANAMA           6   20°8'43'' N, 75°12'22'' W (taken as Guantanamo, Cuba)
+GT BITTER LAKES      6   30°20'0'' N, 32°23'0'' E (as previous Great Bitter Lake)
+NAVAL BASE S`PORE    6    1°27'54'' N, 103°49'10'' E (as previous Singapore Naval Yard)
+NB                   6   ????????????
+MACHAS               6   13° 0'0'' N, 80°15'0'' E (Madras (PB)) 
+HARWICK              6   51°57'0'' N, 1°18'0'' E
+NO 8 WHARF           6   More info reqd
+NA AND NW HONG KONG  6   22°18'0'' N, 114°12'0'' E (as previous North Arm Hong Kong)
+KAUIPHA ROAD         6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+TYNE RIVER           6   54°59'17'' N, 1°37'10'' W (taken as Newcastle-upon-Tyne)
+NURVRA               6   16°31'0'' S, 178°48'0'' E (taken as Nuvera, Fiji)
+COCKATOO DOCKYARD    6   33°50'49'' S, 151° 10' 16'' E ( as previous Cockatoo Island)
+BROOKLYN NAVY YARD N 6   40°42'10'' N, 73°58'24'' W 
+WEST WALL KOWLOON    6   22°20'0'' N, 114°11'0'' E (as previous Kowloon)
+BANDAR MASKUR        6   30°32'45'' N, 49°10'49'' E (taken as Bandar Ma'shur, Iran
+FORTH ESTUANG        6   56°10'0'' N, 3°0'0'' W (assumed Firth of Forth, Scotland)
+MARLBOROUGH SOUNDS   6   41°0'0'' S, 174°15'0'' E (New Zealand)
+BALIKPAPEN           6    1°17'0'' S, 116°50'0'' E (misspelling of Balikpapan, Borneo)
+SEYDISJORDEN         6   65°18'0'' N, 13°50'0'' W (misspelling of Seydisfjördur)
+OF JETTY             6   ????????????  
+MIN RIVER            6   26°4'56'' N, 119°31'58'' E (China)  
+ADDU ATTOL           6   0°38'0'' S, 73°10'0'' E (Maldives)
+13 BERTH SCH         6   More info reqd 
+TAIL OF THE BANK CLY 6   55°59'0'' N,  4°50'0'' W (another variant of Tail of the Bank)
+S R JETTY            6   More info reqd
+LOCH                 6   More info reqd (which Loch?)
+THOMPSONS DRY DOCK   6   54°36'29'' N, 5°54'3'' W (Belfast)
+B5 BERTH             6   More info reqd
+NO 3 BERTH           6   More info reqd
+SAN DIEGO USA        6   32°42'55'' N, 117°9'23'' W (as previous San Diego, California)
+H.M. NAVAL BASE      6   More info reqd
+P. SUDAN             6   19°36'57'' N, 37°12'59'' E (assumed Port Sudan)
+METHIE               6   17°20'0'' N, 97°31'0'' E (possible misspelling of Methe, Burma)
+VIZAGAPATRON         6   17°42'0'' N, 83°18'0'' E (misspelling of Vizagapatam, India)
+CLAUDE               6   18°19'0'' N, 73°24'0'' W (Haiti)
+MIN RIVER OUTER BAR  6   26°4'56'' N, 119°31'58'' E (China) 
+T I C  BUOY NO SHIEL 6   55°0'17'' N, 1°28'22'' W (as previous North Shields)
+THE HOLY LOCH        6   55°59'0'' N, 4°55'0'' W
+ALEXANDER DOCK       6   More info reqd (several possibilities) 
+NURVERA              6   16°31'0'' S, 178°48'0'' E (alternative misspelling of Nuvera, Fiji)
+AFD                  6   ????????????
+LOCH LATHAICH        6   56°19'0'' N, 6°15'0'' W
+RTH BONNEY JETTY     6   More info reqd (what is RTH?)
+LAMLASH GREENOCK     6   55°32'0'' N, 5°9'0'' W
+N & E WALL           6   ????????????
+HONG KONG HARBOR     6   22°17'0'' N, 114°10'0'' E (as previous Hong Kong Dockyard)
+P HOUSE JETTY        6   More info reqd (assumed Pitch House Jetty, could be Plymouth or Portsmouth)
+UTAH ASSAULT AREA    6   49°25'5'' N, 1°10'35'' W 
+CAPRAIKEE SANTA      6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+B SHED PRINCESS DOCK 6   53°25'0'' N, 3°0'0'' W (Princess Dock, Liverpool)
+S CRUZ               6   More info reqd - many possibilities
+JAMES WALT DOCK      6   55°56'0'' N, 4°45'0'' W (assumed James Watt Dock, Greenock) 
+XAVALLA              6   40°56'23'' N, 24°24'7'' E (possible misspelling of Kavalla, Greece)
+LAE                  6   More info reqd (several possibilities)
+PORT SWITEHAM        6    3°0'0'' N, 101°24'0'' E (possible misspelling of Port Swettenham, Malaysia)
+NO 13 BUOY COLOMBO   6    6°56'47'' N, 79°51'2'' E (as previous Colombo Harbour)
+NANOONE              6   More info reqd (unable to obtain co-ordinates from either Fuzzy G.)
+LOCH EVE             6   57°48'0'' N, 5°40'0'' W (assumed misspelling of Loch Ewe)
+ASHAT (BASTA)        6   More info reqd (unable to obtain co-ordinates from either Fuzzy G.) 
+TRIALS               6   ????????????
+BALTIMORE USA        6   39°17'25'' N, 76°36'45'' W (Maryland)
+CAMPBELTON           6   18°21'0'' N, 78°17'0'' W (Jamaica, several other possibilities if spelling wrong)
+ASHAT (BOSTA)        6   More info reqd (could be Bostan, Iran?)
+A EDWARD DOCK        6   More info reqd
+LOCK RYAN            6   54°56'0'' N, 5°2'0'' W (as previous Loch Ryan, N.Ireland)
+BELFAST AIRPORT WHAR 6   unable to obtain co-ordinates from either Fuzzy G. or Google
+BOON DEFENCE PUR KOW 6   More info reqd
+FALKLAND ISLAND      6   51°42'0'' S, 57°51'0'' W (taken as Port Stanley)
+LA GUDIRA            6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+GUANTANAMO           6   20°8'43'' N, 75°12'22'' W (Cuba) 
+BAKHAR               6   26°8'35'' N, 56°9'10'' E (probable misspelling of Bakha, Oman) 
+IN LOCK              6   ????????????
+NORTH WALL           6   More info reqd
+TONGKU               6   22°23'0'' N, 113°53'0'' E (Hong Kong)
+GREENOCK & BELFAST   6   55°56'0'' N,  4°45'0'' W and 54°36'0'' N, 5°54'0'' W
+FERNANDO             6   More info reqd (several possibilities)
+COCHIN BERTH NO 9    6    9°58'0'' N, 76°14'0'' E (as previous Cochin)
+ROTHSAY BAY          6   55°50'0'' N,  5° 4'0'' W (as previous Rothesay)
+LANZA                6   More info reqd - several possibilities  
+KOTOR                6   42°25'48'' N, 18°46'12'' E (Montenegro) 
+EDENBURGH            6   55°57'0'' N, 3°12'0'' W (assumed misspelling of Edinburgh, Scotland) 
+BELFAST LOGH         6   54°40'0'' N, 5°36'0'' W (as previous Belfast Lough)
+BOOM DEFENCE PIER    6   ???????????? (where?)
+DECEMBER             6   ????????????
+P SUDAN              6   19°36'57'' N, 37°12'59'' E (as previous Port Sudan)
+KOR GHUBB ALI        6   26°15'48'' N, 56°21'26'' E
+NO 47 BERTH          6   More info reqd 
+LOCHLONG             6   56°5'0'' N, 4°52'0'' W (alternatively 57°18'0'' N, 5°30'0'' W)
+BAUDAR ABBAS PERSIAN 6   27°11'11'' N, 56°16'38'' E (probable misspelling of Bandar Abbas, Iran)
+ALBERTA              6   55°38'0'' N, 13°19'0'' E (Sweden - most likely of several possibilities)
+WHAMPOO              6   22°18'0'' N, 114°11'0'' E (possible misspelling of Whampon Dock, Hong Kong)
+GLASGOW & GREENOCK   6   55°52'0'' N, 4°19'0'' W and 55°56'0'' N,  4°45'0'' W
+STOKES BAY SOLENT    6   50°46'0'' N, 1°10'0'' W
+MAGIL                6   30°33'6'' N, 47°47'50'' E (Iraq)
+TAMATIVE             6   18°10'0'' S, 49°23'0'' E (Madagascar)
+NEPTUNE YARD         6   54°59'29'' N, 1°33'35'' W (Wallsend, UK)
+COLO (PANAMA)        6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+KHIOS ISLAND         6   38°24'21'' N, 26°1'28'' E (Greece)
+NORTH WALL ALBERT    6   More info reqd
+MANDAPAN             6   9°49'0'' N, 80°9'0'' E (Sri Lanka) or could be 9°17'0'' N, 79°7'0'' E (India - assumed misspelling of Mandapam)
+NO 2 ROSYTH          6   56°2'0'' N, 3°26'0'' W (as previous Rosyth)
+POR D JANEIRO        6   22°54'0'' S, 43°14' 0'' W (assumed Rio de Janeiro, Brazil)
+CROSSING BAY         6   ????????????
+BALHURST             6   Is this a misspelling of Bathurst? If so several possibilities 
+RIVER PLATE          6   35°0'0'' S, 57°0'0'' W
+AKYAB (BURMA)        6   20°9'0'' N, 92°54'0'' E
+HAMBLIN ROADS        6   More info reqd (could be misspelling of Hamlin, in which case several possibilities)
+CRANKY IS            6   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+SERAGOON             6   1°24' 0'' N,  103°56' 0'' E (misspelling of Serangoon Harbour)
+LYNESS               5   58°50'0'' N, 3°12'0'' W
+LOCH GOIL            5   56°8'0'' N, 4°53'0'' W (as previous Loch Goil)
+49 BERTH             5   More info reqd
+TAI PO               5   22°18'0'' N, 113°57'0'' E or 22°27'0'' N, 114°10'0'' E (both Hong Kong)
+POUTA DELGADA        5   37°44'0'' N, 25°41'0'' W (assumed misspelling of Punta Delgada, Azores, but several other possibilities)
+LAFSAMI ISLAND       5   22°8'2'' N, 113°49'32'' E (China)
+LERSICK              5   60°9'0'' N, 1°9'0'' W (assumed misspelling of Lerwick, Shetland)
+THE SOUND            5   More info reqd (several possibilities)
+PORT BALLANTYNE      5   55°51'45'' N, 5°3'38'' W (possible misspelling of Port Bannatyne, Isle of Bute, Scotland) 
+WEST WALL BASIN BOMB 5   18°56'53'' N, 72°51'8'' E (Bombay?)
+SHEERNESS & CHATHAM  5   51°26'0'' N, 0°46'0'' E and 51°23'0'' N, 0°31'0'' E
+PANAMA CANAL         5    9°20'0'' N, 79°55'0'' W (as previous Panama Canal)
+TONGUE L VESSEL      5   unable to obtain co-ordinates from either Fuzzy G. or Google
+ROTTERDAM            5   51°55'0'' N, 4°30'0'' E
+ARROCHAN             5   56°12'0'' N, 4°44'0'' W (probable misspelling of Arrochar, Scotland)
+LOCH LACHAICH        5   56°19'0'' N, 6°15'0'' W (probable misspelling of Loch Lathaich, Scotland)
+T.I.C. DOCK          5   55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)
+SALEN BAY            4   54°11'1'' N, 10°1'48'' W (taken as Saleen Bay, Ireland)
+RINNIGILL PIER       4   58°49'36'' N, 3°10'57'' W
+OBAMA                4   More info reqd (several possibilities, mostly in Japan, 1 in Nigeria)
+GRANTON ROADS        4   55°58'0'' N, 3°13'0'' W (Edinburgh)
+LANCASTER            4   More info reqd (several possibilities)
+PRINCES D            4   55°51'0'' N, 4°19'0'' W (taken as Govan, Glasgow)
+GOVAN DOCK           4   55°51'0'' N, 4°19'0'' W (taken as Govan, Glasgow)
+TARAWA               4    1°25'0'' N, 173°2'0'' E 
+DREGES HARBOUR       4   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+NO 2 BASIN PORTSMOUT 4   50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+T.I.C. Q.            4   55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)
+CAMPBELTOWN AREA     4   55°26'0'' N, 5°38'0'' W (as previous Campeltown)
+POINT CRUZ           4    9°25'0'' S, 159°57'0'' E (Solomon Is.)
+LERIVIEW             4   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google - lokks like a misspelling)
+TIVAT                4   42°26'11'' N, 18°41'46'' E (Yugoslavia/ Montenegro)
+PORT GLASGOW         4   55°56'0'' N, 4°42'0'' W (Scotland, but could be 10°22'0'' S, 149°32'0'' E - Papua New Guinea)
+BURNIE               4   41°4'0'' S, 145°55'0'' E (Tasmania)
+H2 BURY              4   More info reqd (several possibilities)
+AFD XX               4   ????????????
+TANGTAO              4   More info reqd (several possibilities with similar spelling in China and Vietnam)
+PORT KEMBLA          4   34°26'0'' S, 150°49'0'' E (New South Wales, Australia)
+MERSEY BAY           4   53°32'0'' N, 3°12'0'' W
+CATACOL BAY          4   55°41'0'' N, 5°20'0'' W (Scotland)  
+ARENAUGEL            4   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google) 
+FLINDERS NAVAL DEPOT 4   38°23'0'' S, 145°13'0'' E (Victoria, Australia)
+DOLPHIN              4   50°48'0'' N, 1°8'0'' W (taken as Gosport)
+XYZ AREAS            4   ????????????
+CAMPBELTON AREA      4   55°26'0'' N, 5°38'0'' W (as previous Campeltown)
+BERKLEY              4   36°49'54'' N, 76°17'3'' W (Virginia, USA)
+NO 2 DOCK            4   More info reqd
+STROUL BAY           4   56°1'0'' N, 4°49'0'' W (Rosneath, Scotland)
+AIROCHAR             3   56°12'0'' N, 4°44'0'' W (probable misspelling of Arrochar, Scotland)
+TAILOM BAY           3   22°24'0'' N, 114°23'0'' E (possible misspelling of Tai Long Bay, Hong Kong)
+LAZARELLO CIRCLE     3   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+TAIKOO               3   22°17'0'' N, 114°13'0'' E (as previous Taikoo Dock, Hong Kong)
+DOUBLE HAVEN         3   22°31'0'' N, 114°18'0'' E (Hong Kong)
+DERWICK              3   58°58'0'' N, 2°44'0'' W (could be Den Wick, Scotland [low confidence])
+BARROWS              3   More info reqd - 3 places listed in Fuzzy G, none look likely)
+GREAT LADRONE        3   21°57'0'' N, 113°43'0'' E (China)
+LONDON DOCKS         3   51°30'18'' N, 0° 3' 19'' E (as previous King George V Dock)
+THURSO BAY           3   58°37'0'' N, 3°31'0'' W
+TAIPO                3   22°18'0'' N, 113°57'0'' E or 22°27'0'' N, 114°10'0'' E (as previous Tai Po, both Hong Kong)
+TAIO                 3   22°15'0'' N, 113°52'0'' E (Hong Kong)
+LATMAN               3   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+PORT GOVAN           3   55°51'0'' N, 4°19'0'' W (as previous Govan, Glasgow)
+HAMILTON BERMUDA     3   32°17'39'' N, 64°47'2'' W
+HASLAR CREEK PORTSMO 3   50°48'0'' N, 1°8'0'' W (Haslar Creek, as previous Gosport)
+RISAHALLY            3   55°0'0'' N, 7°20'0'' W (probable misspelling of Lisahally - Londonderry Port, N.Ireland) 
+T.C.  QUAY           3   55°0'17'' N, 1°28'22'' W (assumed to be at North Shields)
+BERKLEY YARD         3   36°49'54'' N, 76°17'3'' W (as previous Berkley, Virginia, USA)
+VERNON PIER          3   25°15'0'' S, 152°49'0'' E (could be Vernon Point, Queensland, Australia [low confidence])
+SORRABAYA            3    7°15'0'' S, 112°45'4'' E (probable misspelling of Sourabaya, Indonesia)
+BART LONDON          3   More info reqd (6 places listed as Bart in Fuzzy G. none close to London) 
+TAIL OF BANK CLYDE   3   55°59'0'' N,  4°50'0'' W (another variant of Tail of the Bank)
+AFD VII              3   ????????????
+PORT SUNLIGHT        3   53°20'0'' N, 2°59'0'' W
+ROTHESAY CLYDE       3   55°50'0'' N,  5° 4'0'' W (as previous Rothesay)
+JOANA BAY            3    2°48'0'' N, 104°13'0'' E (possible misspelling of Joara Bay, Malaysia)
+FLOATING DOCK PORTSM 3   50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+AREA T               2   ????????????
+SKIPNESS BAY         2   55°45'0'' N, 5°21'0'' W
+HEUTRICH             2   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+DEVONPORT DOCKYARD   2   50°22'0'' N,  4°11'0'' W
+THE PIRAEUS          2   37°57'41'' N, 23°38'20'' E (Greece)
+CLYDE REVIEW         2   ????????????
+SHOTLEY              2   51°58'0'' N, 1°15'0'' E
+HONG KONG DOCKYARD   2   22°17'0'' N, 114°10'0'' E (as previous)
+TOILOM BAY           2    7°2'0'' N, 125°33'0'' E (possible misspelling of Talomo Bay, Phillipines) 
+LOCH GOLL            2   56°8'0'' N, 4°53'0'' W (taken as Loch Goil)
+SINGAPORE NAVAL      2    1°27'54'' N, 103°49'10'' E (as previous Singapore Naval Yard)
+WALRIS BAY           2   22°55'0'' S, 14°28'0'' E (probable misspelling of Walvis Bay, Namibia)
+RAF BASE SELETAR     2    1°24'36'' N, 103°52'27'' E (as previous Seletar, Singapore)
+ALBATATE MASA        2   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)  
+PORT LINCOLN         2   34°44'0'' S, 135°55'0'' E (South Australia)
+GREAT HARBOUR GREENO 2   55°57'0'' N, 4°43'0'' W
+TOURABAYA            2    7°15'0'' S, 112°45'4'' E (possible misspelling of Sourabaya, Indonesia)
+BAYOMORE NY          2   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+IEMAILIA             2   30°35'0'' N, 32°16'0'' E (misspelling of Ismailia, Egypt)
+IN HARBOUR EAST LOND 2   33°2'0'' S, 27°55'0'' E (South Africa)
+TAI O                2   22°15'0'' N, 113°52'0'' E (as previous Hong Kong)
+BUTE SOUND           2   55°44'0'' N, 5°12'0'' W
+AROCHIAR             2   56°12'0'' N, 4°44'0'' W (probable misspelling of Arrochar, Scotland)
+TAIWAN BAY           2   22°16'0'' N, 114°14'0'' E (possible misspelling of Saiwan Bay, Hong Kong)
+HONG  KONG           2   22°17'0'' N, 114°10'0'' E (as previous Hong Kong Dockyard)
+INCHMARNOCK          2   55°47'0'' N, 5°9'0'' W
+LUNE                 2   54°00'0'' N, 2°54'0'' W or could be 43°25'0'' S, 146°54'0'' E - Tasmania
+LONG HARBOR          2   22°27'0'' N, 114°21'0'' E (Hong Kong, but 3 other possibilities in Canada)
+ROYAL AIR FORCE BASE 2   More info reqd
+FRENCH COAST         2   ????????????
+SOUTHPOINTE          2   33°1'27'' N, 80°8'57'' W (South Carolina, USA)
+LONDONDERRY AND MOVI 2   55°0'0'' N, 7°20'0'' W (assumed Londonderry, N.Ireland, but several others in USA) 
+HMS DOLPHIN          2   50°48'0'' N, 1°8'0'' W (taken as Gosport)
+LOCH GAILHEAD        2   56°8'0'' N, 4°53'0'' W (probable misspelling of Loch Goil)
+WOLFE                1   45°45'0'' N, 71°30'0'' W (Quebec, Canada)
+OCEAN ISLAND         1   0°53'0'' S, 169°32'0'' E (Kiribati, or could be 50°32'0'' S, 166°16'0'' E (New Zealand)
+RIVER YARROW         1   29°42'0'' S, 152°3'0'' E (New South Wales, Australia)
+CHUNG CHAU           1   22°13'0'' N, 114°1'0'' E (assumed Cheung Chau, Hong Kong)
+MIRES BAY            1   More info reqd (could be misspelling of Miners Bay, in which case several possibilities)
+E DOCKYARD CREEK     1   More info reqd
+CATTEDOWN WHARF      1   50°22'0'' N, 4°7'0'' W (Plymouth, Devon)
+LANTAO               1   22°15'0'' N, 113°56'0'' E (Hong Kong)
+PAK LEAK             1   21°59'0'' N, 113°46'0'' E (China)
+W`RN PORT            1   ????????????
+PORTSMOUTH D 4       1   50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+ARRICHAR             1   56°12'0'' N, 4°44'0'' W (probable misspelling of Arrochar, Scotland)
+MALTAR               1   35°55'0'' N, 14°26'0'' E (assumed misspelling of Malta [Mediterranean] but several other possibilities)
+JERVIS               1    0°24'0'' S, 90°42'0'' W (Galapagos, Equador)
+PENG CHAN HOI        1   22°29'0'' N, 114°11'0'' E (possible misspelling of Pinh Shan Chai, Hong Kong)
+STANLEY              1   More info reqd (several possibilities)
+ST DUNDEE            1   56°30'0'' N, 2°58'0'' W (assumed to be in Scotland, but several other possibilities)
+LARIAT               1   More info reqd (looks like a misspelling, as both places with this name are well inland in USA)
+NO 2 TROT            1   ????????????
+LAMBASA              1   16°25'0'' S, 179°23'0'' E (Fiji)
+NO 5 WHARF           1   ????????????
+CATTEDOWN            1   50°22'0'' N, 4°7'0'' W (Plymouth, Devon)
+HIGH SHIELDS         1   54°59'16'' N, 1°25'17'' W (part of South Shields, UK)
+CYCLOP               1   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+GRANDON ROADS        1   19°27'0'' N, 71°52'0'' W (Haiti)
+B BURY               1   ????????????
+FORT BLOCHOUSE       1   50°48'0'' N, 1°8'0'' W (taken as Gosport)
+TYNE DOCK            1   54°59'16'' N, 1°25'17'' W (South Shields, UK)
+SKIPNESS             1   55°46'0'' N, 5°21'0'' W
+ADAMANT              1   13°45'0'' N, 44°15'0'' E (possible misspelling of Adamat, Yemen)
+TOBERMARY            1   56°38'0'' N, 6°5'0'' W (probable misspelling of Tobermory, Scotland)
+NALLACCA             1    2°11'49'' N, 102°14'53'' E (Malaysia, but 4 other possibilities)
+PORT SHELTON         1   47°12'55'' N, 123°5'58'' W (Washington, USA)
+HOLYLOCH             1   55°59'0'' N, 4°55'0'' W (as previous Holy Loch)
+MASLAR CREEK PORTSMO 1   50°48'0'' N, 1°8'0'' W (Haslar Creek, as previous Gosport)
+DELAWARE RIVER       1   39°25'57'' N, 75°31'45'' W
+DEVONPORT NORTH YARD 1   50°22'0'' N,  4°11'0'' W
+CALLEDAN             1   51°31'0'' N, 0°3'0'' W (possible misspelling of Caledonian Wharf, London)
+LOCH GORE            1   More info reqd (looks like a misspelling)
+NO 5 BERTH           1   More info reqd
+ABERDEEN HARBOUR     1   22°15'0'' N, 114°9'0'' E (Hong Kong) 
+KAMBASA              1   37°59'0'' N, 23°52'0'' E (possible misspelling of Kambas, Greece [low confidence])
+BARROW-IN-FURNESS    1   54°7'0'' N, 3°14'0'' W (as previous Barrow in Furness)
+YARMONTH ROADS       1   52°35'0'' N, 1°47'0'' E (assumed Yarmouth Roads, UK)
+WAYALLA              1   More info reqd (unable to obtain co-ordinates from either Fuzzy G. or Google)
+ROCKY ISLE           1   10°46'0'' N, 119°18'0'' E (Phillipines)
+CALLEDAN WHARF       1   51°31'0'' N, 0°3'0'' W (possible misspelling of Caledonian Wharf, London)
+TAIKOO DOCKYARD      1   22°17'0'' N, 114°13'0'' E (as previous Taikoo Dock, Hong Kong)
+NO 1 WHARF           1   ????????????
+NO 7 TROT PORTSMOUTH 1   50°49'0'' N,  1°7'0'' W (as previous Portsmouth)
+SINGAPORE RAILS      1    1°17'0'' N, 103°51'0'' E (as previous Singapore Roads)
+FORTH                1   56°10'0'' N, 3°0'0'' W (assumed Firth of Forth, Scotland)
+TIDAL BASIN          1   ????????????
+AFD 10               1   ????????????

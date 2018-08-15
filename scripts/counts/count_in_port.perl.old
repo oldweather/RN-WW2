@@ -1,0 +1,35 @@
+#!/usr/bin/perl
+
+# Count the number of in-port observations
+#  and the number with positions.
+
+use strict;
+use warnings;
+use FindBin;
+
+open( DIN, "$FindBin::Bin/../fixed_data/locations.processed" ) or die;
+my %Known;
+while (<DIN>) {
+    my @Fields = split /\t/;
+    $Fields[0] =~ s/\W+$//;
+    $Known{ $Fields[0] } = 1;
+}
+close(DIN);
+open( DIN, "$FindBin::Bin/../fixed_data/port_list" ) or die;
+my %Counts;
+while (<DIN>) {
+    my $Port = substr($_,0,21);
+    my $Number = substr($_,21);
+    chomp($Number);
+    $Port =~ s/\W+$//;
+    $Counts{$Port} = $Number;
+}
+close(DIN);
+
+my $In=0;
+my $Out=0;
+foreach ( keys(%Counts) ) {
+    if(exists($Known{$_})) { $In += $Counts{$_}; }
+    else { $Out += $Counts{$_}; }
+}
+printf "%d %d %g\n",$In,$In+$Out,$In/($In+$Out);

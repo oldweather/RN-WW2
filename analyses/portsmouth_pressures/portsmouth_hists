@@ -1,0 +1,16 @@
+load "/home/hc1300/hadpb/.gp_line_styles"
+set style data histogram
+set style histogram cluster gap 1
+set style fill solid
+set boxwidth 0.9
+plot 'hist.data' u 2 title 'Boreas' ls 1,\
+'' u 3 title 'Challenger' ls 2,\
+'' u 4 title 'Coventry  ' ls 3,\
+'' u 5 title 'Dispatch  ' ls 4,\
+'' u 6 title 'Dunedin   ' ls 5,\
+'' u 7 title 'Enterprise' ls 6,\
+'' u 8 title 'Manchester' ls 7,\
+'' u 9 title 'Nelson    ' ls 8,\
+'' u 10 title 'Rodney    ' ls 9,\
+'' u 11 title 'Velox     ' ls 10,\
+'' u 12 title 'Wrestler  ' ls 12

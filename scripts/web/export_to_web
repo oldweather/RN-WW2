@@ -1,0 +1,2 @@
+# Shell script for transfering new obs to brohan.org
+rsync -avz -e ssh --copy-links --delete --exclude=gridded_fields --exclude=tenday_files --exclude=hacked_mds --exclude=jk_analysis /home/hc1300/hadpb/tasks/digitisation/rn_ww2_data/ hadobs@brohan.org:/var/www/hadobs/digitised_obs
