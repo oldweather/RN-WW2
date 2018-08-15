@@ -8,4 +8,4 @@ This is an old dataset. In particular it predates my realisation that configurat
 
 However it *does* include the IMMA records sent to ICOADS; the original, as-digitised, records from which they were made; and the code used to do the conversion. So if we need to revisit these observations, it is at least possible.
 
-This dataset is distributed under the terms of the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/]. All code included is distributed under the terms of the [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl.html).
+This dataset is distributed under the terms of the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). All code included is distributed under the terms of the [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl.html).
